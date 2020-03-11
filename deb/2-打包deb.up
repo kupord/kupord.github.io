@@ -1,0 +1,3 @@
+bash -c "cd /Users/me/Documents/GitHub/repo/repo; ./打包.sh"
+rm -r -f /Users/me/Documents/GitHub/repo/deb/a
+exit

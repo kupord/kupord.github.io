@@ -1,0 +1,2 @@
+bash -c "cd /Users/me/Documents/GitHub/repo/repo; ./生成b2z.sh;"
+exit

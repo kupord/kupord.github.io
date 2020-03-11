@@ -1,0 +1,4 @@
+bash -c "cd /Users/me/Documents/GitHub/repo/repo; ./权限.sh"
+open -a TextEdit /Users/me/Documents/GitHub/repo/deb/a/DEBIAN/control
+exit
+
