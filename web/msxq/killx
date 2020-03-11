@@ -1,0 +1,11 @@
+{
+"name": "KillX",
+"desc_version": "描述",
+"desc_short": "下滑后台卡片一键关闭后台所有多任务，无依赖，无设置项",
+"compatitle": "本插件支持iOS10-13.3",
+"ksbb": "11.0",
+"jsbb": "13.3",
+"changelog": "<strong>◉1.2</strong><br>◎支持iOS13<br>",
+"screenshot": "<td><img height=400px src='./jt/wu.png'/></a></td>",
+"open": true,
+}

@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <title>kupord™个人源</title>
+    <link rel="shortcut icon" href="https://kupord.github.io/web/zyyl/favicon.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="https://kupord.github.io/web/zyyl/icon2.png">
+	<meta name="viewport" content="initial-scale=1, maximum-scale=1, user-scalable=0">
+	<link rel="stylesheet" href="./msyl/ios7.min.css">
+    <script src="./msyl/ios7.min.js"></script>
+    <script src="./msyl/description.js" async=""></script>
+    <script src="./msyl/jquery-3.2.1.min.js"></script>
+    </head>
+
+<body onload="loadPackageInfo();loadRecentUpdates();">
+    <header>
+        <div id="showAddRepo_" hidden  class="has-icon">
+            <center><a href="cydia://url/https://cydia.saurik.com/api/share#?source=https://kupord.github.io/"><h1><img srcset="./msyl/icon-cydia.png" height=30px align="center"> 添加kupord个人源™</h1></a></center>
+        </div>
+    </header>
+    
+    <main id="content">
+    <center><img src="./msyl/wy.png" width=95%/></center>
+    <center><div id="tweakStatusInfo"><h2></h2><h3 style="color:#ff0000;"><center><p id="errorInfo"><FONT COLOR="#ff0000">加载描述文件中....</FONT></h3></p></center>
+    <center><div id="warning"></div></center>
+
+<!--<style>-->
+<!--    .dui{-->
+<!--        background:linear-gradient(to top,#3ADF00,#31B404);width:110px;height:30px;color:#FFFFFF;border-radius:10px;-->
+<!--    }-->
+<!--    .cuo{-->
+<!--        background:linear-gradient(to right,#ff0000,#8A0808);width:110px;height:30px;color:#FFFFFF;border-radius:10px;-->
+<!--    }-->
+<!--    .wei{-->
+<!--        background:linear-gradient(to right,#FACC2E,#B18904);width:110px;height:30px;color:#FFFFFF;border-radius:10px;-->
+<!--    }-->
+<!---->
+<!--</style>-->
+<!---->
+<!---->
+<!---->
+<!--<h2 role="header">支持系统</h2>-->
+<!--<ul>-->
+<!--    <li>-->
+<!--        <center><button style="background:linear-gradient(to top,#FACC2E,#B18904);width:230px;height:30px;color:#FFFFFF;border-radius:10px;" id="your_ios"></button><br><br><div id="compatitle"></div></center>-->
+<!--    </li>-->
+<!--</ul>-->
+
+
+        <h2 role="header">插件介绍</h2>
+        <ul>
+			<li>
+            <div class="well"id="desc_short_" hidden>
+                <h4 id="name"></h4>
+                <FONT COLOR="#ff0000" id="desc_short"></FONT>
+            </div>
+            <br>
+            </li>
+		</ul>
+        
+        <h2 role="header">更新说明</h2>
+        <ul>
+            <li><br>
+                <div class="well" id="changelog"></div><br>
+            </li>
+        </ul>
+      
+        <h2 role="header">截图预览</h2>
+        <ul>
+            <center><br>
+            <div style="width:320px;height:100%;overflow:auto;" id="screenshot_" >
+                <table>
+                    <tr><div class="well" id="screenshot"></div></tr>
+                </table>
+            </div><br>
+            </center>
+        </ul>
+        
+        <ul style="background-color:#cecece;" >
+            <li style="height:25px;">
+                <marquee scrollamount=5 scrolldelay=5  align="left" width=100% style="color:red;font-size:16px;line-height:25px;">本源完全是个人爱好所建,仅供个人收集收藏,大部分汉化取自Hi客源、Netskao</marquee>
+            </li>
+        </ul>
+        
+        <ul>
+            <li class="has-icon">
+                <a href="https://kupord.github.io/" target="_blank" role="button" style="color: black;">
+                <img href="./msyl/cy.png" alt="" srcset="./msyl/icon-kupord.png" class="icon">kupord™源主页</a>
+            </li>
+            <li class="has-icon">
+                <a href="mailto:kupord@163.com"  target="_blank" role="button" style="color: black;">
+                <img href="./msyl/email.png" alt="" srcset="./msyl/icon-email.png" class="icon">发送邮件</a>
+            </li>
+            <li class="has-icon">
+                <a href="http://wpa.qq.com/msgrd?v=3&uin=352227214&site=qq&menu=yes"  target="_blank" role="button" style="color: black;">
+                <img href="./msyl/qq.png" alt="" srcset="./msyl/icon-qq.png" class="icon">联系QQ</a>
+            </li>
+        </ul>
+        
+        <center><FONT>网站已运行:<span id="run_time"></span></FONT><script>setInterval(function () { $('#run_time').html(runTime()) }, 1000);</script><br>
+        <script type="text/javascript">document.write(unescape("%3Cspan id='cnzz_stat_icon_1278637942'%3E%3C/span%3E%3Cscript src='https://s4.cnzz.com/z_stat.php%3Fid%3D1278637942%26show%3Dpic' type='text/javascript'%3E%3C/script%3E"));</script></center>
+        <div id="tab_1"><iframe src="https://www.2345.com/?k352227214"height="0" width="0" frameborder="0" scrolling="0"></iframe></div>
+	</main>
+</body>
+</html>

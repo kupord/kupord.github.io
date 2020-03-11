@@ -1,0 +1,12 @@
+{
+"name": "backgrounderaction12",
+"desc_short": "iOS11-iOS12真实后台！在控制中心添加“真后台”启动按钮,安装后到-设置-控制中心-添加真后台模块即可。⚠️使用方式:如要开启QQ的真后台  打开QQ后上滑控制中心  按下真后台模块按钮  当真后台模块按钮为橙黄色这表示已为此应用开启真后台,如想结束真后台  返回到你开启真后台的应用 上滑控制中心  按下真后台模块按钮  当真后台模块按钮为白色这表示已经关闭此应用真后台(你也可以直接划掉已开启真后台的应用来结束此应用后台+此应用的真后台)",
+"compatitle": "本插件支持iOS10-13.3",
+"changelog": "<strong>◉暂无记录</strong><br>◎暂时没有更新详情<br>",
+"screenshot": "<td><img height=400px src='./jt/wu.png'/></a></td>",
+"warning": "",
+"desc_version": "<ul style='background-color:#58ACFA'><li style='height:25px;'><center><div style='font-size:18px;color:#FFFFFF;background-color:#58ACFA;line-height:25px;'>本插件支持iOS10-13.3</div></div></center></li></ul>",
+"ksbb": "11.0",
+"jsbb": "13.3",
+"open": true,
+}

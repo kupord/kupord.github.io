@@ -1,0 +1,11 @@
+{
+"name": "Filza",
+"desc_version": "描述",
+"desc_short": "越狱必备插件，文件管理器，破解版<br>如果没有自动激活，请手动点击激活，激活失败检查Filza联网权限，用iCleaner Pro删除Filza的配置文件进行激活",
+"compatitle": "本插件支持iOS10-12",
+"ksbb": "11.0",
+"jsbb": "13.3",
+"changelog": "<strong>◉暂无记录</strong><br>◎暂时没有更新说明<br>",
+"screenshot": "<td><img height=400px src='./jt/wu.png'/></a></td>",
+"open": true,
+}

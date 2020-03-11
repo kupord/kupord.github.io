@@ -1,0 +1,9 @@
+{
+"name": "AutoFolderClose",
+"desc_short": "启动应用程序时关闭文件夹。完美支持13",
+"compatitle": "<button class='dui'>支持iOS13</button>&nbsp;<button class='cuo'>不支持A12+</button>",
+"changelog": "<strong>◉暂无记录</strong><br>◎暂时没有更新详情<br>",
+"warning": "",
+"screenshot": "<td><img height=400px src='./jt/wu.png'/></td>",
+"open": true,
+}

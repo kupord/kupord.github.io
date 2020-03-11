@@ -1,0 +1,12 @@
+{
+"name": "描述文件破解插件",
+"desc_short": "允许iOS设备安装不可安装的描述文件，比如13设备上安装tvOS13屏蔽更新，安装后即可卸载本插件，只要你描述文件不删除，越狱未越狱都有效<br><a href='https://kupord.github.io/web/zyyl/tvos13.mobileconfig'>点击安装描述文件tvOS13</a>",
+"compatitle": "本插件支持iOS10-13.3",
+"changelog": "<strong>◉暂无记录</strong><br>◎暂时没有更新详情<br>",
+"screenshot": "<td><img height=400px src='./jt/wu.png'/></a></td>",
+"warning": "",
+"desc_version": "<ul style='background-color:#58ACFA'><li style='height:25px;'><center><div style='font-size:18px;color:#FFFFFF;background-color:#58ACFA;line-height:25px;'>本插件支持iOS10-13.3</div></div></center></li></ul>",
+"ksbb": "11.0",
+"jsbb": "13.3",
+"open": true,
+}

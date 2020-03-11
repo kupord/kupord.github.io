@@ -1,0 +1,12 @@
+{
+"name": "AdaptiveDarkMode",
+"desc_short": "AdaptiveDarkMode 包含多种自动切换深色/浅色模式的方式，<br>可以根据亮度，支持自定义亮度阈值。<br>低电量模式开启深色。,勿扰模式开启深色。<br>选择开启浅色和深色模式的应用。",
+"compatitle": "本插件支持iOS10-13.3",
+"changelog": "<strong>◉暂无记录</strong><br>◎暂时没有更新详情<br>",
+"screenshot": "<td><img height=400px src='./jt/wu.png'/></a></td>",
+"warning": "",
+"desc_version": "<ul style='background-color:#58ACFA'><li style='height:25px;'><center><div style='font-size:18px;color:#FFFFFF;background-color:#58ACFA;line-height:25px;'>本插件支持iOS10-13.3</div></div></center></li></ul>",
+"ksbb": "11.0",
+"jsbb": "13.3",
+"open": true,
+}

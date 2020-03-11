@@ -1,0 +1,11 @@
+{
+"name": "3DBadgeClear",
+"desc_version": "描述",
+"desc_short": "使用长按或者3D Touch菜单来清理桌面角标.",
+"compatitle": "本插件支持iOS10-13.3",
+"ksbb": "data-min-ios='11.0' data-max-ios='14.0' class='prerequisite'",
+"jsbb": "<li data-min-ios='11.0' data-max-ios='14.0' class='prerequisite'><p>无法检测当前系统是否支持</p></li>",
+"changelog": "<strong>◉暂无记录</strong><br>◎暂时没有更新说明<br>",
+"screenshot": "<td><img height=400px src='./jt/wu.png'/></a></td>",
+"open": true,
+}

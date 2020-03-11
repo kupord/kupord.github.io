@@ -1,0 +1,11 @@
+{
+"name": "Snapper2",
+"desc_short": "智能截图，自定义截图区域，也可以使用Ac手势截图",
+"desc_version": "历史版本",
+"compatitle": "本插件支持iOS11-12",
+"ksbb": "11.0",
+"jsbb": "12.4.2",
+"changelog": "<strong>◉暂无记录</strong><br>◎暂时没有更新说明<br>",
+"screenshot": "<td><img height=400px src='./jt/wu.png'/></a></td>",
+"open": true,
+}

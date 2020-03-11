@@ -1,0 +1,11 @@
+{
+"name": "kupord盲文字体(iOS11-13)",
+"desc_version": "描述",
+"desc_short": "单独盲文字体 自动识别iOS11~13系统安装 卸载后自动还原",
+"compatitle": "本插件支持iOS11-13.3",
+"ksbb": "11.0",
+"jsbb": "13.3",
+"changelog": "<strong>◉V2.2</strong><br>◎第二版<br><br><strong>◉V1.1</strong><br>◎第一版<br>",
+"screenshot": "<td><img height=400px src='./jt/mwzt2.png'/></a></td><td><img height=150px src='./jt/mwzt2-1.png'/></a></td>",
+"open": true,
+}

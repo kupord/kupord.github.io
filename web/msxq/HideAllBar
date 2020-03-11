@@ -1,0 +1,11 @@
+{
+"name": "HideAllBar",
+"desc_version": "描述",
+"desc_short": "隐藏X的所有地方的黑条，且没有任何影响（例如横屏游戏时依旧需要上滑两次退出）",
+"compatitle": "本插件支持iOS11-13.3",
+"ksbb": "11.0",
+"jsbb": "13.3",
+"changelog": "<strong>◉暂无记录</strong><br>◎暂时没有更新说明<br>",
+"screenshot": "<td><img height=400px src='./jt/wu.png'/></a></td>",
+"open": true,
+}

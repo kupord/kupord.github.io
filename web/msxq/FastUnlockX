@@ -1,0 +1,12 @@
+{
+"name": "FastUnlockX",
+"desc_short": "面容设备自动解锁进桌面，功能和AutoUnlockX一样，采用最新源码编译、汉化。支持iOS11~12，支持A12设备。",
+"compatitle": "本插件支持iOS10-13.3",
+"changelog": "<strong>◉暂无记录</strong><br>◎暂时没有更新详情<br>",
+"screenshot": "<td><img height=400px src='./jt/wu.png'/></a></td>",
+"warning": "",
+"desc_version": "本插件支持iOS10-13.3",
+"ksbb": "11.0",
+"jsbb": "13.3",
+"open": true,
+}

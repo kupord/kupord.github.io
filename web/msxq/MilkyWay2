@@ -1,0 +1,12 @@
+{
+"name": "MilkyWay(iOS13)",
+"desc_short": "强大的多任务窗口操作，一边追剧一边打游戏，个人修改按钮及标题框透明度<br><strong>◉已包含依赖文件</strong><br>使用方法:添加控制中心按钮后打开按钮，然后从后台任务长按APP软件就进入多窗口了",
+"compatitle": "本插件支持iOS10-13.3",
+"changelog": "<strong>◉0.1.1</strong><br>◎更新支持A12/A13<br>",
+"screenshot": "<td><img height=400px src='./jt/milkyway.png'/></a></td>",
+"warning": "",
+"desc_version": "<ul style='background-color:#58ACFA'><li style='height:25px;'><center><div style='font-size:18px;color:#FFFFFF;background-color:#58ACFA;line-height:25px;'>本插件支持iOS10-13.3</div></div></center></li></ul>",
+"ksbb": "11.0",
+"jsbb": "13.3",
+"open": true,
+}

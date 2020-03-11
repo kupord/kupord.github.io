@@ -1,0 +1,12 @@
+{
+"name": "DismissProgress",
+"desc_short": "Cydia增强插件：安装完插件可以关闭页面继续操作。支持iOS13",
+"compatitle": "本插件支持iOS10-13.3",
+"changelog": "<strong>◉暂无记录</strong><br>◎暂时没有更新详情<br>",
+"screenshot": "<td><img height=400px src='./jt/wu.png'/></a></td>",
+"warning": "",
+"desc_version": "<ul style='background-color:#58ACFA'><li style='height:25px;'><center><div style='font-size:18px;color:#FFFFFF;background-color:#58ACFA;line-height:25px;'>本插件支持iOS10-13.3</div></div></center></li></ul>",
+"ksbb": "11.0",
+"jsbb": "13.3",
+"open": true,
+}
