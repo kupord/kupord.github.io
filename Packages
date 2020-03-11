@@ -580,10 +580,10 @@ Architecture: iphoneos-arm
 Maintainer: kuprod
 Depends: mobilesubstrate, firmware (>= 11.0)
 Filename: ./debs/kupord.callassist-icon_1.0.0_iphoneos-arm.deb
-Size: 99320
-MD5sum: c4e5e45d98b2423a2aace0b05465dfd7
-SHA1: d0f32229ca71689746926b3a23845fb3c2c4a2e2
-SHA256: bca97df826c05af8deff2d68060f94b8a31e125ff61e05c43b79f4edcc109f8c
+Size: 99304
+MD5sum: e080047fbb08bbdfd06eb550a51eeb23
+SHA1: b00caedfa68d799c379e84841c5ab7919e7a6c15
+SHA256: 92e47f5d78eee73ade8682714035f961d50aac2beb321dcaa5ccdd7b5febdc0c
 Section: Tweaks
 Description: 电话助手自己制作的信号图标
 Author: kupord
