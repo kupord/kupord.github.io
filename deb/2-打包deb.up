@@ -1,3 +1,9 @@
-bash -c "cd /Users/me/Documents/GitHub/repo/repo; ./打包.sh"
-rm -r -f /Users/me/Documents/GitHub/repo/deb/a
+bash -c 
+
+cd /Users/me/repo/deb;
+find . -name '*.DS_Store' -type f -delete
+dpkg-deb -b a/ /Users/me/repo/debs/
+rm -r -f /Users/me/repo/deb/*.deb
+
+rm -r -f /Users/me/repo/deb/a
 exit

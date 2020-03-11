@@ -1,5 +1,3 @@
-pbcopy < /Users/me/Documents/GitHub/repo/repo/网页.txt
-
-
+pbcopy < /Users/me/repo/deb/网页.txt
 exit
 

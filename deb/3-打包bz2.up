@@ -1,2 +1,7 @@
-bash -c "cd /Users/me/Documents/GitHub/repo/repo; ./生成b2z.sh;"
+bash -c 
+cd /Users/me/repo;
+dpkg-scanpackages -m ./debs > Packages
+rm -r -f /Users/me/repo/Packages.bz2
+bzip2 Packages
+dpkg-scanpackages -m ./debs > Packages
 exit

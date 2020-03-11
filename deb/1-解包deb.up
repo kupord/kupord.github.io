@@ -1,5 +1,10 @@
-bash -c "cd /Users/me/repo/repo; ./解包.sh"
-cd /Users/me/repo/repo; ./复制网页文件.sh
+bash -c
+cd /Users/me/repo/deb;
+dpkg-deb -x ./*.deb ./a
+dpkg-deb -e ./*.deb ./a/DEBIAN
+
+cd /Users/me/repo/web/msxq
+cp yuan 样本
 
 pbcopy < /Users/me/repo/repo/网页.txt
 noopen -a TextEdit /Users/me/repo/web/msxq/样本
