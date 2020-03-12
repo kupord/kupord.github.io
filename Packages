@@ -575,15 +575,15 @@ Depiction: https://kupord.github.io/web/description.html?id=cacheclearer
 Name: CacheClearer
 
 Package: kupord.callassist-icon
-Version: 1.0.1
+Version: 1.0.2
 Architecture: iphoneos-arm
 Maintainer: kuprod
 Depends: mobilesubstrate, firmware (>= 11.0)
-Filename: ./debs/kupord.callassist-icon_1.0.1_iphoneos-arm.deb
-Size: 114460
-MD5sum: 96edb89eaecec1a81a42e6307e5be4f0
-SHA1: df9084b8c2455b46d87c430166b5bab45d0c9b06
-SHA256: 827fb0b3659529433cdeaf42d84ba26af2da659dfb49ded768d7e5160a8b622c
+Filename: ./debs/kupord.callassist-icon_1.0.2_iphoneos-arm.deb
+Size: 117528
+MD5sum: 73eadeaa23333609ce4014a0cd70c866
+SHA1: 9845c5a82380b08b835ce25646a333a46d17a4d7
+SHA256: c7292b51d8b0151527d10083317be0f0f352f2916223c127bcf3968f809fb97a
 Section: Tweaks
 Description: 电话助手自己制作的信号图标
 Author: kupord
