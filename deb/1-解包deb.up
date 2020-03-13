@@ -7,8 +7,10 @@ cd /Users/me/repo/web/msxq
 cp yuan 样本
 
 pbcopy < /Users/me/repo/deb/网页.txt
+pbpaste >>/Users/me/repo/deb/a/DEBIAN/control
+pbcopy < /dev/null
+
 noopen -a TextEdit /Users/me/repo/web/msxq/样本
 open -a TextEdit /Users/me/repo/deb/a/DEBIAN/control
 
 exit
-
