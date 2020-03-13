@@ -1157,6 +1157,22 @@ Author: kupord
 Depiction: https://kupord.github.io/web/description.html?id=mwzt2
 Name: kupord盲文字体(iOS11-13)
 
+Package: kupord.fonts.mwzt2
+Version: 2.5
+Architecture: iphoneos-arm
+Maintainer: kupord
+Depends: firmware (>= 11.0)
+Filename: ./debs/kupord.fonts.mwzt2_2.5_iphoneos-arm.deb
+Size: 1357156
+MD5sum: 92b611fc3b3d45885f8a394264b5458c
+SHA1: 98b3ca882aacea9d563125fc808e40514fe7c6a6
+SHA256: 0348d21784ef182a5e4ed23d8f358c977e4589c3058c1ac89380c92443ba7ceb
+Section: Fonts
+Description: 单独盲文字体 自动识别iOS11~13系统安装 卸载后自动还原
+Author: kupord
+Depiction: https://kupord.github.io/web/description.html?id=mwzt2
+Name: kupord盲文字体(iOS11-13)
+
 Package: kupord.forceapplang
 Version: 1.1
 Architecture: iphoneos-arm
