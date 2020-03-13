@@ -877,18 +877,18 @@ Name: CrackTool4
 Package: kupord.cydown
 Version: 7.0.6
 Architecture: iphoneos-arm
-Maintainer: julioverne
-Depends: cydia, coreutils-bin, coreutils, apt7, firmware (<< 8.3) | ldid (>= 1:1.2.1), mobilesubstrate, preferenceloader
-Conflicts: com.julioverne.cydown, com.cydiabc.cydown
+Maintainer: Julio
+Depends: coreutils-bin, coreutils, mobilesubstrate, preferenceloader
 Filename: ./debs/kupord.cydown_7.0.6_iphoneos-arm.deb
-Size: 2457596
-MD5sum: 3802feee9a2a7b6c9d375bde8614264b
-SHA1: d5d1734e50c8ac7753f2a4cd3fbb0f7be05619ed
-SHA256: b2e4299770250000dae1522f6c7631a63b24df2f0f4c6f5e88b28c8727b5524d
+Size: 2455976
+MD5sum: 93388184162a9eb4ea17e18e40e17d5a
+SHA1: 79b3a587ea281bea497432833e1d7fe37808c62e
+SHA256: cc03965d103b32b759258c38f6fee58216d9a4ca54470fc3fa2ba86fd4b1717e
 Section: Tweaks
-Description: Cydia和Zebra的包管理器的增强插件，已汉化，增强下载-快捷添加-删除源等
-Author: julioverne
+Description: Cydia增强强大的管理器，备份插件等等
+Author: julioverne <julioverne@me.com>
 Depiction: https://kupord.github.io/web/description.html?id=cydown
+Icon: file:///Library/PreferenceBundles/CyDownSettings.bundle/CyDown@2x.png
 Name: CyDown
 
 Package: kupord.debkeeper12
