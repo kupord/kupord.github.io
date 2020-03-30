@@ -697,18 +697,18 @@ Name: ClassicKeyboardXS
 Sponsor: Netskao
 
 Package: kupord.clearbadges3dtouch
-Version: 1.6.1
+Version: 1.4.0
 Architecture: iphoneos-arm
 Installed-Size: 256
 Depends: mobilesubstrate
-Conflicts: com.isklikas.3dbadgeclear, netskoa.3dbadgeclear, com.twickd.john-sklikas.3dbadgeclear, me.conorthedev.libconorthedev
+Conflicts: com.isklikas.3dbadgeclear, netskoa.3dbadgeclear, com.twickd.john-sklikas.3dbadgeclear
 Replaces: com.isklikas.3dbadgeclear
 Provides: com.isklikas.3dbadgeclear
-Filename: ./debs/kupord.clearbadges3dtouch_1.6.1_iphoneos-arm.deb
-Size: 133004
-MD5sum: 4b036fdf8e7632adc57cfd7a4d696a7b
-SHA1: 4a86e054703ef8836b75695c522602f4901e7434
-SHA256: 4e19efed95ac8a4452521786f01795fc248d85c7a29c9e33238f148256c5067c
+Filename: ./debs/kupord.clearbadges3dtouch_1.4.0_iphoneos-arm.deb
+Size: 21136
+MD5sum: fd9c78caee7f638ac7c8fdf7ce7ed201
+SHA1: 9d7b058d43d833e44cdd7e5bb31eab9d6b1ce8e1
+SHA256: 2a149a54a3568f4a85e85c1ce4a04c8411119f6542dffb4f792eab1b8d72ad2c
 Section: Tweaks
 Description: 使用长按或者3D Touch菜单来清理桌面角标
 Author: isklikas
