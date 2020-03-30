@@ -2475,16 +2475,16 @@ Maintainer: kupord
 Depends: firmware (>= 9.0), mobilesubstrate, preferenceloader, firmware (>= 11.0) | com.unlimapps.uaunbox
 Provides: com.groovycarrot.groovylock, com.bushe.lockhtml4, com.bushe.lockhtml3, com.bushe.lockhtml2, cydget, com.groovycarrot.sbhtml
 Filename: ./debs/kupord.xenhtml_1.1.4~release_iphoneos-arm.deb
-Size: 1925164
-MD5sum: 8417c9b0afeb8d92e13ba526fedf935f
-SHA1: cbf6d4732fadc8346b192f4a933d8a46fe7f774a
-SHA256: 35664469824613eae915800c56fd96a3ed3011f7cc50eadc9dedb35896a5b593
+Size: 1931272
+MD5sum: 9f940e7478b6696a05bf1ef5450b5461
+SHA1: 01e6ae83c5bb6078addf0b3559b239fa05cb3bff
+SHA256: 2ac65feea00e48d6d4b4eebcbccced690f6d75d1be8cf7b486b5db4d0ad40748
 Section: Tweaks
 Priority: optional
 Description: HTML高级锁屏和主屏幕完美汉化主题平台
 Author: Matt Clarke
 Depiction: https://kupord.github.io/web/description.html?id=xenhtml
-Name: Xen HTML高级锁屏
+Name: Xen HTML
 Sponsor: kupord
 
 Package: kuprod.appstoreplusplus
