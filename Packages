@@ -701,14 +701,14 @@ Version: 1.6.1
 Architecture: iphoneos-arm
 Installed-Size: 256
 Depends: mobilesubstrate
-Conflicts: com.isklikas.3dbadgeclear, netskoa.3dbadgeclear, com.twickd.john-sklikas.3dbadgeclear
+Conflicts: com.isklikas.3dbadgeclear, netskoa.3dbadgeclear, com.twickd.john-sklikas.3dbadgeclear, me.conorthedev.libconorthedev
 Replaces: com.isklikas.3dbadgeclear
 Provides: com.isklikas.3dbadgeclear
 Filename: ./debs/kupord.clearbadges3dtouch_1.6.1_iphoneos-arm.deb
-Size: 129348
-MD5sum: f372403f0f43afd0d7a120ce79ae2cba
-SHA1: 3b41f9a6d455d09b75ceeb1b107e5baf91984e0e
-SHA256: 6920fa3bf7c70f19e3addaee310bc006b228f3a35be9afff938c6280ef5c8561
+Size: 133004
+MD5sum: 4b036fdf8e7632adc57cfd7a4d696a7b
+SHA1: 4a86e054703ef8836b75695c522602f4901e7434
+SHA256: 4e19efed95ac8a4452521786f01795fc248d85c7a29c9e33238f148256c5067c
 Section: Tweaks
 Description: 使用长按或者3D Touch菜单来清理桌面角标
 Author: isklikas
@@ -2115,10 +2115,10 @@ Installed-Size: 1496
 Depends: mobilesubstrate
 Conflicts: com.jontelang.snapper, com.jontelang.snapper2, com.jontelang.snapper2.packix
 Filename: ./debs/kupord.snapper2_2.3.1_iphoneos-arm.deb
-Size: 258268
-MD5sum: fc81ea96bffa6e9f719aabc5a6ef705a
-SHA1: ec6fcd5b53626e1038f8bd84b994ba521fe81594
-SHA256: ad835d1ba59da5af787c24aa17e744c1929fcf91376e77aa5b3525b80cd305b7
+Size: 258372
+MD5sum: 4f0b31d722e330cccdb37e43fda9821d
+SHA1: 20bdd365068c43eac0130992718154bd3ef68b6b
+SHA256: f74139e0f954f8e882d20401e882605fdbda2c2b20242e488a7278f0b3e0304f
 Section: Tweaks
 Description: 智能截图，自定义截图区域，也可以使用Ac手势截图
 Author: Jonathan Winger-lang
