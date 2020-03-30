@@ -335,7 +335,7 @@ Depiction: https://kupord.github.io/web/description.html?id=appstorenohistory
 Name: Appstore No History
 
 Package: kupord.appsyncunified
-Version: 70.0
+Version: 72.0
 Architecture: iphoneos-arm
 Maintainer: Karen/あけみ <karen@akemi.ai>
 Installed-Size: 496
@@ -343,11 +343,11 @@ Depends: firmware (>= 5.0), firmware (<= 13.3.1), firmware (<< 12.0) | mobilesub
 Conflicts: us.hackulo.appsync50, us.hackulo.appsync50plus, com.hackyouriphone.appsync7, com.teiron.ppsync, appsync50plus2.25pp, com.linusyang.appsync, com.sull.appsyncunified, com.sull.appsyncunifiedbeta, com.xsellize.appsync50, com.xsellize.appsync50plus, appsync50plus.178, appsync50plus2.178, cydia.net.angelxwind.appsyncunified, science.xnu.substitute, net.angelxwind.appsyncunified, netskao.appsyncunified
 Replaces: us.hackulo.appsync50
 Provides: appsync
-Filename: ./debs/kupord.appsyncunified_70.0_iphoneos-arm.deb
-Size: 26444
-MD5sum: 58a892a5193441375d7c3d5b3b1e9c8e
-SHA1: 09e576293085ddc643c690fc89cb569dfe6bc091
-SHA256: 0bb801ec5badd3e8ddba3a207b92af54000003b64758f986d9a0d6d53d0f08a2
+Filename: ./debs/kupord.appsyncunified_72.0_iphoneos-arm.deb
+Size: 26436
+MD5sum: 523acba7a5c888ae89826e78b3c01e0b
+SHA1: cb12afebb635ae656b62daa15cceaef3cb1b20fd
+SHA256: 74c30a7e8e5d351c734bbcc613d5f7fa981638cb82a7bd6abba4c4cf6d0f60c3
 Section: Tweaks
 Description: 安装未签名应用
 Author: Linus Yang, Karen/あけみ <karen@akemi.ai>
@@ -408,15 +408,15 @@ Depiction: https://kupord.github.io/web/description.html?id=autofolderclose
 Name: AutoFolderClose
 
 Package: kupord.autounlockx
-Version: 1.0.8
+Version: 1.0.12
 Architecture: iphoneos-arm
 Maintainer: No
 Depends: mobilesubstrate
-Filename: ./debs/kupord.autounlockx_1.0.8_iphoneos-arm.deb
-Size: 64200
-MD5sum: 771f6b0c56a5c828eec5b76bc85b3e26
-SHA1: de59722623b31018006f413c33c85f728eb2203c
-SHA256: 2d7076a9ba04f578501933ed6b64fc38f20c32274745dd311b6bb5005fab1ed6
+Filename: ./debs/kupord.autounlockx_1.0.12_iphoneos-arm.deb
+Size: 65124
+MD5sum: 3b711448cd8454331c0eef4882e1f801
+SHA1: 5935db70d68c0fcefae1817b081c8f9ef6def570
+SHA256: 90d50e7ef1c37a537771b148a47fe5e3eca0081fd457c90f8336e157073649a8
 Section: Tweaks
 Description: 自动面部识别解锁进入桌面，自动重试
 Author: Spark
@@ -457,6 +457,26 @@ Description: 电池美化
 Author: Blake Boxberger <rockiesrockyoursocks@gmail.com>
 Depiction: https://kupord.github.io/web/description.html?id=bazzi
 Name: Bazzi
+
+Package: kupord.bazzi2
+Version: 2.0.8
+Architecture: iphoneos-arm
+Maintainer: Blake Boxberger
+Installed-Size: 408
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common, com.rpetrich.rocketbootstrap
+Conflicts: com.neinzedd9.bazzi, com.neinzedd9.percentagebatteryx, com.neinzedd9.percentagecirclex
+Replaces: com.neinzedd9.percentagebatteryx, com.neinzedd9.percentagecirclex
+Filename: ./debs/kupord.bazzi2_2.0.8_iphoneos-arm.deb
+Size: 64896
+MD5sum: f202e21ba051268513f5b8d20080fba2
+SHA1: 13c19e4aea127ca201ac244ffe21337d5d1a097c
+SHA256: fc557d63bcc85436eabbcc08d5f60fa3dfd7444b8cdf3eccbd4dad0e778b55a9
+Section: Tweaks
+Description: 一款适用于iPhone X及以上刘海设备的电池定制插件，特别注意：可能和别的插件电池类功能的冲突，比如电话助手的原生电池数字(需关闭再装Bazzi2)
+Author: Blake Boxberger
+Depiction: https://kupord.github.io/web/description.html?id=bazzi2
+Name: Bazzi 2
+Sponsor: kupord
 
 Package: kupord.betterccxi
 Version: 1.6.0
@@ -507,6 +527,25 @@ Description: 全屏桌面文件夹,全屏毛玻璃特效
 Author: candoizo
 Depiction: https://kupord.github.io/web/description.html?id=bolders
 Name: Bolders
+
+Package: kupord.bottomcontrolx
+Version: 1.3.1
+Architecture: iphoneos-arm
+Maintainer: kupord
+Installed-Size: 479
+Depends: mobilesubstrate, firmware (>= 11.0), preferenceloader
+Filename: ./debs/kupord.bottomcontrolx_1.3.1_iphoneos-arm.deb
+Size: 108876
+MD5sum: 48eeec847f604548cfd992f6b0282526
+SHA1: 3480350c7610dbb9c36a5379edd3c36979098134
+SHA256: 2b34f102e8155a649a94aa9a14e36eb0552811c2fafbe915374e3ea2ee07396b
+Section: Tweaks
+Priority: optional
+Description: iPhoneX上滑手势添加更多可能，非X机型需安装X手势
+Author: XCXiao
+Depiction: https://kupord.github.io/web/description.html?id=bottomcontrolx
+Name: BottomControlX
+Sponsor: kupord
 
 Package: kupord.bounceit
 Version: 1.0.3
@@ -658,18 +697,18 @@ Name: ClassicKeyboardXS
 Sponsor: Netskao
 
 Package: kupord.clearbadges3dtouch
-Version: 1.4.0
+Version: 1.6.1
 Architecture: iphoneos-arm
 Installed-Size: 256
 Depends: mobilesubstrate
 Conflicts: com.isklikas.3dbadgeclear, netskoa.3dbadgeclear, com.twickd.john-sklikas.3dbadgeclear
 Replaces: com.isklikas.3dbadgeclear
 Provides: com.isklikas.3dbadgeclear
-Filename: ./debs/kupord.clearbadges3dtouch_1.4.0_iphoneos-arm.deb
-Size: 21136
-MD5sum: fd9c78caee7f638ac7c8fdf7ce7ed201
-SHA1: 9d7b058d43d833e44cdd7e5bb31eab9d6b1ce8e1
-SHA256: 2a149a54a3568f4a85e85c1ce4a04c8411119f6542dffb4f792eab1b8d72ad2c
+Filename: ./debs/kupord.clearbadges3dtouch_1.6.1_iphoneos-arm.deb
+Size: 129348
+MD5sum: f372403f0f43afd0d7a120ce79ae2cba
+SHA1: 3b41f9a6d455d09b75ceeb1b107e5baf91984e0e
+SHA256: 6920fa3bf7c70f19e3addaee310bc006b228f3a35be9afff938c6280ef5c8561
 Section: Tweaks
 Description: 使用长按或者3D Touch菜单来清理桌面角标
 Author: isklikas
@@ -711,14 +750,14 @@ Depiction: https://kupord.github.io/web/description.html?id=cydowncn
 Name: CyDown汉化包
 
 Package: kupord.colorbadges
-Version: 1.3.1
+Version: 1.4.4
 Architecture: iphoneos-arm
 Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5000), preferenceloader
-Filename: ./debs/kupord.colorbadges_1.3.1_iphoneos-arm.deb
-Size: 53608
-MD5sum: a385275e4243efba5c866f34804c705f
-SHA1: b61333c21b13065839cd9f6e15837ca6047e593b
-SHA256: 900af7aa3093bc715511aa82bc8f28bd7b39bb4d67effe66e50f18cb808a1627
+Filename: ./debs/kupord.colorbadges_1.4.4_iphoneos-arm.deb
+Size: 60352
+MD5sum: c7279e6fd6f20fb4d84318c9c9a3c56d
+SHA1: 1de870587abececfd00939c73f00b2c0f055d6b0
+SHA256: 868a4c36c0e5cdd4977da794c3a1f62164253f6c40225fe25a8f1a6ce1c617ed
 Section: Tweaks
 Description: 自适应图标颜色的角标
 Author: David Goldman
@@ -742,24 +781,44 @@ Depiction: https://kupord.github.io/web/description.html?id=colorboard
 Name: ColorBoard
 
 Package: kupord.colorflow4
-Version: 1.3.4
+Version: 1.3.6
 Architecture: iphoneos-arm
 Maintainer: ReJail <rejail@rejail.ru>
 Installed-Size: 1924
 Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.5.000), preferenceloader
 Conflicts: org.thebigboss.colorflow, com.golddavid.colorflow2, com.golddavid.colorflow3
 Replaces: org.thebigboss.colorflow, com.golddavid.colorflow2, com.golddavid.colorflow3
-Filename: ./debs/kupord.colorflow4_1.3.4_iphoneos-arm.deb
-Size: 777344
-MD5sum: be8689200d3d859a55c4c35ce45638e7
-SHA1: dda3b2546ac39e5428cb1b044739857b7e611d09
-SHA256: 1bb51d279e5cd619d02f6dff87a04160d403e7ea903d280585506f20d03929e1
+Filename: ./debs/kupord.colorflow4_1.3.6_iphoneos-arm.deb
+Size: 778516
+MD5sum: a379b937508a81fe2cefa979e324effa
+SHA1: 4ea225200fe90ce8e617d7ee24efc9324fe9abab
+SHA256: 24790f9cbde97151829b4eb08f6c2dbd83a3a007fc2ecb37dc3d3edf6749a0a1
 Section: Tweaks
 Description: 音乐播放器美化
 Author: David Goldman <help@golddavid.com>
 Depiction: https://kupord.github.io/web/description.html?id=colorflow4
 Icon: file:///Library/PreferenceBundles/ColorFlow4Prefs.bundle/ColorFlow@3x.png
 Name: ColorFlow 4
+
+Package: kupord.colorflow5
+Version: 1.0.3
+Architecture: iphoneos-arm
+Maintainer: David Goldman
+Installed-Size: 1424
+Depends: firmware (>= 13.0), mobilesubstrate (>= 0.9.5.000), preferenceloader
+Conflicts: org.thebigboss.colorflow, com.golddavid.colorflow2, com.golddavid.colorflow3, com.golddavid.colorflow4
+Replaces: org.thebigboss.colorflow, com.golddavid.colorflow2, com.golddavid.colorflow3, com.golddavid.colorflow4
+Filename: ./debs/kupord.colorflow5_1.0.3_iphoneos-arm.deb
+Size: 544436
+MD5sum: e8b58cb2269bdc04913d69b422dc1b0d
+SHA1: 1c97c85284907e794e36b24e532b77cfa87d7b56
+SHA256: 7d9bc85fbbf5e12fa3b79989630c06237b4211fd8d9f55e20c8f7d9c4eace63c
+Section: Tweaks
+Description: 音乐播发器可以随意着色，调整增强功能。
+Author: David Goldman
+Depiction: https://kupord.github.io/web/description.html?id=colorflow5
+Name: ColorFlow 5
+Sponsor: kupord
 
 Package: kupord.commcenterpatch
 Version: 3.1
@@ -843,15 +902,15 @@ Depiction: https://kupord.github.io/web/description.html?id=copypasta
 Name: Copypasta
 
 Package: kupord.crackerxi
-Version: 1.1.8
+Version: 1.1.16
 Architecture: iphoneos-arm
 Maintainer: c0pyn1nja
 Depends: firmware (>= 11.0), ldid (>=2.0)
-Filename: ./debs/kupord.crackerxi_1.1.8_iphoneos-arm.deb
-Size: 6186156
-MD5sum: f242a5a27a5fa9c9c2908b7f374c44cb
-SHA1: 45ca43e40177ac0edae27302d59fc4902b8afd07
-SHA256: 38c032556d77fffa3186239f508cb618039e3a0416a2c2057eff34e16a9bffde
+Filename: ./debs/kupord.crackerxi_1.1.16_iphoneos-arm.deb
+Size: 6187492
+MD5sum: 79d76e249c6b47f551b9cc710ad0170b
+SHA1: 012de2df930b5246f7ddcccfb039c7b60d96af25
+SHA256: b87c33cdfdd4e983c26558c437689664d0693a4243c3778caf3ea81b544dc27e
 Section: Tweaks
 Description: 解密iOSApp,普通用户可用于导出App⚠️如出现打开“CrackerXI+”闪退,即表明此应用未正确联网,可能是你国行机器的原因,至于国行如何联网 请移步百度！
 Author: c0pyn1nja
@@ -1657,15 +1716,15 @@ Depiction: https://kupord.github.io/web/description.html?id=nosourceerrors
 Name: No SourceErrors
 
 Package: kupord.notchification
-Version: 1.4.2-1
+Version: 2.0.2-3
 Architecture: iphoneos-arm
 Maintainer: Pulandres
 Depends: firmware (>= 5.0), mobilesubstrate, org.thebigboss.libcolorpicker, applist
-Filename: ./debs/kupord.notchification_1.4.2-1_iphoneos-arm.deb
-Size: 2241376
-MD5sum: 811cc911717f8bc8fd7c8947a87bfa02
-SHA1: db9032def665b0a2b6faf6dac69b42401845a0d2
-SHA256: 67ef961b58a67d9b3c2c11f61cfd5a1b67fa78b7aed79336a0eb079729393a57
+Filename: ./debs/kupord.notchification_2.0.2-3_iphoneos-arm.deb
+Size: 862624
+MD5sum: d094a012aa14d30fe26de9ba630148a1
+SHA1: b903d4525e0fcaa643b56fbe64f8d08eb3a22ccd
+SHA256: 691e54ce1f12011d9d1f46d1e56e1b19c459cecb4efc945bc92aaae08a06437c
 Section: Tweaks
 Priority: optional
 Description: 来电/通知LED特效 跑马灯 非常炫酷
@@ -2334,6 +2393,24 @@ SHA256: 3e9d7d2da982ade1dc3e697f249d1e4f067e18c2b51300175970b7aeaded4bd2
 Section: Tweaks
 Priority: optional
 Description: app降级插件,更新支持12.4
+Author: CokePokes
+Depiction: https://kupord.github.io/web/description.html?id=appstoreplusplus
+Name: AppStore++
+
+Package: kuprod.appstoreplusplus
+Version: 0.9.8-9
+Architecture: iphoneos-arm
+Maintainer: CokePokes
+Depends: firmware (>= 11.0), mobilesubstrate
+Conflicts: com.unlimapps.uaupdatetools
+Filename: ./debs/kuprod.appstoreplusplus_0.9.8-9_iphoneos-arm.deb
+Size: 760008
+MD5sum: c81fd4a56c7221abd2e366ca79ede6d6
+SHA1: 4112577ed004a77569b9d4e2c851cc70f4f543c7
+SHA256: e4980942ce5d4b62a2518d30955dfc9dd2fc93c6f5c7262df6035738f0d18a6f
+Section: Tweaks
+Priority: optional
+Description: app降级插件,更新支持13
 Author: CokePokes
 Depiction: https://kupord.github.io/web/description.html?id=appstoreplusplus
 Name: AppStore++
