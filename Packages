@@ -1,13 +1,13 @@
 Package: kupord.DouTu
-Version: 2.0-3
+Version: 2.0-9
 Architecture: iphoneos-arm
 Maintainer: admin@25mao.com
 Depends: firmware (>= 5.0), mobilesubstrate
-Filename: ./debs/kupord.doutu_2.0-3_iphoneos-arm.deb
-Size: 258764
-MD5sum: 2378b40d7d7cf13c84f7bcfba9cb714f
-SHA1: b69470b2d443693c12c8cb4e7d4059c5478e9962
-SHA256: 5146751dcb506ca22a4bf7ac13b07ea8ca2736edfaa537c40cf4c4e6419fafa6
+Filename: ./debs/kupord.doutu_2.0-9_iphoneos-arm.deb
+Size: 195220
+MD5sum: 62cd6d082369b4326a17e5d2d2bd38ad
+SHA1: 00b2690e1afcc7cf02efe080939bf848bff29cac
+SHA256: baad20cec23983b5833977f9980cdc1338e4aa1ec77eefe1d8fd4346a28e247b
 Section: Tweaks
 Priority: optional
 Description: 微信斗图助手
@@ -117,15 +117,15 @@ Depiction: https://kupord.github.io/web/description.html?id=SwipeExpander
 Name: SwipeExpander
 
 Package: kupord.YouQuan
-Version: 2.0.5
+Version: 2.0.7
 Architecture: iphoneos-arm
 Maintainer: admin@25mao.com
 Depends: firmware (>= 5.0), mobilesubstrate
-Filename: ./debs/kupord.youquan_2.0.5_iphoneos-arm.deb
-Size: 79732
-MD5sum: 4c74f0d7077a8c3bb4b225b48260c601
-SHA1: 880ca7114435a9dbdbe77249b38ee88a726f75b3
-SHA256: fb5739969009c26f74a17a83552acc93c52f061e482e13c0453930ef56902fd0
+Filename: ./debs/kupord.youquan_2.0.7_iphoneos-arm.deb
+Size: 85632
+MD5sum: 0784f01de8ae2e7f260e1dc09667423d
+SHA1: ef8d2e8144810a1821802b843414139650828def
+SHA256: 839a73854ce698166706ba4696a7421c1cf17a7ceffe963be3cfd6086002667e
 Section: Tweaks
 Priority: optional
 Description: 淘宝优惠券
@@ -1591,15 +1591,15 @@ Depiction: https://kupord.github.io/web/description.html?id=nfcwriterxs
 Name: NFCWriter XS (iOS 11-12)
 
 Package: kupord.nicebarx-icon
-Version: 1.0.26
+Version: 1.0.27
 Architecture: iphoneos-arm
 Maintainer: kuprod
 Depends: mobilesubstrate, firmware (>= 11.0), firmware(<< 13.0)
-Filename: ./debs/kupord.nicebarx-icon_1.0.26_iphoneos-arm.deb
-Size: 802436
-MD5sum: 7dac22c94dde9adedb63a9e6b0537734
-SHA1: 2dea3a90d18ab362189840610e264dca012933b9
-SHA256: 336829b701a53296e04f227d3c04b47b922b8595cee2c515fdd8267833055bfc
+Filename: ./debs/kupord.nicebarx-icon_1.0.27_iphoneos-arm.deb
+Size: 812072
+MD5sum: 04518dca7aaaad56e1939aa58a70246e
+SHA1: 1d1e1fbc67356283b0a4889c0646fbe8594be3d7
+SHA256: 476fe3b3d139c4f0c0ba5f20b9fec849268954875e80d185cc7e0636d2b468ab
 Section: Tweaks
 Description: NiceBarX自己制作的信号图标
 Author: kupord
@@ -1607,15 +1607,15 @@ Depiction: https://kupord.github.io/web/description.html?id=nicebarx-icon
 Name: NiceBarX图标(iOS12)
 
 Package: kupord.nicebarx13-icon
-Version: 1.0.26
+Version: 1.0.27
 Architecture: iphoneos-arm
 Maintainer: kuprod
 Depends: mobilesubstrate, firmware (>= 13.0)
-Filename: ./debs/kupord.nicebarx13-icon_1.0.26_iphoneos-arm.deb
-Size: 802380
-MD5sum: 6168ee51c19ce454de29ad173b41e3ed
-SHA1: c19900c9bd5b3349235e6c95ea7b8218e6b0e4cb
-SHA256: cf73c36190619a5782767431973c15040a078b5fa33601ede3b95938a59112ab
+Filename: ./debs/kupord.nicebarx13-icon_1.0.27_iphoneos-arm.deb
+Size: 812040
+MD5sum: e9a641fa177a0962b23f9411111df9b3
+SHA1: 292a3abd85f0c11bb18280e8008d79226f08122c
+SHA256: a5f99b9744a566650de6fa067d4f11d90198311d05a8cdf757886cd6c1b10586
 Section: Tweaks
 Description: NiceBarX自己制作的信号图标
 Author: kupord
