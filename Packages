@@ -273,19 +273,18 @@ Depiction: https://kupord.github.io/web/description.html?id=appstorenohistory
 Name: Appstore No History
 
 Package: kupord.appsyncunified
-Version: 72.0
+Version: 74.0
 Architecture: iphoneos-arm
 Maintainer: Karen/あけみ <karen@akemi.ai>
-Installed-Size: 496
 Depends: firmware (>= 5.0), firmware (<= 13.3.1), firmware (<< 12.0) | mobilesubstrate (>= 0.9.5100) | mobilesubstrate (<= 0.9.6301) | mobilesubstrate (= 0.9.7020) | mobilesubstrate (= 0.9.7033) | mobilesubstrate (>= 0.9.7034) | com.ex.substitute (>= 0.1.0), firmware (<< 12.0) | mobilesubstrate (<< 99.0) | com.ex.libsubstitute (>= 0.1.1)
 Conflicts: us.hackulo.appsync50, us.hackulo.appsync50plus, com.hackyouriphone.appsync7, com.teiron.ppsync, appsync50plus2.25pp, com.linusyang.appsync, com.sull.appsyncunified, com.sull.appsyncunifiedbeta, com.xsellize.appsync50, com.xsellize.appsync50plus, appsync50plus.178, appsync50plus2.178, cydia.net.angelxwind.appsyncunified, science.xnu.substitute, net.angelxwind.appsyncunified, netskao.appsyncunified
 Replaces: us.hackulo.appsync50
 Provides: appsync
-Filename: ./debs/kupord.appsyncunified_72.0_iphoneos-arm.deb
-Size: 26436
-MD5sum: 523acba7a5c888ae89826e78b3c01e0b
-SHA1: cb12afebb635ae656b62daa15cceaef3cb1b20fd
-SHA256: 74c30a7e8e5d351c734bbcc613d5f7fa981638cb82a7bd6abba4c4cf6d0f60c3
+Filename: ./debs/kupord.appsyncunified_74.0_iphoneos-arm.deb
+Size: 26424
+MD5sum: 3f1a4592ac95804735d4eb63598c8e36
+SHA1: 83a79209b0410624b794214ebde5cb1f7ca41342
+SHA256: 5e63746b0323c2504daf9951a35d1200380e8e46e2d88068f101a51541ed6650
 Section: Tweaks
 Description: 安装未签名应用
 Author: Linus Yang, Karen/あけみ <karen@akemi.ai>
