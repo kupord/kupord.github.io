@@ -5,7 +5,7 @@
 "compatitle": "本插件支持iOS10-13.3",
 "ksbb": "11.0",
 "jsbb": "13.3",
-"changelog": "<strong>◉暂无记录</strong><br>◎暂时没有更新详情<br>",
+"changelog": "<strong>◉1.1.0</strong><br>◎适用于nicebar13 V1.0.2以上<br>",
 "screenshot": "<td><img height=400px src='./jt/wu.png'/></a></td>",
 "open": true,
 }
