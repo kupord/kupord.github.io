@@ -1590,16 +1590,16 @@ Depiction: https://kupord.github.io/web/description.html?id=nfcwriterxs
 Name: NFCWriter XS (iOS 11-12)
 
 Package: kupord.nicebaricon
-Version: 1.1.0
+Version: 1.1.1
 Architecture: iphoneos-arm
 Maintainer: kuprod
 Depends: mobilesubstrate, firmware (>= 13.0)
 Conflicts: kupord.nicebarx-icon, kupord.nicebarx13-icon
-Filename: ./debs/kupord.nicebaricon_1.1.0_iphoneos-arm.deb
-Size: 586156
-MD5sum: d58eae2b277a6a6e467bbf7c87481264
-SHA1: f2d0449560e205e00063d49ef377cb82cb28470f
-SHA256: 3c248bbc58d30c2c401543401b34277bdb50952d2eea8ab741ef9b717146cdb3
+Filename: ./debs/kupord.nicebaricon_1.1.1_iphoneos-arm.deb
+Size: 589908
+MD5sum: 5b5a2432951f1cfd2b3c650687603770
+SHA1: 5672be63c4c5dd95553b1bc3800636ebb2f22c40
+SHA256: 8a1c9fbc0c01e5d128aa09f6019615a7c72dc0184243dd654e39108790a3a7da
 Section: Tweaks
 Description: NiceBarX自己制作的信号图标
 Author: kupord
