@@ -1596,10 +1596,10 @@ Maintainer: kuprod
 Depends: mobilesubstrate, firmware (>= 13.0)
 Conflicts: kupord.nicebarx-icon, kupord.nicebarx13-icon
 Filename: ./debs/kupord.nicebaricon_1.1.1_iphoneos-arm.deb
-Size: 589908
-MD5sum: 5b5a2432951f1cfd2b3c650687603770
-SHA1: 5672be63c4c5dd95553b1bc3800636ebb2f22c40
-SHA256: 8a1c9fbc0c01e5d128aa09f6019615a7c72dc0184243dd654e39108790a3a7da
+Size: 589760
+MD5sum: 48c3a9f34aee63bc4c2aee3a23556e63
+SHA1: 7fada6db1bdf977b662a4d5c13aa029d7fe2c618
+SHA256: 4c8b5b3b727410529d7fd658f650ad314db891746432a6d6a55c2c61a091deab
 Section: Tweaks
 Description: NiceBarX自己制作的信号图标
 Author: kupord
