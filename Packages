@@ -871,15 +871,15 @@ Depiction: https://kupord.github.io/web/description.html?id=cracktool4
 Name: CrackTool4
 
 Package: kupord.cydown
-Version: 7.0.7
+Version: 7.0.9
 Architecture: iphoneos-arm
 Maintainer: Julio
 Depends: coreutils-bin, coreutils, mobilesubstrate, preferenceloader
-Filename: ./debs/kupord.cydown_7.0.7_iphoneos-arm.deb
-Size: 2050964
-MD5sum: ebe3e60fa1b48ab62124fd5f28462fb8
-SHA1: 3ca88aaa1c8fb6340941ac5a0a7137f5b427aa1b
-SHA256: 4888957ef55ba7e600766143d0f0a374a0fe4248c895f93d1542b1624315bcc5
+Filename: ./debs/kupord.cydown_7.0.9_iphoneos-arm.deb
+Size: 2015600
+MD5sum: e01692058489e43ea6f9191432d2fe65
+SHA1: eada4be2adcecc1da08c895b3bf10ff099fc312e
+SHA256: 2676bf9be5f4efd001554ccf2aae4379a2912c761547385e9f1fbb49a43f7333
 Section: Tweaks
 Description: Cydia增强强大的管理器，备份插件等等
 Author: julioverne <julioverne@me.com>
@@ -1922,6 +1922,24 @@ Description: 关机增强，代替原生页面，X适用，P佬破解版
 Author: Haifisch
 Depiction: https://kupord.github.io/web/description.html?id=repower12
 Name: RePower XII
+
+Package: kupord.reprovision
+Version: 0.5.2~EOL
+Architecture: iphoneos-arm
+Maintainer: Matt Clarke
+Depends: firmware (>= 9.0)
+Replaces: com.matchstic.Extender-Installer
+Provides: com.matchstic.Extender-Installer
+Filename: ./debs/kupord.reprovision_0.5.2~EOL_iphoneos-arm.deb
+Size: 13740820
+MD5sum: 2e4fbdcc4f00667ee7699de3572d7cca
+SHA1: bf4506904fac8a5ec474b9bae66cff4814f4ed9e
+SHA256: a038d006b2bd84ad1002c89c5e8fffa0e0fb5974e936108bb4862955d6484ac0
+Section: Tweaks
+Description: 新版手机端签名IPA工具，更干净的界面
+Author: Matt Clarke
+Depiction: https://kupord.github.io/web/description.html?id=reprovision
+Name: ReProvision
 
 Package: kupord.reprovision
 Version: 0.5~release
