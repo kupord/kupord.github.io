@@ -876,10 +876,10 @@ Architecture: iphoneos-arm
 Maintainer: Julio
 Depends: coreutils-bin, coreutils, mobilesubstrate, preferenceloader
 Filename: ./debs/kupord.cydown_7.0.9_iphoneos-arm.deb
-Size: 2015600
-MD5sum: e01692058489e43ea6f9191432d2fe65
-SHA1: eada4be2adcecc1da08c895b3bf10ff099fc312e
-SHA256: 2676bf9be5f4efd001554ccf2aae4379a2912c761547385e9f1fbb49a43f7333
+Size: 2050364
+MD5sum: a8c231bc3176f1dc58b0d7660006ba35
+SHA1: 672694694c56657593852878ad3602b3cbf4932a
+SHA256: 29bb043238f1e185d1f55c5ad9d48d35769b122e825e6fcd4ae926968f575758
 Section: Tweaks
 Description: Cydia增强强大的管理器，备份插件等等
 Author: julioverne <julioverne@me.com>
@@ -1088,16 +1088,16 @@ Depiction: https://kupord.github.io/web/description.html?id=flipconvert13
 Name: FlipConvert Puls
 
 Package: kupord.flyjb
-Version: 0.2.4~beta4
+Version: 0.2.4~beta8
 Architecture: iphoneos-arm
 Maintainer: XsF1re
 Installed-Size: 836
 Depends: mobilesubstrate, applist, preferenceloader, com.rpetrich.rocketbootstrap, ws.hbang.common
-Filename: ./debs/kupord.flyjb_0.2.4~beta4_iphoneos-arm.deb
-Size: 462828
-MD5sum: f9b62f31077250b5e7adcec69f56d58f
-SHA1: b3f9268b4672bf567e951d2ce12c96fad59c5219
-SHA256: d0966a740598f9f91cd1396bfaa04707bde11fc437218b31813ffa9aae038d87
+Filename: ./debs/kupord.flyjb_0.2.4~beta8_iphoneos-arm.deb
+Size: 470784
+MD5sum: 95662f23431f01460e193c8cd3f1b5ac
+SHA1: 7aab72605e4b14cd7d2e263674e38318bfe0c059
+SHA256: 8d590876a920a67083de2aa0a8c3f1d6f2dabb229f160bbcf80b48d447baa7a8
 Section: Tweaks
 Description: 屏蔽越狱检测 激活指纹 面容支付，插件为韩语插件，已经汉化
 Author: XsF1re
@@ -1276,6 +1276,28 @@ Icon: file:///Library/PreferenceBundles/HomeBarSizer.bundle/icon@2x.png
 Name: HomeBarSizer
 Sponsor: thebigboss.org <http://thebigboss.org>
 
+Package: kupord.homebarsizer
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 194
+Depends: mobilesubstrate, firmware (>= 11.0)
+Conflicts: com.imkpatil.homebarsizer
+Filename: ./debs/kupord.homebarsizer_1.1_iphoneos-arm.deb
+Size: 36504
+MD5sum: 379b46b03736afdeac9bceaabde1d0b1
+SHA1: 2262840fa85ac9c4e875e0efb01e5714d7ac2127
+SHA256: 1c186a737c802f91469253f056cc82735b4e4d1f98926b04cd8c6dfcc48e556c
+Section: Tweaks
+Priority: optional
+Description: 修改HomeBar大小! 个人调整限制为可隐藏HomeBar!
+Author: Kiran Patil <patilkiran08@gmail.com>
+Depiction: https://kupord.github.io/web/description.html?id=homebarsizer
+Dev: imkpatil
+Icon: file:///Library/PreferenceBundles/HomeBarSizer.bundle/icon@2x.png
+Name: HomeBarSizer
+Sponsor: thebigboss.org <http://thebigboss.org>
+
 Package: kupord.iap26
 Version: 0.0.1-5
 Architecture: iphoneos-arm
@@ -1304,6 +1326,26 @@ Size: 5285840
 MD5sum: 44f2d98dd9d2db6c2b414494f9359e70
 SHA1: be52fb949e66b8b4c440dbec25f9847bfcf03dda
 SHA256: d9601df1b4af7c669296f867be69987ec8a76ab99d8394bda2579bedb35dc610
+Section: Tweaks
+Homepage: http://ib-soft.net/icleaner
+Description: 老牌清理工具，越狱必备,破解版
+Author: Ivano Bilenchi <support@ib-soft.net>
+Depiction: https://kupord.github.io/web/description.html?id=icleanerpro
+Icon: file:///Applications/iCleaner.app/Icon.png
+Name: iCleaner Pro
+
+Package: kupord.icleanerpro
+Version: 7.8.2
+Architecture: iphoneos-arm
+Maintainer: Ivano Bilenchi <support@ib-soft.net>
+Depends: firmware (>= 4.0), findutils, apt | apt7
+Conflicts: org.altervista.exilecom.icleaner, com.exile90.icleanerpro
+Replaces: org.altervista.exilecom.icleaner
+Filename: ./debs/kupord.icleanerpro_7.8.2_iphoneos-arm.deb
+Size: 6737692
+MD5sum: dec799477656a9c44698865a47119d1d
+SHA1: 63c8fbe395ae592ba54366feb93078ab68468377
+SHA256: 11f1723d8c1e1146b6ace3c3cf7d91132d00e47735d8a358891a3fec770e452a
 Section: Tweaks
 Homepage: http://ib-soft.net/icleaner
 Description: 老牌清理工具，越狱必备,破解版
