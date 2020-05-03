@@ -1,7 +1,7 @@
 {
 "name": "SnowBoard",
 "desc_version": "描述",
-"desc_short": "Snowboard主题平台",
+"desc_short": "Snowboard主题平台,整合版,包含所有扩展",
 "compatitle": "本插件支持iOS10-13.3",
 "ksbb": "11.0",
 "jsbb": "13.3",

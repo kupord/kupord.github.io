@@ -2157,21 +2157,20 @@ Name: Snapper 2
 Sileodepiction: https://kupord.github.io/repo/js/sileo/wu.json
 
 Package: kupord.snowboard
-Version: 1.2.76~Beta1
+Version: 1.2.87~Beta2
 Architecture: iphoneos-arm
 Maintainer: Spark
-Installed-Size: 4224
 Depends: mobilesubstrate, preferenceloader
 Conflicts: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
 Replaces: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
 Provides: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
-Filename: ./debs/kupord.snowboard_1.2.76~Beta1_iphoneos-arm.deb
-Size: 1416200
-MD5sum: 09042317a8107791f3a07d7cfb094a1f
-SHA1: 423ccfc4c19a57df73eb59cd7eac0d1f9f694968
-SHA256: 4b44d092b3e976e4dadd56c85f011cc481a8dcdecc416ffb0fbf5f15ebfb958d
+Filename: ./debs/kupord.snowboard_1.2.87~Beta2_iphoneos-arm.deb
+Size: 1806684
+MD5sum: 39a5a70477a9204640f7131b66701c16
+SHA1: bd3bf629654e64e1a7ac4e5cf662e32564db3cb7
+SHA256: 310dfe36721d529f0719f6523e88ebdec39f7d9ed4ccc290eecefdc9a45df315
 Section: Tweaks
-Description: Snowboard主题平台
+Description: Snowboard主题平台,整合版,包含所有扩展
 Author: Spark & Dennis D. Bednarz
 Depiction: https://kupord.github.io/web/description.html?id=SnowBoard
 Name: SnowBoard
