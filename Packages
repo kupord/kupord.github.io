@@ -954,6 +954,23 @@ Author: udevs
 Depiction: https://kupord.github.io/web/description.html?id=dockx
 Name: DockX
 
+Package: kupord.dockx
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: udevs
+Depends: mobilesubstrate, firmware(>=12.0)
+Conflicts: com.cpdigitaldarkroom.barmoji, com.restiveconch.actionbar, com.udevs.dockx
+Filename: ./debs/kupord.dockx_1.0.1_iphoneos-arm.deb
+Size: 37168
+MD5sum: 496dd6b41a6981acdf8c03889269f211
+SHA1: f7de6a2ebe68aa876f46586f61f151733df1cbc6
+SHA256: e40b0fd3740012fecb50a4e88aca01e0c4f71f684d1bcb41ab653f86cc857352
+Section: Tweaks
+Description: 为键盘下方添加复制.粘贴.全选.撤回等图标。支持第三方输入法。
+Author: udevs
+Depiction: https://kupord.github.io/web/description.html?id=dockx
+Name: DockX
+
 Package: kupord.ext3nder-installer
 Version: 022b
 Architecture: iphoneos-arm
