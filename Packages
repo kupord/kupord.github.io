@@ -920,21 +920,6 @@ Author: Creatix
 Depiction: https://kupord.github.io/web/description.html?id=deleteforever
 Name: DeleteForever
 
-Package: kupord.dimentio
-Version: 0.5.1
-Architecture: iphoneos-arm
-Maintainer: Halo_Michael <yc992147156@me.com>
-Filename: ./debs/kupord.dimentio_0.5.1_iphoneos-arm.deb
-Size: 7480
-MD5sum: 4f70d748d4faee897e1e75cdb06010f8
-SHA1: a7dd741c6faa24099e4a84af3a7dbfc90b8b3264
-SHA256: 5a2cfce8b7a90974b02e697f7ef68671a57da51df1ab4fe3dee6e2eae5ded910
-Section: System
-Description: PoC tool for setting nonce without triggering KPP/KTRR/PAC. (requires tfp0)
-Author: 0x7ff
-Depiction: https://kupord.github.io/web/description.html?id=generatorautosetter2
-Name: dimentio
-
 Package: kupord.dismissprogress
 Version: 1.0.4
 Architecture: iphoneos-arm
@@ -1205,12 +1190,12 @@ Package: kupord.generatorautosetter
 Version: 0.1.1
 Architecture: iphoneos-arm
 Maintainer: halo_michael <yc992147156@me.com>
-Depends: firmware (>= 12.3), kupord.dimentio
+Depends: firmware (>= 12.3)
 Filename: ./debs/kupord.generatorautosetter_0.1.1_iphoneos-arm.deb
-Size: 4628
-MD5sum: 90f70c1f34e0827bc44ec709d97d3de2
-SHA1: 5c2679c22b72e34f8abd5fa417e1cdf417968520
-SHA256: 7978f890d3717bf9b3a29ceec49fd1c4df02ef62c07ed9a8f84bdffe59f10c01
+Size: 10640
+MD5sum: 6f981200b568fc7b04a4896728a23a75
+SHA1: 8d475a67e9e433856575b36fd6396e0951614bb6
+SHA256: f7a4b074f1518feccfabdac5199017e32d29cbf292bed432c0f23b5e6967b429
 Section: Tweaks
 Description: 安装插件自动设定G值！0x1111111111111，只支持Checkra1n（因为他没有去固定）
 Author: halo_michael <yc992147156@me.com>
