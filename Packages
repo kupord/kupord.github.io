@@ -1930,6 +1930,22 @@ Author: c1d3r
 Depiction: https://kupord.github.io/web/description.html?id=pulloverpro
 Name: PullOver Pro
 
+Package: kupord.pulloverpro
+Version: 2.1
+Architecture: iphoneos-arm
+Maintainer: c1d3r
+Depends: mobilesubstrate, com.rpetrich.rocketbootstrap, applist
+Filename: ./debs/kupord.pulloverpro_2.1_iphoneos-arm.deb
+Size: 844696
+MD5sum: 938c7b5aaba2797ab77737faf5451af6
+SHA1: 5b55fa9c52fdbd29f8bde47581dfeffb550c4213
+SHA256: 000575bfd77a5548e4b7bd24b497038fc6f651b57cabf84babab85da025b2217
+Section: Tweaks
+Description: 侧边快捷唤出应用程序，侧边快捷唤出应用程序，此版本为可破解版本，使用CrackTool4破解即可
+Author: c1d3r
+Depiction: https://kupord.github.io/web/description.html?id=pulloverpro
+Name: PullOver Pro
+
 Package: kupord.qqanitirecallhook
 Version: 1.2
 Architecture: iphoneos-arm
