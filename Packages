@@ -117,15 +117,15 @@ Depiction: https://kupord.github.io/web/description.html?id=SwipeExpander
 Name: SwipeExpander
 
 Package: kupord.YouQuan
-Version: 2.0.8
+Version: 2.0.9
 Architecture: iphoneos-arm
 Maintainer: admin@25mao.com
 Depends: firmware (>= 5.0), mobilesubstrate
-Filename: ./debs/kupord.youquan_2.0.8_iphoneos-arm.deb
-Size: 85584
-MD5sum: e1a398b0b06a9d6d14979d6f28be11ec
-SHA1: d37c729e2d0af2c775f8328ffe478768c19ce953
-SHA256: 2e57db7d8efa81c97ca0e262ee184f5312fd63769a4935b015102d7fe353243e
+Filename: ./debs/kupord.youquan_2.0.9_iphoneos-arm.deb
+Size: 85880
+MD5sum: 28b3f56cd2a1158fce3bb50a5e54f2a7
+SHA1: 1e4479aa6c1dfdf6a60779d808ead47714ab6123
+SHA256: 2f3532e0ee6bb01fa79afec5a229cd9aa71cd5d77be6e4e5f76f8bbb09583fc5
 Section: Tweaks
 Priority: optional
 Description: 淘宝优惠券
@@ -955,16 +955,16 @@ Depiction: https://kupord.github.io/web/description.html?id=dockx
 Name: DockX
 
 Package: kupord.dockx
-Version: 1.0.1
+Version: 1.2.0.1
 Architecture: iphoneos-arm
 Maintainer: udevs
-Depends: mobilesubstrate, firmware(>=12.0)
+Depends: mobilesubstrate, com.rpetrich.rocketbootstrap (>= 1.0.2) | firmware (<< 7.0), firmware(>=12.0)
 Conflicts: com.cpdigitaldarkroom.barmoji, com.restiveconch.actionbar, com.udevs.dockx
-Filename: ./debs/kupord.dockx_1.0.1_iphoneos-arm.deb
-Size: 37168
-MD5sum: 496dd6b41a6981acdf8c03889269f211
-SHA1: f7de6a2ebe68aa876f46586f61f151733df1cbc6
-SHA256: e40b0fd3740012fecb50a4e88aca01e0c4f71f684d1bcb41ab653f86cc857352
+Filename: ./debs/kupord.dockx_1.2.0.1_iphoneos-arm.deb
+Size: 65704
+MD5sum: 07c8b6fd469b35e161fd63cb43bf5488
+SHA1: 0d9f213b358b51bed5256e8de9c4f586c8b5d244
+SHA256: b76e497fd8de57d2882ae5444f65d4b7a698b3db6c5ec997ef56bf3525d7b32f
 Section: Tweaks
 Description: 为键盘下方添加复制.粘贴.全选.撤回等图标。支持第三方输入法。
 Author: udevs
