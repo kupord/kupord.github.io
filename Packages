@@ -871,15 +871,15 @@ Depiction: https://kupord.github.io/web/description.html?id=cracktool4
 Name: CrackTool4
 
 Package: kupord.cydown
-Version: 7.0.9
+Version: 7.1.0
 Architecture: iphoneos-arm
 Maintainer: Julio
 Depends: coreutils-bin, coreutils, mobilesubstrate, preferenceloader
-Filename: ./debs/kupord.cydown_7.0.9_iphoneos-arm.deb
-Size: 2055540
-MD5sum: e32d3c59d9302159c7bd096895cf460f
-SHA1: c62c67147c3b794fcd3264797e312f343eb3b062
-SHA256: b04c06d481a5a71be1bdbae92c4bbf982b60d4a3024ca31ba25171f2d6208e6a
+Filename: ./debs/kupord.cydown_7.1.0_iphoneos-arm.deb
+Size: 2682228
+MD5sum: 9d83c17508bef2becb087aba53e13a07
+SHA1: 4a2ce398119d30d300d8a514f500aa17af9f2690
+SHA256: 6da471ef6dfecb05b998a8a7304fc0307171286054f6c88f4b7eaf2bea88f511
 Section: Tweaks
 Description: Cydia增强强大的管理器，备份插件等等
 Author: julioverne <julioverne@me.com>
@@ -936,23 +936,6 @@ Description: Cydia增强插件：安装完插件可以关闭页面继续操作�
 Author: PoomSmart
 Depiction: https://kupord.github.io/web/description.html?id=DismissProgress
 Name: DismissProgress
-
-Package: kupord.dockx
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: udevs
-Depends: mobilesubstrate, firmware(>=12.0)
-Conflicts: com.cpdigitaldarkroom.barmoji, com.restiveconch.actionbar, com.udevs.dockx
-Filename: ./debs/kupord.dockx_1.0_iphoneos-arm.deb
-Size: 36108
-MD5sum: 5a2e2e94ecec4489d1120a6742c261d8
-SHA1: b8224cc29245579794b2ee0c55b41a24304d360d
-SHA256: 8fd5ecc67d3e95dbde966e5873040fa11454ab4429f23ace8482f71fcb6b3254
-Section: Tweaks
-Description: 为键盘下方添加复制.粘贴.全选.撤回等图标。支持第三方输入法。
-Author: udevs
-Depiction: https://kupord.github.io/web/description.html?id=dockx
-Name: DockX
 
 Package: kupord.dockx
 Version: 1.2.0.1
@@ -1039,22 +1022,6 @@ Author: TIGI Software
 Depiction: https://kupord.github.io/web/description.html?id=filza
 Name: Filza File Manager 3.7.4
 
-Package: kupord.flexible1
-Version: 1.6.0
-Architecture: iphoneos-arm
-Installed-Size: 5240
-Depends: firmware(>= 8.0), mobilesubstrate, preferenceloader, applist
-Filename: ./debs/kupord.flexible1_1.6.0_iphoneos-arm.deb
-Size: 513736
-MD5sum: f4c000165588a5621f54e6f10147e2d2
-SHA1: 8f011ca116a1a340e409357de9af284f4d46e8a5
-SHA256: ac386c93060ec96a50e98fee498aefd013a191f6a6bd672dd2850e08bcb25bfc
-Section: Tweaks
-Description: Flex修改辅助器，最新版对iOS11不友好，这个版本完美使用
-Author: Shmoopi <shmoopillc@gmail.com>
-Depiction: https://kupord.github.io/web/description.html?id=flexible1
-Name: FLEXible
-
 Package: kupord.flextool
 Version: 0.0.1-2
 Architecture: iphoneos-arm
@@ -1087,23 +1054,6 @@ Description: 控制中心增强插件,修改版
 Author: kupord
 Depiction: https://kupord.github.io/web/description.html?id=flipconvert
 Name: FlipConvert++
-
-Package: kupord.flipconvert13
-Version: 1.0.1
-Architecture: iphoneos-arm
-Maintainer: No
-Depends: firmware (>= 13.0),mobilesubstrate (>= 0.9.5000), com.opa334.ccsupport
-Conflicts: com.a3tweaks.flipswitch
-Filename: ./debs/kupord.flipconvert13_1.0.1_iphoneos-arm.deb
-Size: 409048
-MD5sum: 92937c35411e05fbe8c087724c508f01
-SHA1: 285a24597c48edc071d465f0557af5b2c4aa1254
-SHA256: 72adc87d2c749ae2ff16990b6d763516f4997c8205ace32db24dc6a761b50105
-Section: Tweaks
-Description: iOS13控制中心增强插件,修改版
-Author: kupord
-Depiction: https://kupord.github.io/web/description.html?id=flipconvert13
-Name: FlipConvert Puls
 
 Package: kupord.flyjb
 Version: 0.2.4~beta14
