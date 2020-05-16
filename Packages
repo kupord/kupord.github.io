@@ -876,10 +876,10 @@ Architecture: iphoneos-arm
 Maintainer: Julio
 Depends: coreutils-bin, coreutils, mobilesubstrate, preferenceloader
 Filename: ./debs/kupord.cydown_7.1.0_iphoneos-arm.deb
-Size: 2682228
-MD5sum: 9d83c17508bef2becb087aba53e13a07
-SHA1: 4a2ce398119d30d300d8a514f500aa17af9f2690
-SHA256: 6da471ef6dfecb05b998a8a7304fc0307171286054f6c88f4b7eaf2bea88f511
+Size: 2681808
+MD5sum: 2f8859f55a151df9100fc78066176d3c
+SHA1: 1b5288f0cd98835111fc1efe037570e920133456
+SHA256: 3e589f9d1909f80afd493048708a9b7b349e8700a5bdd205655c2f083297ef6f
 Section: Tweaks
 Description: Cydia增强强大的管理器，备份插件等等
 Author: julioverne <julioverne@me.com>
@@ -1049,6 +1049,22 @@ Size: 167096
 MD5sum: 396ad036fe11a51a4079a0b924bf4c21
 SHA1: 3e861fea841feb27db155e4162c1c8bd8e5c3c06
 SHA256: 6d6bd9d33b4542a8685dfc7318d001f4665e7e2e4f610e0f16739cd351051d2d
+Section: Tweaks
+Description: 控制中心增强插件,修改版
+Author: kupord
+Depiction: https://kupord.github.io/web/description.html?id=flipconvert
+Name: FlipConvert++
+
+Package: kupord.flipconvert13
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: No
+Depends: firmware (< 13.0),mobilesubstrate (>= 0.9.5000),com.opa334.ccsupport,com.a3tweaks.flipswitch,org.thebigboss.libcolorpicker
+Filename: ./debs/kupord.flipconvert13_1.0_iphoneos-arm.deb
+Size: 121292
+MD5sum: 398b94cd0a0774d0d5b77582b040a56a
+SHA1: a5ee49d5d1c9899ebce719863c99987f61f76c4b
+SHA256: 80e4b53225c8684bc96016ce84ba34d4b917ccf791be37ecf5904a60e9a48a3a
 Section: Tweaks
 Description: 控制中心增强插件,修改版
 Author: kupord
