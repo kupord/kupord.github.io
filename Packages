@@ -1061,7 +1061,7 @@ Architecture: iphoneos-arm
 Maintainer: No
 Depends: firmware (>= 13.0),mobilesubstrate (>= 0.9.5000), com.opa334.ccsupport
 Conflicts: com.a3tweaks.flipswitch
-Filename: ./debs/kupord.flipconvert13_1.0.1_iphoneos-arm 下午1.39.49.deb
+Filename: ./debs/kupord.flipconvert13_1.0.1_iphoneos-arm.deb
 Size: 409048
 MD5sum: 92937c35411e05fbe8c087724c508f01
 SHA1: 285a24597c48edc071d465f0557af5b2c4aa1254
