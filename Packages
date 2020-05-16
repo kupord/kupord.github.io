@@ -599,22 +599,6 @@ Author: tateu (Josh Harris)
 Depiction: https://kupord.github.io/web/description.html?id=calldismiss
 Name: CallDismiss
 
-Package: kupord.classickeyboardx
-Version: 0.2-1
-Architecture: iphoneos-arm
-Maintainer: kupord
-Depends: mobilesubstrate
-Filename: ./debs/kupord.classickeyboardx_0.2-1_iphoneos-arm.deb
-Size: 22488
-MD5sum: c8e1c17004836b102d6ba3131cc8dcd3
-SHA1: 828109ac630ea9867b733292345d950b91e1a4fd
-SHA256: 06be1007dfc4bde5ea7d1c224f8f32fc35559040de82424684af8978c1e38be0
-Section: Tweaks
-Description: 键盘下移插件
-Author: iamalive2008
-Depiction: https://kupord.github.io/web/description.html?id=classickeyboardx
-Name: ClassicKeyboardX
-
 Package: kupord.classickeyboardxs
 Version: 1.1
 Architecture: iphoneos-arm
