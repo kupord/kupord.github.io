@@ -938,6 +938,24 @@ Author: udevs
 Depiction: https://kupord.github.io/web/description.html?id=dockx
 Name: DockX
 
+Package: kupord.dragspring
+Version: 1.2.1
+Architecture: iphoneos-arm
+Maintainer: ConorTheDev
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), me.nepeta.libcolorpicker
+Conflicts: com.sassoty.pulltorespring
+Filename: ./debs/kupord.dragspring_1.2.1_iphoneos-arm.deb
+Size: 16936
+MD5sum: fd5b6001fb4ae23efb0db56812667086
+SHA1: d54bc4c2bc591997902221f56a9b228708a5e6ed
+SHA256: 58e5b4d78fda19d1cef10522a3b40a6e9920de275d23bb2d9211ffa5a0b397a6
+Section: Tweaks
+Description: 设置顶部向下拖动注销设备
+Author: ConorTheDev
+Depiction: https://kupord.github.io/web/description.html?id=dragspring
+Name: Dragspring
+Sponsor: ConorTheDev
+
 Package: kupord.ext3nder-installer
 Version: 022b
 Architecture: iphoneos-arm
