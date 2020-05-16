@@ -1072,16 +1072,16 @@ Depiction: https://kupord.github.io/web/description.html?id=flipconvert
 Name: FlipConvert++
 
 Package: kupord.flyjb
-Version: 0.2.4~beta14
+Version: 0.2.4.1
 Architecture: iphoneos-arm
 Maintainer: XsF1re
 Installed-Size: 836
 Depends: mobilesubstrate, applist, preferenceloader, com.rpetrich.rocketbootstrap
-Filename: ./debs/kupord.flyjb_0.2.4~beta14_iphoneos-arm.deb
-Size: 480096
-MD5sum: 6e2f42ec0deb5b1a27311a5b5f995dc2
-SHA1: 5a3366419ef6d437ba5a714627d9a388a3653e8e
-SHA256: 40c56ae5165f80ee75f7299787a0d7046874ff8aaeac2931adcaf6b85505e7fe
+Filename: ./debs/kupord.flyjb_0.2.4.1_iphoneos-arm.deb
+Size: 480024
+MD5sum: 0d42bc813dfa47e6e5aeadd1928abc0a
+SHA1: 69c5a1691528af507c42cd2b078c845df8168328
+SHA256: 4ef9ca7bbe7f8ba471e73d7293699aaaacfb5f8f74a43691abce149dba0b83bc
 Section: Tweaks
 Description: 屏蔽越狱检测 激活指纹 面容支付，插件为韩语插件，已经汉化
 Author: XsF1re
