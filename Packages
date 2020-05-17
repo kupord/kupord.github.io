@@ -606,10 +606,10 @@ Maintainer: jailbreak365
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0), com.opa334.ccsupport
 Conflicts: com.jailbreak365.safeccmodules
 Filename: ./debs/kupord.ccmodules_2.6-1_iphoneos-arm.deb
-Size: 187576
-MD5sum: c5329be8fc7939155656eb65d69a76c3
-SHA1: 50c37559672bdaa0764931c5a6e0819f87d3e39b
-SHA256: d991614c845dc8f0b2450f3917022e66bf9a15be60ae9c53b57bf670137c2d06
+Size: 188860
+MD5sum: 2acd209250565802f4f2d940b128e832
+SHA1: fe4d2cef899a0404f3a4451664f98c2ba8346c8b
+SHA256: 7e14164a557139a114a61a95e2165e34bde6d81e33b6d6157186b14fe4c7205a
 Section: Tweaks
 Description: 为控制中心添加小组件,已支持A12，如注销/重启/软重启/安全模式/重建缓存/VPN/一键静音等
 Author: jailbreak365&Netskao
