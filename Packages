@@ -599,6 +599,24 @@ Author: tateu (Josh Harris)
 Depiction: https://kupord.github.io/web/description.html?id=calldismiss
 Name: CallDismiss
 
+Package: kupord.ccmodules
+Version: 2.6-1
+Architecture: iphoneos-arm
+Maintainer: jailbreak365
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0), com.opa334.ccsupport
+Conflicts: com.jailbreak365.safeccmodules
+Filename: ./debs/kupord.ccmodules_2.6-1_iphoneos-arm.deb
+Size: 187576
+MD5sum: c5329be8fc7939155656eb65d69a76c3
+SHA1: 50c37559672bdaa0764931c5a6e0819f87d3e39b
+SHA256: d991614c845dc8f0b2450f3917022e66bf9a15be60ae9c53b57bf670137c2d06
+Section: Tweaks
+Description: 为控制中心添加小组件,已支持A12，如注销/重启/软重启/安全模式/重建缓存/VPN/一键静音等
+Author: jailbreak365&Netskao
+Depiction: https://kupord.github.io/web/description.html?id=ccmodules
+Name: CCModules
+Sponsor: jailbreak365
+
 Package: kupord.classickeyboardxs
 Version: 1.1
 Architecture: iphoneos-arm
@@ -2063,10 +2081,10 @@ Architecture: iphoneos-arm
 Maintainer: jjolano
 Depends: firmware (>=8.0), mobilesubstrate, ws.hbang.common (>= 1.13.1), applist, preferenceloader, com.rpetrich.rocketbootstrap (>= 1.0.7~beta3)
 Filename: ./debs/kupord.shadow_2.0.21_iphoneos-arm.deb
-Size: 117360
-MD5sum: 12545ae026ea823ab0b5c07e109f71d3
-SHA1: 47c2713884c81718ec5be5bde6d3ae86eafc2608
-SHA256: 2f67e18b3a7244a60393550b5ff20a122c4cb9a84d8b35485d0cfa959946775c
+Size: 117524
+MD5sum: b6ccb37b114a913eb0f5686a896197d9
+SHA1: d7e22327489ba93177e6cca9510d64091ef6346e
+SHA256: f42c1b6535decd36e2ecdd45f4953cb2c0a9b6a941dfa27ef4acf345b7f78d16
 Section: Tweaks
 Description: 越狱屏蔽插件
 Author: jjolano
