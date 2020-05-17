@@ -606,10 +606,10 @@ Maintainer: jailbreak365
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0), com.opa334.ccsupport
 Conflicts: com.jailbreak365.safeccmodules
 Filename: ./debs/kupord.ccmodules_2.6-1_iphoneos-arm.deb
-Size: 188860
-MD5sum: 2acd209250565802f4f2d940b128e832
-SHA1: fe4d2cef899a0404f3a4451664f98c2ba8346c8b
-SHA256: 7e14164a557139a114a61a95e2165e34bde6d81e33b6d6157186b14fe4c7205a
+Size: 180692
+MD5sum: 6ba8e1011aa63424f5305b54d79284a2
+SHA1: 8dd4919607b21e879d136e631aef76826ff4adfc
+SHA256: 5afbd4409183e99a30ed5e92489f88186f7c93dc9c0760e2ccae94a6eca88034
 Section: Tweaks
 Description: 为控制中心添加小组件,已支持A12，如注销/重启/软重启/安全模式/重建缓存/VPN/一键静音等
 Author: jailbreak365&Netskao
@@ -1592,10 +1592,10 @@ Maintainer: akusio <akusio-report@neko2.net>
 Depends: mobilesubstrate, com.opa334.ccsupport, firmware(>= 13.0)
 Conflicts: jp.akusio.backgrounderaction13, kupord.milkyway1
 Filename: ./debs/kupord.milkyway2_0.2.0-alpha_iphoneos-arm.deb
-Size: 53328
-MD5sum: a311f40ae707ca2ba7592b51bf2cf51e
-SHA1: 4b9a265c3a3ce67fb478cacf706ae6fbd6ea318d
-SHA256: 2fa544c331d4ec37b6f0fedf7d167b9173d703ff268962489a9906f2bde5631c
+Size: 55812
+MD5sum: ca87a266599e3794ee4edaa7d7c14175
+SHA1: ac302cb6c7ae1cf17ade509c744d745f7ae53465
+SHA256: b2f7bd61508ddc6acac46038f9a243c50a09df115218dee561c6ec1ff04e9c8f
 Section: Tweaks
 Description: 强大的多任务窗口操作，一边追剧一边打游戏，个人修改按钮及标题框透明度
 Author: akusio <akusio-report@neko2.net>
