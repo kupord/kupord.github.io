@@ -2492,14 +2492,14 @@ Architecture: iphoneos-arm
 Maintainer: Skitty
 Depends: mobilesubstrate, firmware (>= 13.0)
 Filename: ./debs/kupord.wallpaperloader_1.0_iphoneos-arm.deb
-Size: 11524
-MD5sum: 158f25715227a3c0f618587d134ff0b0
-SHA1: b50c654b01d6e5db6234a6940eab879745fcf08f
-SHA256: 46f1e2d70c52237431b28954140d4730153cc79ba03615c59f445da27eb32776
+Size: 11504
+MD5sum: 6bdc1993cda13d5e364f06ed6bd4122f
+SHA1: 69ad0fd3bb32e8ce29aaea14f3c27c2f50b8f954
+SHA256: 91bafa71104fba012abe07e94defdde38f8ca3a1be83214afc947463c8d4c695
 Section: Tweaks
 Description: 可以添加智能深色壁纸
 Author: Skitty
-Depiction: Depiction: https://kupord.github.io/web/description.html?id=WallpaperLoader
+Depiction: https://kupord.github.io/web/description.html?id=WallpaperLoader
 Name: WallpaperLoader
 
 Package: kupord.wechatcallkit
