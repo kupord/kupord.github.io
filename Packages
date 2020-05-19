@@ -963,12 +963,12 @@ Maintainer: udevs
 Depends: mobilesubstrate, com.rpetrich.rocketbootstrap (>= 1.0.2) | firmware (<< 7.0), firmware(>=12.0)
 Conflicts: com.cpdigitaldarkroom.barmoji, com.restiveconch.actionbar, com.udevs.dockx
 Filename: ./debs/kupord.dockx_1.2.0.1_iphoneos-arm.deb
-Size: 65704
-MD5sum: 07c8b6fd469b35e161fd63cb43bf5488
-SHA1: 0d9f213b358b51bed5256e8de9c4f586c8b5d244
-SHA256: b76e497fd8de57d2882ae5444f65d4b7a698b3db6c5ec997ef56bf3525d7b32f
+Size: 77620
+MD5sum: 5dcb6ef47cab9f531ecb81f229b57de8
+SHA1: 4c8233efedfa64a839644aac9d689deb7bee507a
+SHA256: 0aa6c1e92f0317ae0c9e5a154abff32e236e1018ccc604d3991ba0a5e7d91627
 Section: Tweaks
-Description: 为键盘下方添加复制.粘贴.全选.撤回等图标。支持第三方输入法。
+Description: 为键盘下方添加复制.粘贴.全选.撤回等图标。支持第三方输入法。Netskao汉化
 Author: udevs
 Depiction: https://kupord.github.io/web/description.html?id=dockx
 Name: DockX
