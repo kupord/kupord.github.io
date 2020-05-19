@@ -1,13 +1,13 @@
 Package: kupord.DouTu
-Version: 2.0-9
+Version: 2.1-0
 Architecture: iphoneos-arm
 Maintainer: admin@25mao.com
 Depends: firmware (>= 5.0), mobilesubstrate
-Filename: ./debs/kupord.doutu_2.0-9_iphoneos-arm.deb
-Size: 195220
-MD5sum: 62cd6d082369b4326a17e5d2d2bd38ad
-SHA1: 00b2690e1afcc7cf02efe080939bf848bff29cac
-SHA256: baad20cec23983b5833977f9980cdc1338e4aa1ec77eefe1d8fd4346a28e247b
+Filename: ./debs/kupord.doutu_2.1-0_iphoneos-arm.deb
+Size: 202996
+MD5sum: 05da6b7d9aabc82466eae1c15cf1ef0c
+SHA1: d34ce1d2a21b845020202b5500e238d3a7ecb813
+SHA256: 3c6832ad4d81d015f938af0bf40bd32c23577576c6bfc37e872423d40c2c8265
 Section: Tweaks
 Priority: optional
 Description: 微信斗图助手
