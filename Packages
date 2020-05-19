@@ -256,6 +256,23 @@ Author: pxcex
 Depiction: https://kupord.github.io/web/description.html?id=apppercent
 Name: App Percent
 
+Package: kupord.appstorebundleid
+Version: 1.0.3
+Architecture: iphoneos-arm
+Maintainer: h4ckua11
+Installed-Size: 152
+Depends: mobilesubstrate
+Filename: ./debs/kupord.appstorebundleid_1.0.3_iphoneos-arm.deb
+Size: 8260
+MD5sum: 1e3179b901d085d3877f425ba3f317cd
+SHA1: 267b7fad17b088524651809ea132698b6f26c7c7
+SHA256: e37e233727eccc9be134a5c84ecb80a41763d48ceb3f0293d2d35d0bc6110447
+Section: Tweaks
+Description: SAppStore BundleID 长按App Store内图标查看并复制bundleid
+Author: h4ckua11
+Depiction: https://kupord.github.io/web/description.html?id=appstorebundleid
+Name: AppStore BundleID
+
 Package: kupord.appstorenohistory
 Version: 0.0~beta8
 Architecture: iphoneos-arm
@@ -2143,17 +2160,17 @@ Depiction: https://kupord.github.io/web/description.html?id=silactions
 Name: Silactions
 
 Package: kupord.snapper2
-Version: 2.3.1
+Version: 2.3.2
 Architecture: iphoneos-arm
 Maintainer: Jonathan
 Installed-Size: 1496
 Depends: mobilesubstrate
 Conflicts: com.jontelang.snapper, com.jontelang.snapper2, com.jontelang.snapper2.packix
-Filename: ./debs/kupord.snapper2_2.3.1_iphoneos-arm.deb
-Size: 258372
-MD5sum: 4f0b31d722e330cccdb37e43fda9821d
-SHA1: 20bdd365068c43eac0130992718154bd3ef68b6b
-SHA256: f74139e0f954f8e882d20401e882605fdbda2c2b20242e488a7278f0b3e0304f
+Filename: ./debs/kupord.snapper2_2.3.2_iphoneos-arm.deb
+Size: 258216
+MD5sum: 90d12f7cfea2553103ec6ec97d009f65
+SHA1: b3432f63f847612ea51a2d230edb03f218c3a496
+SHA256: 1db8414ec3af89feef756b3ba054b7f2b288bd790aa205b4d745076d48dc37bc
 Section: Tweaks
 Description: 智能截图，自定义截图区域，也可以使用Ac手势截图
 Author: Jonathan Winger-lang
@@ -2468,6 +2485,22 @@ Description: VPN Master开启所有线路，去除中国地区限制
 Author: 7Loopy
 Depiction: https://kupord.github.io/web/description.html?id=vpnmastercrack
 Name: VPN Master Crack
+
+Package: kupord.wallpaperloader
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Skitty
+Depends: mobilesubstrate, firmware (>= 13.0)
+Filename: ./debs/kupord.wallpaperloader_1.0_iphoneos-arm.deb
+Size: 11524
+MD5sum: 158f25715227a3c0f618587d134ff0b0
+SHA1: b50c654b01d6e5db6234a6940eab879745fcf08f
+SHA256: 46f1e2d70c52237431b28954140d4730153cc79ba03615c59f445da27eb32776
+Section: Tweaks
+Description: 可以添加智能深色壁纸
+Author: Skitty
+Depiction: Depiction: https://kupord.github.io/web/description.html?id=WallpaperLoader
+Name: WallpaperLoader
 
 Package: kupord.wechatcallkit
 Version: 1.0.0
