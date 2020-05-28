@@ -1059,6 +1059,23 @@ Author: TIGI Software
 Depiction: https://kupord.github.io/web/description.html?id=filza
 Name: Filza File Manager 3.7.4
 
+Package: kupord.filza
+Version: 3.7.6
+Architecture: iphoneos-arm
+Maintainer: TIGI Software
+Depends: firmware (>= 9.0), zip, unzip, gzip, unrar, p7zip
+Conflicts: com.tigisoftware.filza64bit, com.tigisoftware.filza
+Filename: ./debs/kupord.filza_3.7.6_iphoneos-arm.deb
+Size: 10177196
+MD5sum: b7637ab9790b6a189ad66e23dd8416bf
+SHA1: 52fcc715ee19fea384ed98b8c6a6f9648b67846e
+SHA256: ecbdb082f925b497babe8184d851ac3dc21c9e4552a21ea0d6f018fc6cf0c180
+Section: Tweaks
+Description: 越狱必备插件，文件管理器，破解版
+Author: TIGI Software
+Depiction: https://kupord.github.io/web/description.html?id=filza
+Name: Filza File Manager 3.7.6
+
 Package: kupord.flextool
 Version: 0.0.1-2
 Architecture: iphoneos-arm
@@ -2416,6 +2433,23 @@ Author: Spark
 Depiction: https://kupord.github.io/web/description.html?id=tinysiri
 Name: TinySiri
 Sponsor: kupord
+
+Package: kupord.tmxf
+Version: 1.5
+Architecture: iphoneos-arm
+Maintainer: 威风基友mlpzaq9999
+Depends: mobilesubstrate
+Filename: ./debs/kupord.tmxf_1.5_iphoneos-arm.deb
+Size: 41124
+MD5sum: 2b24e2a4abb8811f3fb1f412988c83a5
+SHA1: 80bb871e1cee5137b8c1155bccd6e6ab134b2bb9
+SHA256: df5593629103ab69f40362720fc5db990a1a7641644a9b08b690b6964c0f1c25
+Section: Tweaks
+Description: 修复Cydia启动透明
+Author: 威风基友mlpzaq9999
+Depiction: https://kupord.github.io/web/description.html?id=tmxf
+Name: 修复Cydia启动透明
+Sponsor: 威风基友mlpzaq9999
 
 Package: kupord.tsssaver
 Version: 1.2.0
