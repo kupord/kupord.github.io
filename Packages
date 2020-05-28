@@ -736,26 +736,6 @@ Author: Guillermo Moran
 Depiction: https://kupord.github.io/web/description.html?id=colorboard
 Name: ColorBoard
 
-Package: kupord.colorflow4
-Version: 1.3.6
-Architecture: iphoneos-arm
-Maintainer: ReJail <rejail@rejail.ru>
-Installed-Size: 1924
-Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.5.000), preferenceloader
-Conflicts: org.thebigboss.colorflow, com.golddavid.colorflow2, com.golddavid.colorflow3
-Replaces: org.thebigboss.colorflow, com.golddavid.colorflow2, com.golddavid.colorflow3
-Filename: ./debs/kupord.colorflow4_1.3.6_iphoneos-arm.deb
-Size: 778516
-MD5sum: a379b937508a81fe2cefa979e324effa
-SHA1: 4ea225200fe90ce8e617d7ee24efc9324fe9abab
-SHA256: 24790f9cbde97151829b4eb08f6c2dbd83a3a007fc2ecb37dc3d3edf6749a0a1
-Section: Tweaks
-Description: 音乐播放器美化
-Author: David Goldman <help@golddavid.com>
-Depiction: https://kupord.github.io/web/description.html?id=colorflow4
-Icon: file:///Library/PreferenceBundles/ColorFlow4Prefs.bundle/ColorFlow@3x.png
-Name: ColorFlow 4
-
 Package: kupord.colorflow5
 Version: 1.0.3
 Architecture: iphoneos-arm
@@ -792,21 +772,6 @@ Description: 破解运营商签名验证，让iOS11-12支持电信volet。（仅
 Author: iTweakiOS
 Depiction: https://kupord.github.io/web/description.html?id=commcenterpatch
 Name: CommCenter patch for iOS 11
-
-Package: kupord.conditionalwifi3
-Version: 1.0.1
-Architecture: iphoneos-arm
-Depends: mobilesubstrate, preferenceloader
-Filename: ./debs/kupord.conditionalwifi3_1.0.1_iphoneos-arm.deb
-Size: 11124
-MD5sum: d4b78b667c8e0182227b86252cf6ba1d
-SHA1: c630a9e7a013a9d48f60b329bc28175a76013f9d
-SHA256: 3d92f41ca72bbc996b0ab966f248e78e5075ed1dc2cecdb84be91fc220d7a0ec
-Section: Tweaks
-Description: WIFI联网权限修复
-Author: iOS Creatix
-Depiction: https://kupord.github.io/web/description.html?id=conditionalwifi3
-Name: ConditionalWiFi3
 
 Package: kupord.conditionalwifi4
 Version: 1.0.0
@@ -990,24 +955,6 @@ Author: ConorTheDev
 Depiction: https://kupord.github.io/web/description.html?id=dragspring
 Name: Dragspring
 Sponsor: ConorTheDev
-
-Package: kupord.ext3nder-installer
-Version: 022b
-Architecture: iphoneos-arm
-Maintainer: julioverne
-Pre-Depends: ldid, unzip, coreutils, zip, sed
-Depends: mobilesubstrate
-Conflicts: com.julioverne.ext3nder
-Filename: ./debs/kupord.ext3nder-installer_022b_iphoneos-arm.deb
-Size: 1430660
-MD5sum: 3087e5a25588bcc81e6bf83f9ec63e0b
-SHA1: 44faa0ecc0a0d8a5b19480cd4280dd1362179cb8
-SHA256: 49fa53dec2dbb92791283ba39bd4c59f988b3098042aed79b1610413616685cb
-Section: Tweaks
-Description: 老牌手机端签名IPA工具,现在多用来提取IPA
-Author: julioverne
-Depiction: https://kupord.github.io/web/description.html?id=ext3nder
-Name: Ext3nder Installer
 
 Package: kupord.fastunlockx
 Version: 1.5
@@ -1393,24 +1340,6 @@ Depiction: https://kupord.github.io/web/description.html?id=icleanerpro
 Icon: file:///Applications/iCleaner.app/Icon.png
 Name: iCleaner Pro
 
-Package: kupord.ikeywi4
-Version: 4.0.15
-Architecture: iphoneos-arm
-Maintainer: Pulandres
-Installed-Size: 740
-Depends: preferenceloader, mobilesubstrate, firmware (>= 11.0), applist
-Conflicts: org.thebigboss.ikeywi, tw.hiraku.ikeywi2, tw.hiraku.ikeywi3, tw.hiraku.ikeywi3p, com.tw3pole.exkey, gsc.ipad
-Filename: ./debs/kupord.ikeywi4_4.0.15_iphoneos-arm.deb
-Size: 203960
-MD5sum: 678ba179f37014011443b530f5f622e3
-SHA1: 3757b777b6dd765e51031c594fe354ed6bc988f4
-SHA256: 7d01bf68fc6a482607e56bbdb2c13c3ce85c08996db1e4075b96767e3559695e
-Section: Tweaks
-Description: 键盘增强插件
-Author: Hiraku <dev@hiraku.tw>
-Depiction: https://kupord.github.io/web/description.html?id=ikeywi4
-Name: iKeywi 4
-
 Package: kupord.ithemer
 Version: 2.0.0-2
 Architecture: iphoneos-arm
@@ -1702,22 +1631,6 @@ Description: NiceBarX自己制作的信号图标
 Author: kupord
 Depiction: https://kupord.github.io/web/description.html?id=nicebarx-icon
 Name: NiceBarX图标(iOS12)
-
-Package: kupord.nicebarx13-icon
-Version: 1.0.27
-Architecture: iphoneos-arm
-Maintainer: kuprod
-Depends: mobilesubstrate, firmware (>= 13.0)
-Filename: ./debs/kupord.nicebarx13-icon_1.0.27_iphoneos-arm.deb
-Size: 812040
-MD5sum: e9a641fa177a0962b23f9411111df9b3
-SHA1: 292a3abd85f0c11bb18280e8008d79226f08122c
-SHA256: a5f99b9744a566650de6fa067d4f11d90198311d05a8cdf757886cd6c1b10586
-Section: Tweaks
-Description: NiceBarX自己制作的信号图标
-Author: kupord
-Depiction: https://kupord.github.io/web/description.html?id=nicebarx-icon
-Name: NiceBarX图标(iOS13)
 
 Package: kupord.noctis12
 Version: 1.8.9-5
@@ -2231,24 +2144,6 @@ Author: ubik
 Depiction: https://kupord.github.io/web/description.html?id=sonus12
 Name: Sonus12
 
-Package: kupord.st4.new
-Version: 4.1.0
-Architecture: iphoneos-arm
-Maintainer: sharedRoutine
-Depends: mobilesubstrate, preferenceloader, applist, com.rpetrich.rocketbootstrap
-Replaces: com.springtomize.st4
-Provides: com.springtomize.st4.new
-Filename: ./debs/kupord.st4.new_4.1.0_iphoneos-arm.deb
-Size: 555748
-MD5sum: d9fdaa55ab9cfecb14f93332b20b3565
-SHA1: 87b11b02ab4b9715f9ec3a0cf0eb01699d7ac83d
-SHA256: a9884bb3fc9e5f5b17d41a196fdb01200e9ddf4fca7d8b1a3dbc0ce1964d89b8
-Section: Tweaks
-Description: 一款老牌系统多项目功能性调整，桌面图标，锁屏，控制中心，通知中心等
-Author: sharedRoutine
-Depiction: https://kupord.github.io/web/description.html?id=st4
-Name: Springtomize4
-
 Package: kupord.storeswitcher2
 Version: 1.0.3
 Architecture: iphoneos-arm
@@ -2672,22 +2567,6 @@ Description: 全局虚拟定位，支持自动移动扫街，支持iOS8-iOS13
 Author: Cunstuck
 Depiction: https://kupord.github.io/web/description.html?id=LocationFaker
 Name: LocationFaker
-
-Package: kuprod.pulltorespring
-Version: 1.3
-Architecture: iphoneos-arm
-Maintainer: Noah Saso
-Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 9.0), preferenceloader
-Filename: ./debs/kuprod.pulltorespring_1.3_iphoneos-arm.deb
-Size: 19236
-MD5sum: 56c39f7b225e30a26cf8e88a3439c86b
-SHA1: 4c07e563ef3cacc740d6e158d8d31050f79890ec
-SHA256: d84eead084e6260b03ae93123b2eaf29d0b89073287c2256a78cb639ac65fa4e
-Section: Tweaks
-Description: 在手机设置界面下拉即可实现注销，更新支持A12
-Author: Noah Saso
-Depiction: https://kupord.github.io/web/description.html?id=pulltorespring
-Name: PullToRespring
 
 Package: kuprod.st5
 Version: 5.1.0
