@@ -290,18 +290,18 @@ Depiction: https://kupord.github.io/web/description.html?id=appstorenohistory
 Name: Appstore No History
 
 Package: kupord.appsyncunified
-Version: 74.0
+Version: 76.0
 Architecture: iphoneos-arm
 Maintainer: Karen/あけみ <karen@akemi.ai>
 Depends: firmware (>= 5.0), firmware (<= 13.3.1), firmware (<< 12.0) | mobilesubstrate (>= 0.9.5100) | mobilesubstrate (<= 0.9.6301) | mobilesubstrate (= 0.9.7020) | mobilesubstrate (= 0.9.7033) | mobilesubstrate (>= 0.9.7034) | com.ex.substitute (>= 0.1.0), firmware (<< 12.0) | mobilesubstrate (<< 99.0) | com.ex.libsubstitute (>= 0.1.1)
 Conflicts: us.hackulo.appsync50, us.hackulo.appsync50plus, com.hackyouriphone.appsync7, com.teiron.ppsync, appsync50plus2.25pp, com.linusyang.appsync, com.sull.appsyncunified, com.sull.appsyncunifiedbeta, com.xsellize.appsync50, com.xsellize.appsync50plus, appsync50plus.178, appsync50plus2.178, cydia.net.angelxwind.appsyncunified, science.xnu.substitute, net.angelxwind.appsyncunified, netskao.appsyncunified
 Replaces: us.hackulo.appsync50
 Provides: appsync
-Filename: ./debs/kupord.appsyncunified_74.0_iphoneos-arm.deb
-Size: 26424
-MD5sum: 3f1a4592ac95804735d4eb63598c8e36
-SHA1: 83a79209b0410624b794214ebde5cb1f7ca41342
-SHA256: 5e63746b0323c2504daf9951a35d1200380e8e46e2d88068f101a51541ed6650
+Filename: ./debs/kupord.appsyncunified_76.0_iphoneos-arm.deb
+Size: 26416
+MD5sum: 00b74e45d16e8991caa82a1cafc6176a
+SHA1: a6eb4b8164d8ca0b724c4d0359556e7ca03f3fa9
+SHA256: 086f0280ef06d1f364d44c866cd06652a411e415567be879fa5e723795756359
 Section: Tweaks
 Description: 安装未签名应用
 Author: Linus Yang, Karen/あけみ <karen@akemi.ai>
@@ -2160,17 +2160,16 @@ Depiction: https://kupord.github.io/web/description.html?id=silactions
 Name: Silactions
 
 Package: kupord.snapper2
-Version: 2.3.2
+Version: 2.4.2
 Architecture: iphoneos-arm
 Maintainer: Jonathan
-Installed-Size: 1496
 Depends: mobilesubstrate
 Conflicts: com.jontelang.snapper, com.jontelang.snapper2, com.jontelang.snapper2.packix
-Filename: ./debs/kupord.snapper2_2.3.2_iphoneos-arm.deb
-Size: 258216
-MD5sum: 90d12f7cfea2553103ec6ec97d009f65
-SHA1: b3432f63f847612ea51a2d230edb03f218c3a496
-SHA256: 1db8414ec3af89feef756b3ba054b7f2b288bd790aa205b4d745076d48dc37bc
+Filename: ./debs/kupord.snapper2_2.4.2_iphoneos-arm.deb
+Size: 197204
+MD5sum: bab642685c6964cc3253342739da21f7
+SHA1: b4e577d4b8f4b2532365da381f7196a39a55040b
+SHA256: 4540598d074f5f1d1311119529db610180d83fe53a8bdf5437535f96f12dd18b
 Section: Tweaks
 Description: 智能截图，自定义截图区域，也可以使用Ac手势截图
 Author: Jonathan Winger-lang
