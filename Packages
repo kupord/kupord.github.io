@@ -641,15 +641,15 @@ Maintainer: kupord
 Depends: firmware (>= 13.0), mobilesubstrate, com.opa334.ccsupport
 Conflicts: kupord.flipconvert, kupord.flipconvert13, kupord.ccmodules, netskao.ccpower, netskao.alipayscan, netskao.wechatscan
 Filename: ./debs/kupord.ccplus_1.0.0_iphoneos-arm.deb
-Size: 212996
-MD5sum: 4d9036e677c506255c79e0ddc6fb1a92
-SHA1: e7efa0700713469c138c978bf558303695840ff2
-SHA256: f00720a06711d6b37c37ac808a85c5bd6aa7e4c0e6aae9a380d7639ec2b9b0dc
+Size: 212964
+MD5sum: 97bdb03ddfd0ece2a3af8c91751408f4
+SHA1: 2f6142f3213bbfedfae5d55a8fb5adf196e9c048
+SHA256: 52a6f1f424c6dd241196d2d42a4724d509ccd3bd8e479cdee9dbc5f1611d09ee
 Section: Tweaks
 Description: 控制中心快捷按键,添加高清图标
 Author: kupord
 Depiction: https://kupord.github.io/web/description.html?id=ccplus
-Name: CCPlus
+Name: CCPlus+
 Sponsor: kupord
 
 Package: kupord.classickeyboardxs
