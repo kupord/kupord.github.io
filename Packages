@@ -380,15 +380,15 @@ Depiction: https://kupord.github.io/web/description.html?id=autofolderclose
 Name: AutoFolderClose
 
 Package: kupord.autounlockx
-Version: 1.0.15
+Version: 1.0.16
 Architecture: iphoneos-arm
 Maintainer: No
 Depends: mobilesubstrate
-Filename: ./debs/kupord.autounlockx_1.0.15_iphoneos-arm.deb
-Size: 64760
-MD5sum: 182d143b6895359856757c8cc13d7278
-SHA1: 94e9e9e7b505e4e696e62eec0cb2f63ed126ca5c
-SHA256: e2fb99fdd49f40e4bce4d5adc9c74fa3f2f35d550ab0e3803e0ec17e81ac927a
+Filename: ./debs/kupord.autounlockx_1.0.16_iphoneos-arm.deb
+Size: 65304
+MD5sum: 380ea32c269fb31ce0bfaa8a98ecf45d
+SHA1: 9c6cbce7c269dc1f570a4359354a769685e3b4e2
+SHA256: 691b964385619422f03e42e4261953eb6dc36cca5fa5c81090641b9723553cf6
 Section: Tweaks
 Description: 自动面部识别解锁进入桌面，自动重试
 Author: Spark
@@ -535,38 +535,21 @@ Author: Jake James
 Depiction: https://kupord.github.io/web/description.html?id=bounceit
 Name: Bounce It!
 
-Package: kupord.bundleIdsxi
-Version: 2.0.1
-Architecture: iphoneos-arm
-Maintainer: TD
-Depends: applist
-Conflicts: de.mass1veerr0r.bundleidsxii, com.td.bundleidsxi
-Filename: ./debs/kupord.bundleidsxi_2.0.1_iphoneos-arm.deb
-Size: 46784
-MD5sum: ca58040aff63fb1d11b448e6b4548c90
-SHA1: 66edeac1c6f1c786d97090721f169d341138b0fb
-SHA256: 880bdebfe84bc27d730e65a35b4731d7d236aa9ae00dc505f89897b3447f8590
-Section: Tweaks
-Description: 快捷查询应用的bundleID，对爱做主题图标的同学很有用
-Author: TD
-Depiction: https://kupord.github.io/web/description.html?id=bundleIdsxi
-Name: BundleIDsXII
-
 Package: kupord.bundleidsxi
-Version: 1.3.0
+Version: 1.4.2
 Architecture: iphoneos-arm
 Maintainer: Nets
 Depends: applist
-Filename: ./debs/kupord.bundleidsxi_1.3.0_iphoneos-arm.deb
-Size: 121280
-MD5sum: 5f662c247b6aebf366a1b3b4a3b1f496
-SHA1: b012dbe1dfb247810a3b0a9c9f3a622e5331a640
-SHA256: 9cda79bdacbc3390a6e81fa36de26339d85d77202d65e1bb191143d58667eeba
+Filename: ./debs/kupord.bundleidsxi_1.4.2_iphoneos-arm.deb
+Size: 121656
+MD5sum: ecd6ca2a7be9a86cdc640c4a5b38053b
+SHA1: 83cb757a9f2f39201ca994279116112740dcc816
+SHA256: 95065bb99280c4e43ccc4d79c47487f4d8fd72cba2d721a38d03ca30c105128e
 Section: Tweaks
 Description: 快捷查询应用的bundleID，对爱做主题图标的同学很有用 bundle IDs.
 Author: TD
 Depiction: https://kupord.github.io/web/description.html?id=bundleidsxi
-Name: BundleIDsXI
+Name: BundleIDsXI13
 
 Package: kupord.cacheclearer
 Version: 0.2
@@ -641,10 +624,10 @@ Maintainer: kupord
 Depends: firmware (>= 13.0), mobilesubstrate, com.opa334.ccsupport
 Conflicts: kupord.flipconvert, kupord.flipconvert13, kupord.ccmodules, netskao.ccpower, netskao.alipayscan, netskao.wechatscan
 Filename: ./debs/kupord.ccplus_1.0.0_iphoneos-arm.deb
-Size: 216068
-MD5sum: 8ef5258a7a1110918e398852fae2a511
-SHA1: 66aa506f649951fe9a65367fc6a099691ecbd153
-SHA256: 20aaee5af120685a7ff97fbf80273dab0dedf67161fb7ed96ece82e8618d7de7
+Size: 216140
+MD5sum: 7174aa3e8c971df74e3f156c2ce828b1
+SHA1: c5279384982fe87f8a5b2162aec89c270872d4ae
+SHA256: 98e74585232630418d2e9296262bf92565b103d9457295a625485e2412df86bf
 Section: Tweaks
 Description: 控制中心快捷按键,添加高清图标
 Author: kupord
@@ -940,18 +923,18 @@ Depiction: https://kupord.github.io/web/description.html?id=DismissProgress
 Name: DismissProgress
 
 Package: kupord.dockx
-Version: 1.3.2
+Version: 1.3.3
 Architecture: iphoneos-arm
 Maintainer: udevs
 Depends: mobilesubstrate, com.rpetrich.rocketbootstrap (>= 1.0.2) | firmware (<< 7.0), firmware(>=12.0)
 Conflicts: com.cpdigitaldarkroom.barmoji, com.restiveconch.actionbar, com.udevs.dockx
-Filename: ./debs/kupord.dockx_1.3.2_iphoneos-arm.deb
-Size: 64720
-MD5sum: 70acf081e7cc4dc6b78c35abec2551f7
-SHA1: 6df555b674ffb1e2f528720cbe4ab6260eacb8d4
-SHA256: 3aa1b3350518091af9f7226a5ba1992f14f0041b774188447106807628836a6a
+Filename: ./debs/kupord.dockx_1.3.3_iphoneos-arm.deb
+Size: 64412
+MD5sum: e81b25346260c38a1399e9c7e908a7f9
+SHA1: 9daf5306fe2bd89026452618580e3c2d2428131b
+SHA256: 31c5c866d4db254239edea7749a7176c9cf7c8582c23951e9bb96c718dcc297f
 Section: Tweaks
-Description: 为键盘下方添加复制.粘贴.全选.撤回等图标。支持第三方输入法。Netskao汉化
+Description: 为键盘下方添加复制.粘贴.全选.撤回等图标。支持第三方输入法
 Author: udevs
 Depiction: https://kupord.github.io/web/description.html?id=dockx
 Name: DockX
