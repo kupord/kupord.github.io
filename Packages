@@ -1574,10 +1574,10 @@ Maintainer: akusio <akusio-report@neko2.net>
 Depends: mobilesubstrate, com.opa334.ccsupport, firmware(>= 13.0)
 Conflicts: jp.akusio.backgrounderaction13, kupord.milkyway1
 Filename: ./debs/kupord.milkyway2_0.2.0-alpha_iphoneos-arm.deb
-Size: 55812
-MD5sum: ca87a266599e3794ee4edaa7d7c14175
-SHA1: ac302cb6c7ae1cf17ade509c744d745f7ae53465
-SHA256: b2f7bd61508ddc6acac46038f9a243c50a09df115218dee561c6ec1ff04e9c8f
+Size: 58252
+MD5sum: 99b62b9a54606e71f8a802d908085c32
+SHA1: a90cb45d5e1c17d3c6ca6e18ecbb89b76921c3dc
+SHA256: 1284627a83bb041bf3d7feb516ef1c4ef7f7c05e8c93a5fe5c24b69360777464
 Section: Tweaks
 Description: 强大的多任务窗口操作，一边追剧一边打游戏，个人修改按钮及标题框透明度
 Author: akusio <akusio-report@neko2.net>
