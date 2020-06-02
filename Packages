@@ -1322,23 +1322,21 @@ Icon: file:///Applications/iCleaner.app/Icon.png
 Name: iCleaner Pro
 
 Package: kupord.icleanerpro
-Version: 7.8.2
+Version: 7.8.3-beta1
 Architecture: iphoneos-arm
 Maintainer: Ivano Bilenchi <support@ib-soft.net>
 Depends: firmware (>= 4.0), findutils, apt | apt7
 Conflicts: org.altervista.exilecom.icleaner, com.exile90.icleanerpro
 Replaces: org.altervista.exilecom.icleaner
-Filename: ./debs/kupord.icleanerpro_7.8.2_iphoneos-arm.deb
-Size: 6737692
-MD5sum: dec799477656a9c44698865a47119d1d
-SHA1: 63c8fbe395ae592ba54366feb93078ab68468377
-SHA256: 11f1723d8c1e1146b6ace3c3cf7d91132d00e47735d8a358891a3fec770e452a
+Filename: ./debs/kupord.icleanerpro_7.8.3-beta1_iphoneos-arm.deb
+Size: 4868828
+MD5sum: bec3040174d6d2039208763d2d0776b6
+SHA1: 5abdaf41cf2a13796f7fa292a8ed6db1eb2b4a17
+SHA256: 277b5987b08e76101dca072c3b9a88fa036bf9c8cee239e5936e5e87f1c6de92
 Section: Tweaks
-Homepage: http://ib-soft.net/icleaner
 Description: 老牌清理工具，越狱必备,破解版
 Author: Ivano Bilenchi <support@ib-soft.net>
 Depiction: https://kupord.github.io/web/description.html?id=icleanerpro
-Icon: file:///Applications/iCleaner.app/Icon.png
 Name: iCleaner Pro
 
 Package: kupord.instalauncher2
