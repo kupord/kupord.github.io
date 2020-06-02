@@ -617,24 +617,6 @@ Author: tateu (Josh Harris)
 Depiction: https://kupord.github.io/web/description.html?id=calldismiss
 Name: CallDismiss
 
-Package: kupord.ccplus
-Version: 1.0.0
-Architecture: iphoneos-arm
-Maintainer: kupord
-Depends: firmware (>= 13.0), mobilesubstrate, com.opa334.ccsupport
-Conflicts: kupord.flipconvert, kupord.flipconvert13, kupord.ccmodules, netskao.ccpower, netskao.alipayscan, netskao.wechatscan
-Filename: ./debs/kupord.ccplus_1.0.0_iphoneos-arm.deb
-Size: 216140
-MD5sum: 7174aa3e8c971df74e3f156c2ce828b1
-SHA1: c5279384982fe87f8a5b2162aec89c270872d4ae
-SHA256: 98e74585232630418d2e9296262bf92565b103d9457295a625485e2412df86bf
-Section: Tweaks
-Description: 控制中心快捷按键,添加高清图标
-Author: kupord
-Depiction: https://kupord.github.io/web/description.html?id=ccplus
-Name: CCPlus+
-Sponsor: kupord
-
 Package: kupord.classickeyboardxs
 Version: 1.1
 Architecture: iphoneos-arm
