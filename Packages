@@ -1340,17 +1340,16 @@ Depiction: https://kupord.github.io/web/description.html?id=icleanerpro
 Name: iCleaner Pro
 
 Package: kupord.instalauncher2
-Version: 1.6
+Version: 1.7.1
 Architecture: iphoneos-arm
 Maintainer: Jonathan Winger Lang
-Installed-Size: 1048
 Depends: mobilesubstrate, preferenceloader, applist(>=1.5.15), firmware(>=12.1)
 Conflicts: com.jontelang.instalauncher2.beta
-Filename: ./debs/kupord.instalauncher2_1.6_iphoneos-arm.deb
-Size: 193180
-MD5sum: bcfa01c3c3107b2cf2f011562f3df96a
-SHA1: af7e8750621f175b6aca8f9d0e7d043dc1f36529
-SHA256: 60879bdba8aeb7d8db6c1576e564776ef4b66ae956b4c086acb8e6934b5d6e4a
+Filename: ./debs/kupord.instalauncher2_1.7.1_iphoneos-arm.deb
+Size: 200968
+MD5sum: 2fec6e24f14803e1c2778514d91f4312
+SHA1: 34aa900d4db09c50dc43702e6916ca2b59026cce
+SHA256: c4ccbf08b960aa315de6f6df6298bffa8ddea46619e75cd7c80f078d3c9401de
 Section: Tweaks
 Description: InstaLauncher允许您快捷访问任何应用程序
 Author: Jonathan Winger Lang
