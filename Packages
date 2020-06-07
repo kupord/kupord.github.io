@@ -2154,10 +2154,10 @@ Maintainer: ARX8x
 Installed-Size: 1916
 Depends: mobilesubstrate
 Filename: ./debs/kupord.systeminfo_2.7.2-1_iphoneos-arm.deb
-Size: 264512
-MD5sum: 03c92eae13fe15a202ee78d0a985ca46
-SHA1: 91739381e44b10942e7462f3d8c5f9709a96e8d3
-SHA256: 3391b7238948b7c7483710524761b4965909e244cc8fab4a8521dbf931a69d9c
+Size: 329168
+MD5sum: 9fd5b34032ed5adf2c2f782f930c95c9
+SHA1: 2b38e406392ef0fc723a2475a057c7e6c4024e1b
+SHA256: c99525d76cfb22fc4fee9d79aaa190690484c6200194338bb13b858f3ce93be6
 Section: Tweaks
 Description: 系统信息查看增强，在设置-通用-关于手机，页面增加其他设备信息
 Author: ARX8x
