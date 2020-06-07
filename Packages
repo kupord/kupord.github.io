@@ -1241,6 +1241,24 @@ Dev: netskao
 Name: HideAllBar
 Sponsor: thebigboss.org <http://thebigboss.org>
 
+Package: kupord.hidejblite
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: TTJB Team <admin@thuthuatjb.com>
+Depends: mobilesubstrate, applist, preferenceloader, ws.hbang.common
+Conflicts: com.thuthuatjb.hidejb, com.thuthuatjb.hidejblite
+Replaces: com.thuthuatjb.hidejb
+Filename: ./debs/kupord.hidejblite_1.0_iphoneos-arm.deb
+Size: 139808
+MD5sum: 2bda60979bbad524c7bc59b5dde096e8
+SHA1: e9cddc197ac946c487475722f34409b9dd72352b
+SHA256: acd771b6d6eac8c44768c6244b02aa260f34ca52667a3c40480b92451d3999fb
+Section: Tweaks
+Description: 屏蔽越狱检测app
+Author: TTJB Team <admin@thuthuatjb.com>
+Depiction: https://kupord.github.io/web/description.html?id=hidejblite
+Name: HideJB Lite
+
 Package: kupord.homebarsizer
 Version: 1.0-5-1
 Architecture: iphoneos-arm
