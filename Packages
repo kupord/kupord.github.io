@@ -629,10 +629,10 @@ Architecture: iphoneos-arm
 Depends: mobilesubstrate
 Conflicts: com.isklikas.3dbadgeclear, netskoa.3dbadgeclear, com.twickd.john-sklikas.3dbadgeclear
 Filename: ./debs/kupord.clearbadges3dtouch_1.6.7_iphoneos-arm.deb
-Size: 137928
-MD5sum: 976d7ab9900ad674af9acd21868791e4
-SHA1: 19120979b5c3d5afc684e8d10438ea297615313f
-SHA256: 029f019e365abb787795d9920dedc4a45e4c24867379dff11b4044e7ab36937f
+Size: 146488
+MD5sum: b2392c82035e76b60ddd0eed12d5f472
+SHA1: 98b93c734e0ad11b40087479acda10869cd64ebd
+SHA256: b9e6e42a2afbfb89ecc126d4ccc8dff3b17a795201989a4704b7d697ddb775db
 Section: Tweaks
 Description: 使用长按或者3D Touch菜单来清理桌面角标
 Author: isklikas
@@ -693,10 +693,10 @@ Version: 1.0.2
 Architecture: iphoneos-arm
 Depends: firmware (>= 13.0), mobilesubstrate (>= 0.9.5.000), org.thebigboss.libcolorpicker (>= 1.1)
 Filename: ./debs/kupord.colorbanners3_1.0.2_iphoneos-arm.deb
-Size: 211956
-MD5sum: 67f66d4f9684eaa7d317f6a46e9ec735
-SHA1: 705b9e652324e4a26179fce395e0a19a6e4ab704
-SHA256: 3bdf8b298c2a954244be48bf4ed2ea2eb76c1e5c571272d4286041fb4c5b1322
+Size: 211748
+MD5sum: 904b6628f668954aef62aa5a6d16b7ec
+SHA1: cdfaa4c042782717a531fc9a3e71c92d959f22f1
+SHA256: baac5e6bb7b6d03157795ef675580432762c7217dac49ec0664bee68d2602dda
 Section: Tweaks
 Description: ColorBanners已被完全重写以支持iOS 13，包括全暗模式支持，完全自定义你的通知颜色
 Author: David Goldman
@@ -1348,10 +1348,10 @@ Architecture: iphoneos-arm
 Maintainer: Cem K
 Depends: mobilesubstrate
 Filename: ./debs/kupord.killx_1.2_iphoneos-arm.deb
-Size: 60700
-MD5sum: 6f2e111553230fba06ee39ec72917b38
-SHA1: ebe89df52857965b30dd1798a4d1104a1c2b1a2c
-SHA256: 0dece6161b006959a1fc8cc1d7c23f52fe415ae56987b0c3dbf9bfae4a59caba
+Size: 60744
+MD5sum: 50cf04a4fccc2b40a781e3158a464ed2
+SHA1: 25e58bb889ebf7d07c4dae4b8e1c616df505ad3b
+SHA256: 6c9225d673c2b1ae0cecd4dfdf24d8106edb38da0175f609733bc1999600cdce
 Section: Tweaks
 Description: 下滑后台卡片一键关闭后台所有多任务
 Author: Cem K
