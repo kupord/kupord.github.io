@@ -575,10 +575,10 @@ Maintainer: kupord
 Depends: firmware (>= 13.0), mobilesubstrate, com.opa334.ccsupport
 Conflicts: kupord.flipconvert, kupord.flipconvert13, kupord.ccmodules, netskao.ccpower, netskao.alipayscan, netskao.wechatscan
 Filename: ./debs/kupord.ccplus_1.0.0_iphoneos-arm.deb
-Size: 239312
-MD5sum: 6a33c70df4fc3fa5e865fe313adfe233
-SHA1: e6e72199011a976e14de20b916233b6c7743ef8c
-SHA256: 81884410487e12d18432d393722d4bff869973992dd90dd5807b371165e26655
+Size: 239356
+MD5sum: f738eda6d59477424eb97140581df4a2
+SHA1: f63599b7916376c90c02b5e91cfe52014d2287a3
+SHA256: ce3056293628fcabb053c9f4c2fc1658e34ddbf811ed494594345628e2c7a493
 Section: Tweaks
 Description: 控制中心快捷按键,添加高清图标
 Author: kupord
