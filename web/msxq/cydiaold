@@ -1,0 +1,9 @@
+{
+"name": "Cydia老版本",
+"desc_short": "cydia老版本1.1.32-b25。更改版本号以屏蔽更新，这个版本正常刷新源，不会出现缓慢无法刷新的情况",
+"compatitle": "本插件支持iOS10-13.3",
+"changelog": "<strong>◉暂无记录</strong><br>◎暂时没有更新详情<br>",
+"warning": "",
+"screenshot": "<td><img height=400px src='./jt/wu.png'/></td>",
+"open": true,
+}
