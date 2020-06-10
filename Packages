@@ -1919,6 +1919,21 @@ Author: Matt Clarke
 Depiction: https://kupord.github.io/web/description.html?id=reprovision
 Name: ReProvision
 
+Package: kupord.rofi
+Version: 1.1.0-2
+Architecture: iphoneos-arm
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0), preferenceloader, com.spark.libsparkcolourpicker (>=0.0.26), ws.hbang.common (>= 1.11), applist
+Filename: ./debs/kupord.rofi_1.1.0-2_iphoneos-arm.deb
+Size: 56260
+MD5sum: 7124e5d955886d9d0b6d2955e6ccabbc
+SHA1: de4a1cb58ba2cf2ba7f96e63648460bd83d4f242
+SHA256: 335c7f09a90dfea1d788bcd4d6b720c4bad72fa518de366df211f6037a8e7b7e
+Section: Tweaks
+Description: 桌面创建一个侧边快捷，可以添加app快捷切换
+Author: Kef
+Depiction: https://kupord.github.io/web/description.html?id=rofi
+Name: Rofi
+
 Package: kupord.rooster
 Version: 1.0.0
 Architecture: iphoneos-arm
