@@ -33,19 +33,19 @@ Icon: null
 Name: 微信转账金额修改
 
 Package: kupord.Flex3beta
-Version: 1:3~Beta90
+Version: 1:3~Beta91
 Architecture: iphoneos-arm
 Maintainer: John Coates
 Depends: mobilesubstrate, firmware (>=12.2) | org.swift.libswift (>=5.0), firmware (>= 9.0)
 Conflicts: Flexpackage, Flexpackagebeta, com.fuyuchi.flex, Flex2packagebeta, Flex2package,  com.fuyuchi.flex2, Flex2Blackpackagebeta, com.johncoates.Flex3, Flex3FeatureCatalog, Flex3ToolsOnly
 Replaces: Flexpackage, Flexpackagebeta, com.fuyuchi.flex, Flex2packagebeta, Flex2package,  com.fuyuchi.flex2, Flex2Blackpackagebeta, com.johncoates.Flex3, Flex3FeatureCatalog, Flex3ToolsOnly
-Filename: ./debs/kupord.flex3beta_3~Beta90_iphoneos-arm.deb
-Size: 9687904
-MD5sum: bed8c795c6eda81c7c5531c59b3bf81e
-SHA1: d97b6788208afc68514dd74f6d15a76e1b7af2cb
-SHA256: 4a6380ed9489106d6dcf1f17aad2784a16c75332f1f89e0a54662e97af2d5e70
+Filename: ./debs/kupord.flex3beta_3~Beta91_iphoneos-arm.deb
+Size: 9817416
+MD5sum: 46562445d76179bac7350e879176cbe8
+SHA1: fdebe16f1c22aa843556d124cb4851441fb9b9ac
+SHA256: 297ad5675721200df4e0bb74acb18bef0cdeee9a5c04702b88c7634fdfd3e7e0
 Section: Tweaks
-Description: Develop your own tweaks and share them on the Flex Community Cloud
+Description: Flex强大的程序修改器
 Author: John Coates
 Depiction: https://kupord.github.io/web/description.html?id=Flex3beta
 Name: Flex 3 Beta
@@ -689,14 +689,14 @@ Depiction: https://kupord.github.io/web/description.html?id=colorbadges
 Name: ColorBadges
 
 Package: kupord.colorbanners3
-Version: 1.0.2
+Version: 1.0.3
 Architecture: iphoneos-arm
 Depends: firmware (>= 13.0), mobilesubstrate (>= 0.9.5.000), org.thebigboss.libcolorpicker (>= 1.1)
-Filename: ./debs/kupord.colorbanners3_1.0.2_iphoneos-arm.deb
-Size: 211748
-MD5sum: 904b6628f668954aef62aa5a6d16b7ec
-SHA1: cdfaa4c042782717a531fc9a3e71c92d959f22f1
-SHA256: baac5e6bb7b6d03157795ef675580432762c7217dac49ec0664bee68d2602dda
+Filename: ./debs/kupord.colorbanners3_1.0.3_iphoneos-arm.deb
+Size: 224764
+MD5sum: 81465297b547917fe89702816909b2fc
+SHA1: 75001296f6163fd5b592781d142256412f6abc0f
+SHA256: 062b64818978ea475fbb720a9502ba6668b32e9c98255223dff3185a248eaf78
 Section: Tweaks
 Description: ColorBanners已被完全重写以支持iOS 13，包括全暗模式支持，完全自定义你的通知颜色
 Author: David Goldman
@@ -1603,12 +1603,12 @@ Architecture: iphoneos-arm
 Maintainer: DGh0st
 Depends: mobilesubstrate
 Filename: ./debs/kupord.no3dtouchwidgets_0.0.2_iphoneos-arm.deb
-Size: 4676
-MD5sum: 0805c486d3020dba4b04c63f7c729cb5
-SHA1: 1a216549b0f8682a1b57760ea0122fcc880aa93b
-SHA256: a9ebe5cbe030c730eb4ba004720fb9bbf29b1675da6e2a6bd4e57d256dc99563
+Size: 4652
+MD5sum: bceaa4c7e42f21c462fa9989522c6783
+SHA1: 7ea3ed6db03fe4e3fae21579d35554dedefb964c
+SHA256: 31f0cdcdfe7cb7232390cbbbb641de4faecb01f8e06629e92ce354150bc153a1
 Section: Tweaks
-Description: 3DTouch中去除小组件快捷方式，效果预览截图
+Description: 3DTouch中去除小组件快捷方式
 Author: DGh0st
 Depiction: https://kupord.github.io/web/description.html?id=
 Name: No3DTouchWidgets
@@ -2057,16 +2057,16 @@ Depiction: https://kupord.github.io/web/description.html?id=shuffle
 Name: Shuffle
 
 Package: kupord.snapper2
-Version: 2.4.2
+Version: 2.4.3
 Architecture: iphoneos-arm
 Maintainer: Jonathan
 Depends: mobilesubstrate
 Conflicts: com.jontelang.snapper, com.jontelang.snapper2, com.jontelang.snapper2.packix
-Filename: ./debs/kupord.snapper2_2.4.2_iphoneos-arm.deb
-Size: 201308
-MD5sum: b40278d4637c0c2fe684fcff980763d4
-SHA1: 2f0e24d162a6d2cc324b60b2f617b8badb555709
-SHA256: 9c197e6884b38d6a8750fa600297196ccb9d2716a86211bb2d2f46a7fd3f499f
+Filename: ./debs/kupord.snapper2_2.4.3_iphoneos-arm.deb
+Size: 202280
+MD5sum: 129d9d0aa395b4287f5c77d5bb87bc02
+SHA1: bde51764c2a90fb85cdd6272dce9d433bb380f2c
+SHA256: 34abd05be44a455748219e5003a11add455f8a383dc535d35c3e70245832c06b
 Section: Tweaks
 Description: 智能截图，自定义截图区域，也可以使用Ac手势截图
 Author: Jonathan Winger-lang
@@ -2398,16 +2398,16 @@ Depiction: https://kupord.github.io/web/description.html?id=wechathookpro
 Name: WeChatHookPro
 
 Package: kupord.xenhtml
-Version: 2.0-beta3.1
+Version: 2.0-beta3.2
 Architecture: iphoneos-arm
 Maintainer: kupord
 Depends: firmware (>= 9.0), mobilesubstrate, preferenceloader, firmware (>= 11.0) | com.unlimapps.uaunbox
 Provides: com.groovycarrot.groovylock, com.bushe.lockhtml4, com.bushe.lockhtml3, com.bushe.lockhtml2, cydget, com.groovycarrot.sbhtml
-Filename: ./debs/kupord.xenhtml_2.0-beta3.1_iphoneos-arm.deb
-Size: 3313148
-MD5sum: 54d1e0fe8549fe09a5b41ecb6ab506c4
-SHA1: d6d8424851f7ffe5bde780a0fb3d7afb808a9aca
-SHA256: 36ef9e36a026e1e21ede9893d89afe8b69f81770e2565b129f653e8106ad3364
+Filename: ./debs/kupord.xenhtml_2.0-beta3.2_iphoneos-arm.deb
+Size: 3315340
+MD5sum: 2b65a58a46c1ad2471d14eeb7a18c521
+SHA1: 9df3e46f5480603c2fdd5ebce8cd080a730e9c9e
+SHA256: 310d542268d0b0d370aa196e37f1d3895dfe5e66859cc63e160fa5590fecf145
 Section: Tweaks
 Priority: optional
 Description: HTML高级锁屏和主屏幕完美汉化主题平台
