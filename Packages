@@ -2453,15 +2453,15 @@ Depiction: https://kupord.github.io/web/description.html?id=crashreporter
 Name: CrashReporter
 
 Package: kuprod.st5
-Version: 5.1.7
+Version: 5.1.8
 Architecture: iphoneos-arm
 Maintainer: sharedRoutine
 Depends: mobilesubstrate, preferenceloader, applist, com.rpetrich.rocketbootstrap
-Filename: ./debs/kuprod.st5_5.1.7_iphoneos-arm.deb
-Size: 403172
-MD5sum: 97bf4805ec77c622c4bbf8f8b15c0042
-SHA1: 1020a35da30f0fec1a520f198e900302e178885f
-SHA256: fa0e7715e3756bc69ff66ff9c0bc6c6a588421b172077d2c27ac9992a287b82a
+Filename: ./debs/kuprod.st5_5.1.8_iphoneos-arm.deb
+Size: 436664
+MD5sum: accbfe432e89fe0525e8a0f2c61908f2
+SHA1: 4cb0154043aa6a48f0032d4bb75ae5e7552640ce
+SHA256: c1b56aaa40493d86943890aa016e3e7d849e428a5ca36149032838df0969ebb1
 Section: Tweaks
 Description: 最强大的桌面自定义软件，具体效果预览截图
 Author: sharedRoutine
