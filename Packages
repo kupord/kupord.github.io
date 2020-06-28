@@ -624,15 +624,15 @@ Depiction: https://kupord.github.io/web/description.html?id=clearbadges3dtouch
 Name: 3DBadgeClear
 
 Package: kupord.clearbadges3dtouch
-Version: 1.6.7
+Version: 1.6.8
 Architecture: iphoneos-arm
 Depends: mobilesubstrate
 Conflicts: com.isklikas.3dbadgeclear, netskoa.3dbadgeclear, com.twickd.john-sklikas.3dbadgeclear
-Filename: ./debs/kupord.clearbadges3dtouch_1.6.7_iphoneos-arm.deb
-Size: 146488
-MD5sum: b2392c82035e76b60ddd0eed12d5f472
-SHA1: 98b93c734e0ad11b40087479acda10869cd64ebd
-SHA256: b9e6e42a2afbfb89ecc126d4ccc8dff3b17a795201989a4704b7d697ddb775db
+Filename: ./debs/kupord.clearbadges3dtouch_1.6.8_iphoneos-arm.deb
+Size: 139880
+MD5sum: 74cd1eba0070771b6c72e77671cb49f1
+SHA1: fdbd20c847512b56be9a08ba03804677be82a966
+SHA256: 6779e32ebfbdd84059f0c9e37aba32d8d769f6ef643922c485f7c26e5b388404
 Section: Tweaks
 Description: 使用长按或者3D Touch菜单来清理桌面角标
 Author: isklikas
@@ -889,16 +889,16 @@ Depiction: https://kupord.github.io/web/description.html?id=DismissProgress
 Name: DismissProgress
 
 Package: kupord.dockx
-Version: 1.3.7
+Version: 1.4.0
 Architecture: iphoneos-arm
 Maintainer: udevs
 Depends: mobilesubstrate, com.rpetrich.rocketbootstrap (>= 1.0.2) | firmware (<< 7.0), firmware(>=12.0), ws.hbang.alderis
 Conflicts: com.cpdigitaldarkroom.barmoji, com.restiveconch.actionbar, com.udevs.dockx
-Filename: ./debs/kupord.dockx_1.3.7_iphoneos-arm.deb
-Size: 68520
-MD5sum: 814a106f3f202b452288d7bbec696f9a
-SHA1: 470b16f05a2bbd35aa31069ff2ab2100d1e1e435
-SHA256: 2a4ca5d1f7146e0fb79db9d32433f3af843f9d5057428c0e4253e830baee94b3
+Filename: ./debs/kupord.dockx_1.4.0_iphoneos-arm.deb
+Size: 73428
+MD5sum: 4da38ff8bf9850d317b4fc1c43d2ea86
+SHA1: 7754931f87bfda8cf77fdfb1acbf79b1a460d0e0
+SHA256: b473d17ca01cae9c2789dd406abb015d186f1724dcbd7be04dae3661d9ea4da4
 Section: Tweaks
 Description: 为键盘下方添加复制.粘贴.全选.撤回等图标。支持第三方输入法
 Author: udevs
