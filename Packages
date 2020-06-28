@@ -974,21 +974,21 @@ Depiction: https://kupord.github.io/web/description.html?id=filza
 Name: Filza File Manager 3.7.4
 
 Package: kupord.filza
-Version: 3.7.6-30
+Version: 3.7.7-4
 Architecture: iphoneos-arm
 Maintainer: TIGI Software
 Depends: firmware (>= 9.0), zip, unzip, gzip, unrar, p7zip
 Conflicts: com.tigisoftware.filza64bit, com.tigisoftware.filza
-Filename: ./debs/kupord.filza_3.7.6-30_iphoneos-arm.deb
-Size: 10556392
-MD5sum: 4d1ac11dd6227bfdb2d39103d19bdcbe
-SHA1: 5ffa0267a750253e08ad9218a1895ae53ee30360
-SHA256: c25ab13368a13a789c596d151ee26f1ccd7ac326a511e3e9b928e76345724cd2
+Filename: ./debs/kupord.filza_3.7.7-4_iphoneos-arm.deb
+Size: 10590604
+MD5sum: 3e3ffee2a7bd552ce25caea2a0da2a47
+SHA1: d498a61878d9393d9d6def721abb654c5dfce60d
+SHA256: a4be6d26ca13521aa2f291ca69e40388659ddba2b881b507db25d92a1f6327ba
 Section: Tweaks
 Description: 越狱必备插件，文件管理器，破解版
 Author: TIGI Software
 Depiction: https://kupord.github.io/web/description.html?id=filza
-Name: Filza File Manager 3.7.6
+Name: Filza File Manager 3.7.7
 
 Package: kupord.flextool
 Version: 0.0.1-2
