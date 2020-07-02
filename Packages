@@ -1544,14 +1544,14 @@ Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader
 Conflicts: com.ichitaso.badgecleaner2, com.flex2areo.apptools, com.rpetrich.iconrenamer, org.ioshack.icontool
 Replaces: com.ichitaso.icontweak
 Filename: ./debs/kupord.icontweak_1.0.5k_iphoneos-arm.deb
-Size: 116452
-MD5sum: e7e60524f31161a44d45b8ff36f077df
-SHA1: 64b54d5ddb2e548c23947fe129f0fcc0b985f3b3
-SHA256: d2c1fb0875e681c1f2585e094ae9fedfa567a547c563626d4d66904024ac0bff
+Size: 116496
+MD5sum: 8e9404e85010b7e697ecd0f82b5fa6b6
+SHA1: b8f9a922381ac098bffa9e70e7ec3b0d73b5d8e2
+SHA256: 3be5d86e4d97f26b2287ccdcff7755c2a15c98db7d9ce84af687f3fecd087d11
 Section: Tweaks
 Description: 滑动图标以显示控制菜单，上滑，下滑，呼出菜单，本版本为英文版本，暂无汉化接口
 Author: ichitaso
-Depiction: https://kupord.github.io/web/description.html?id=icontweak
+Depiction: https://kupord.github.io/web/description.html?id=IconTweak
 Name: IconTweak
 
 Package: kupord.instalauncher2
