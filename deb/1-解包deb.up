@@ -8,12 +8,12 @@ cp yuan 样本
 
 
 
-cd /Users/me/repo/deb/
-sudo chmod -R 755 a
-pbcopy < /Users/me/repo/deb/网页.txt
-pbpaste >>/Users/me/repo/deb/a/DEBIAN/control
-pbcopy < /dev/null
-open -a TextEdit /Users/me/repo/web/msxq/样本
+1cd /Users/me/repo/deb/
+1sudo chmod -R 755 a
+1pbcopy < /Users/me/repo/deb/网页.txt
+1pbpaste >>/Users/me/repo/deb/a/DEBIAN/control
+1pbcopy < /dev/null
+1open -a TextEdit /Users/me/repo/web/msxq/样本
 
 
 
