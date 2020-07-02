@@ -242,22 +242,22 @@ Depiction: https://kupord.github.io/web/description.html?id=appadmin
 Name: App Admin
 
 Package: kupord.appleturboboost
-Version: 0.6.2
+Version: 0.6.7
 Architecture: iphoneos-arm
 Maintainer: kupord <kupord@163.com>
 Depends: firmware (>= 12.0), darwintools, com.bingner.plutil (>= 0.1.0), sed, system-cmds
 Conflicts: com.michael.appleilluminator, netskao.appleilluminator, netskao.appleturboboost, com.cydiabc.appleturboboost
-Filename: ./debs/kupord.appleturboboost_0.6.2_iphoneos-arm.deb
-Size: 9284
-MD5sum: 68987feaf5329794332d5cb263d3d041
-SHA1: 7546a250a35b985632c80d53a48755975d9c4dab
-SHA256: f5cd9790d71c4c8f861faf1f0a2e2f929904963d72eaa9a85bd102db9cfcef57
+Filename: ./debs/kupord.appleturboboost_0.6.7_iphoneos-arm.deb
+Size: 11256
+MD5sum: e672633a5c2eb7a0dd23bb5eb12db707
+SHA1: a70a11a2bc90e1e5ebdba9946b6f8e0b804f11a7
+SHA256: 29d86aed9ee224d0a96fc0c9070da49782ea3b4e369650fd7a21265da3ca97c1
 Section: Tweaks
 Description: 关闭系统过热降频和自动降低亮度，安装/卸载后需要软启或者重启设备
 Author: Halo_Michael
 Depiction: https://kupord.github.io/web/description.html?id=appleturboboost
 Name: Apple Turbo Boost
-Sponsor: kupord1 <kupord@163.com>
+Sponsor: kupord <kupord@163.com>
 
 Package: kupord.apppercent
 Version: 2.0.3
@@ -309,23 +309,40 @@ Depiction: https://kupord.github.io/web/description.html?id=appstorenohistory
 Name: Appstore No History
 
 Package: kupord.appsyncunified
-Version: 76.0
+Version: 80.0
 Architecture: iphoneos-arm
 Maintainer: Karen/あけみ <karen@akemi.ai>
 Depends: firmware (>= 5.0), firmware (<= 13.3.1), firmware (<< 12.0) | mobilesubstrate (>= 0.9.5100) | mobilesubstrate (<= 0.9.6301) | mobilesubstrate (= 0.9.7020) | mobilesubstrate (= 0.9.7033) | mobilesubstrate (>= 0.9.7034) | com.ex.substitute (>= 0.1.0), firmware (<< 12.0) | mobilesubstrate (<< 99.0) | com.ex.libsubstitute (>= 0.1.1)
 Conflicts: us.hackulo.appsync50, us.hackulo.appsync50plus, com.hackyouriphone.appsync7, com.teiron.ppsync, appsync50plus2.25pp, com.linusyang.appsync, com.sull.appsyncunified, com.sull.appsyncunifiedbeta, com.xsellize.appsync50, com.xsellize.appsync50plus, appsync50plus.178, appsync50plus2.178, cydia.net.angelxwind.appsyncunified, science.xnu.substitute, net.angelxwind.appsyncunified, netskao.appsyncunified
 Replaces: us.hackulo.appsync50
 Provides: appsync
-Filename: ./debs/kupord.appsyncunified_76.0_iphoneos-arm.deb
-Size: 26416
-MD5sum: 00b74e45d16e8991caa82a1cafc6176a
-SHA1: a6eb4b8164d8ca0b724c4d0359556e7ca03f3fa9
-SHA256: 086f0280ef06d1f364d44c866cd06652a411e415567be879fa5e723795756359
+Filename: ./debs/kupord.appsyncunified_80.0_iphoneos-arm.deb
+Size: 26408
+MD5sum: d55ff67fee287703a8e071e565a5c058
+SHA1: 45965e0ed674c265044d18cc34bc7cd6463aacd4
+SHA256: 4f526b8259671d9d4682e6cb6ac70292c93fc72b2d9ad8710d0b6b941c203b2f
 Section: Tweaks
 Description: 安装未签名应用
 Author: Linus Yang, Karen/あけみ <karen@akemi.ai>
 Depiction: https://kupord.github.io/web/description.html?id=appsyncunified
 Name: AppSync Unified
+
+Package: kupord.ares
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: Phoenix Dev
+Depends: mobilesubstrate, firmware (>= 13.0)
+Filename: ./debs/kupord.ares_1.0.1_iphoneos-arm.deb
+Size: 626656
+MD5sum: c87fa608b2c3e6f50e95d8f7ac1a300a
+SHA1: 840024569d267bdaf63e79fd9ea94d5130a8fe74
+SHA256: 351bc5f1e33f6ab7d10e8e61c07c6ce987da232dcfdf7c1670f63bb4c045e00f
+Section: Tweaks
+Description: Ares完全改变了您的Siri体验，这是一个高度可定制的调整，使您可以轻松地使用Siri
+Author: Phoenix Dev
+Depiction: https://kupord.github.io/web/description.html?id=Ares
+Name: Ares
+Sponsor: kupord
 
 Package: kupord.audiorecorderxs
 Version: 3.0-78
@@ -889,16 +906,16 @@ Depiction: https://kupord.github.io/web/description.html?id=DismissProgress
 Name: DismissProgress
 
 Package: kupord.dockx
-Version: 1.4.0
+Version: 1.5.0
 Architecture: iphoneos-arm
 Maintainer: udevs
 Depends: mobilesubstrate, com.rpetrich.rocketbootstrap (>= 1.0.2) | firmware (<< 7.0), firmware(>=12.0), ws.hbang.alderis
 Conflicts: com.cpdigitaldarkroom.barmoji, com.restiveconch.actionbar, com.udevs.dockx
-Filename: ./debs/kupord.dockx_1.4.0_iphoneos-arm.deb
-Size: 73428
-MD5sum: 4da38ff8bf9850d317b4fc1c43d2ea86
-SHA1: 7754931f87bfda8cf77fdfb1acbf79b1a460d0e0
-SHA256: b473d17ca01cae9c2789dd406abb015d186f1724dcbd7be04dae3661d9ea4da4
+Filename: ./debs/kupord.dockx_1.5.0_iphoneos-arm.deb
+Size: 78664
+MD5sum: 91e62a9f1e335132eb36eea1440de179
+SHA1: e8f65adeed6a8b42f5d3ca9cf9aa41189c3bcaa1
+SHA256: 77114f730c9b4abae3e35f59e6bcc1c82b24a3fb8566e1b8b980e510bcf22ff3
 Section: Tweaks
 Description: 为键盘下方添加复制.粘贴.全选.撤回等图标。支持第三方输入法
 Author: udevs
@@ -1904,14 +1921,14 @@ Depiction: https://kupord.github.io/web/description.html?id=reprovision
 Name: ReProvision
 
 Package: kupord.rofi
-Version: 1.1.0-2
+Version: 1.2.1
 Architecture: iphoneos-arm
-Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0), preferenceloader, com.spark.libsparkcolourpicker (>=0.0.26), ws.hbang.common (>= 1.11), applist
-Filename: ./debs/kupord.rofi_1.1.0-2_iphoneos-arm.deb
-Size: 56260
-MD5sum: 7124e5d955886d9d0b6d2955e6ccabbc
-SHA1: de4a1cb58ba2cf2ba7f96e63648460bd83d4f242
-SHA256: 335c7f09a90dfea1d788bcd4d6b720c4bad72fa518de366df211f6037a8e7b7e
+Depends: mobilesubstrate, ws.hbang.alderis, ws.hbang.common (>= 1.11), applist
+Filename: ./debs/kupord.rofi_1.2.1_iphoneos-arm.deb
+Size: 55852
+MD5sum: dc3049f8cd6ed96de84720a90835c417
+SHA1: b2a0687146a5d15ecc9e2382c9a2c4a3de93c340
+SHA256: cd920d4f7e9bb515842fb612d6b1bbedb17efdc75f9fbdad1d25663e677c33cb
 Section: Tweaks
 Description: 桌面创建一个侧边快捷，可以添加app快捷切换
 Author: Kef
@@ -2230,21 +2247,21 @@ Depiction: https://kupord.github.io/web/description.html?id=tinybanners2
 Name: TinyBanners 2
 Sponsor: kupord
 
-Package: kupord.tinysiri
-Version: 1.0.0
+Package: kupord.titan
+Version: 1.0.3
 Architecture: iphoneos-arm
-Maintainer: kupord
-Depends: mobilesubstrate, preferenceloader
-Filename: ./debs/kupord.tinysiri_1.0.0_iphoneos-arm.deb
-Size: 100204
-MD5sum: cd59e3b24dfb061954803df725b61552
-SHA1: 6cbb2d10f0b303dddd15b178953fa62e9f7f7acc
-SHA256: cc2963ddbd65e09eaf6e38c60bbca0f9dbb8ffad405303c478188eff238ce764
+Maintainer: tcbrooks
+Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader, com.rpetrich.rocketbootstrap (>= 1.0.2) | firmware (<< 7.0)
+Filename: ./debs/kupord.titan_1.0.3_iphoneos-arm.deb
+Size: 125116
+MD5sum: 62d753394066bac90054e7160e606116
+SHA1: 9f483e56c92f72ee2e58231d2c68f9566cb438d4
+SHA256: ea402652fe725dc3c058472fcac0b32937f079af7d84bc827e6860cfd4214ec8
 Section: Tweaks
-Description: 缩小siri页面
-Author: Spark
-Depiction: https://kupord.github.io/web/description.html?id=tinysiri
-Name: TinySiri
+Description: 开启视频画中画播放，如视频APP不支持画中画，请使用Safari浏览器播放既可启用
+Author: tcbrooks
+Depiction: https://kupord.github.io/web/description.html?id=Titan
+Name: Titan
 Sponsor: kupord
 
 Package: kupord.tmxf
