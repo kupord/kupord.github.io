@@ -260,6 +260,39 @@ Author: UnlimApps Inc.
 Depiction: https://kupord.github.io/web/description.html?id=appadmin
 Name: App Admin
 
+Package: kupord.appaze2
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: AnthoPak
+Depends: mobilesubstrate, ws.hbang.common (>= 1.14), firmware (>= 11.0), com.a3tweaks.flipswitch
+Filename: ./debs/kupord.appaze2_1.1_iphoneos-arm.deb
+Size: 718812
+MD5sum: 5b6edc1a533311e0590e954578e46b35
+SHA1: 7a0362449fc23a237f2a05bab345325bcda80b56
+SHA256: 15323735c932b5878813ea0868a66f5e561d537cac8ddd6c45d71e6d6d1c0800
+Section: Tweaks
+Description: 设置APP自定义音量和亮度,需开启3D Touch
+Author: AnthoPak
+Depiction: https://kupord.github.io/web/description.html?id=appaze2
+Name: Appaze 2
+
+Package: kupord.appdata
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Fouad Raheb <support@fouadraheb.com>
+Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.5000), preferenceloader
+Conflicts: com.fouadraheb.appdata
+Filename: ./debs/kupord.appdata_1.0_iphoneos-arm.deb
+Size: 70432
+MD5sum: 0ecaec5e5c4f75b9805d6fa045327a27
+SHA1: dc325b681ed56378dc8c1a7bfbb32830e3698873
+SHA256: 7ffa904e22645cb43c398162c832c2a6be46d4be45e34e0c87029b751f9a2092
+Section: Tweaks
+Description: APP上划或按压。显示bunleid，清理缓存、角标。打开文档、文件目录。打开App Store。
+Author: Fouad Raheb <support@fouadraheb.com>
+Depiction: https://kupord.github.io/web/description.html?id=AppData
+Name: AppData
+
 Package: kupord.apphider
 Version: 1.8.3
 Architecture: iphoneos-arm
@@ -1535,25 +1568,6 @@ Author: Ivano Bilenchi <support@ib-soft.net>
 Depiction: https://kupord.github.io/web/description.html?id=icleanerpro
 Name: iCleaner Pro
 
-Package: kupord.icontweak
-Version: 1.0.5k
-Architecture: iphoneos-arm
-Maintainer: Ai-小苹果
-Installed-Size: 645
-Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader
-Conflicts: com.ichitaso.badgecleaner2, com.flex2areo.apptools, com.rpetrich.iconrenamer, org.ioshack.icontool
-Replaces: com.ichitaso.icontweak
-Filename: ./debs/kupord.icontweak_1.0.5k_iphoneos-arm.deb
-Size: 116496
-MD5sum: 8e9404e85010b7e697ecd0f82b5fa6b6
-SHA1: b8f9a922381ac098bffa9e70e7ec3b0d73b5d8e2
-SHA256: 3be5d86e4d97f26b2287ccdcff7755c2a15c98db7d9ce84af687f3fecd087d11
-Section: Tweaks
-Description: 滑动图标以显示控制菜单，上滑，下滑，呼出菜单，本版本为英文版本，暂无汉化接口
-Author: ichitaso
-Depiction: https://kupord.github.io/web/description.html?id=IconTweak
-Name: IconTweak
-
 Package: kupord.instalauncher2
 Version: 1.7.1
 Architecture: iphoneos-arm
@@ -2395,6 +2409,24 @@ Author: Elias Limneos
 Depiction: https://kupord.github.io/web/description.html?id=smarttapx
 Name: SmartTap X
 Sponsor: Ai-小苹果
+
+Package: kupord.smartvpn
+Version: 1.2.8
+Architecture: iphoneos-arm
+Maintainer: yabeizhao
+Depends: mobilesubstrate, firmware (>= 8.0), preferenceloader, applist, ws.hbang.common (>= 1.11)
+Filename: ./debs/kupord.smartvpn_1.2.8_iphoneos-arm.deb
+Size: 26484
+MD5sum: 7d566516d129dfdf44c91fc0928d8e50
+SHA1: be9e5cc8a8145d1f42e5b4bb037830097aebb996
+SHA256: d0a2467743650b623a6620f2e5d3ca5770cd3be7a37b347d66cd73399100c91a
+Section: Tweaks
+Priority: optional
+Description: 特定应用自动启动/关闭VPN功能，注意：这只是手机功能增强并不是梯子，梯子需自备
+Author: yabeizhao
+Depiction: https://kupord.github.io/web/description.html?id=smartvpn
+Name: SmartVPN
+Sponsor: yabeizhao
 
 Package: kupord.snapper2
 Version: 2.4.3
