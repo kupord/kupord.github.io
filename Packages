@@ -1367,16 +1367,16 @@ Name: Generator Auto Setter
 Sponsor: halo_michael <yc992147156@me.com>
 
 Package: kupord.glow
-Version: 0.3-24
+Version: 0.4-24
 Architecture: iphoneos-arm
 Maintainer: Elias Limneos
 Installed-Size: 800
 Depends: mobilesubstrate, preferenceloader, firmware ( >= 12)
-Filename: ./debs/kupord.glow_0.3-24_iphoneos-arm.deb
-Size: 169508
-MD5sum: 679631ee244070ada791461180efda54
-SHA1: 0c5e9a4f3371c9650c42c267bd22feef5e8eeb95
-SHA256: e2b41062a92781a8892164fc9e90e4e6958f20fb87ec908ea95621012ef0d1c3
+Filename: ./debs/kupord.glow_0.4-24_iphoneos-arm.deb
+Size: 211284
+MD5sum: 50aba9a73858b0330a374c787eeba32f
+SHA1: af8654062e2632093ae62c119a37c6df77adfbba
+SHA256: b78f595b3cbcb8e100320e7f000f7e4e47b43ce005c1cda51c1603c5e84cd3fa
 Section: Security
 Description: iPhone或iPad锁定时，屏幕显示息屏特效，全功能破解版，搭配LimneosHelper破解小助手使用
 Author: Elias Limneos
@@ -2001,15 +2001,15 @@ Depiction: https://kupord.github.io/web/description.html?id=NoSharePlz
 Name: NoSharePlz
 
 Package: kupord.notchification
-Version: 2.0.2-3
+Version: 2.2.1
 Architecture: iphoneos-arm
 Maintainer: Pulandres
-Depends: firmware (>= 5.0), mobilesubstrate, org.thebigboss.libcolorpicker, applist
-Filename: ./debs/kupord.notchification_2.0.2-3_iphoneos-arm.deb
-Size: 862624
-MD5sum: d094a012aa14d30fe26de9ba630148a1
-SHA1: b903d4525e0fcaa643b56fbe64f8d08eb3a22ccd
-SHA256: 691e54ce1f12011d9d1f46d1e56e1b19c459cecb4efc945bc92aaae08a06437c
+Depends: firmware (>= 5.0), mobilesubstrate, org.thebigboss.libcolorpicker | me.nepeta.libcolorpicker, applist
+Filename: ./debs/kupord.notchification_2.2.1_iphoneos-arm.deb
+Size: 781992
+MD5sum: e79781f70a783c5d9c0d4d152142cfd3
+SHA1: d17916dd73e99178140d43db1dd68ef857dfdf27
+SHA256: d81de53eb6ad6e8453974627a56a6d55a0a7d96b8446623af82b19d632336e08
 Section: Tweaks
 Priority: optional
 Description: 来电/通知LED特效 跑马灯 非常炫酷
@@ -2182,6 +2182,23 @@ Description: 侧边快捷唤出应用程序，侧边快捷唤出应用程序，�
 Author: c1d3r
 Depiction: https://kupord.github.io/web/description.html?id=pulloverpro
 Name: PullOver Pro
+
+Package: kupord.quart
+Version: 1.2
+Architecture: iphoneos-arm
+Maintainer: LaughingQuoll
+Installed-Size: 1772
+Depends: mobilesubstrate, com.laughingquoll.prefixui
+Filename: ./debs/kupord.quart_1.2_iphoneos-arm.deb
+Size: 1059464
+MD5sum: 76a10bbe88d08e2053b9834f1892ea58
+SHA1: 32e3eb17e7b690c191a0131a97cacd0fd38ed6a6
+SHA256: 02377f87976ef2a2527efc15d08da83d7e31f6667d9d9c60e9a545f6ad84ce9b
+Section: Tweaks
+Description: 重新设计通知和音乐播放器
+Author: LaughingQuoll
+Depiction: https://kupord.github.io/web/description.html?id=quart
+Name: Quart
 
 Package: kupord.realcc
 Version: 1.0.2
@@ -2447,18 +2464,18 @@ Name: Snapper 2
 Sileodepiction: https://kupord.github.io/repo/js/sileo/wu.json
 
 Package: kupord.snowboard
-Version: 1.3.3~Beta3
+Version: 1.3.6~Beta3
 Architecture: iphoneos-arm
 Maintainer: Spark
 Depends: mobilesubstrate, preferenceloader
 Conflicts: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
 Replaces: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
 Provides: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
-Filename: ./debs/kupord.snowboard_1.3.3~Beta3_iphoneos-arm.deb
-Size: 2201612
-MD5sum: 2259d25fa42c93c83abf13b4d9e214f9
-SHA1: f1ca4006a9fb412ed76caf6718cb7b641161e7bd
-SHA256: 1d3316768c74db3aaf58a75b551fd1bacd8f9fc87f2061d1390a13670d3d866b
+Filename: ./debs/kupord.snowboard_1.3.6~Beta3_iphoneos-arm.deb
+Size: 2213304
+MD5sum: 702de5c414462f7dcd39e23b186d06cb
+SHA1: 6d60179c68cba263d1309584fb650b380d7fdf4d
+SHA256: cc223637b3f1c5c085aafaae1b4eb37224a6fd35d4c1d0c74fd6bdeef8d9f06f
 Section: Tweaks
 Description: SnowBoard 主题平台，加载主题必备插件，本版本已经整合所有扩展插件
 Author: Spark & Dennis D. Bednarz
