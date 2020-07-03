@@ -266,10 +266,10 @@ Architecture: iphoneos-arm
 Maintainer: AnthoPak
 Depends: mobilesubstrate, ws.hbang.common (>= 1.14), firmware (>= 11.0), com.a3tweaks.flipswitch
 Filename: ./debs/kupord.appaze2_1.1_iphoneos-arm.deb
-Size: 718812
-MD5sum: 5b6edc1a533311e0590e954578e46b35
-SHA1: 7a0362449fc23a237f2a05bab345325bcda80b56
-SHA256: 15323735c932b5878813ea0868a66f5e561d537cac8ddd6c45d71e6d6d1c0800
+Size: 718520
+MD5sum: 39def7c289a553eb9b45cc3a13e6db3a
+SHA1: 98b77f3c70592ad8f0ca4463e905fcd2725ede01
+SHA256: 0bad2d7bce46b73870b4055bcb4956b26f1a305199b90e067af064ede8ec8bea
 Section: Tweaks
 Description: 设置APP自定义音量和亮度,需开启3D Touch
 Author: AnthoPak
