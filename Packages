@@ -1051,13 +1051,12 @@ Package: kupord.deleteforever
 Version: 0.2-1
 Architecture: iphoneos-arm
 Maintainer: Creatix
-Installed-Size: 344
 Depends: firmware (>= 9.0), mobilesubstrate, preferenceloader
 Filename: ./debs/kupord.deleteforever_0.2-1_iphoneos-arm.deb
-Size: 28640
-MD5sum: 934eecfbfe848dd62d7ce3d2aff88c98
-SHA1: 27d8c00d56ac71c1072cdf6a831d3393b9e91a45
-SHA256: 1efa9f3497531eee19b7d2c07f116377b4405f37c2dc8cd8afa445fcaff547cf
+Size: 29256
+MD5sum: 206ff6c11d0ab953f93edfbc51a41c33
+SHA1: 5022d2fc0eaa71b8c3a97728f59df9c82820d7f3
+SHA256: aa48bfb6bddd4db7240dea1d9119835970fd43521fdc1483c2f10471e910f669
 Section: Tweaks
 Description: 删除照片时候添加彻底删除按钮，修改UI汉化等，更新支持A12
 Author: Creatix
