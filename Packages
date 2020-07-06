@@ -277,16 +277,16 @@ Depiction: https://kupord.github.io/web/description.html?id=appaze2
 Name: Appaze 2
 
 Package: kupord.appdata
-Version: 1.0
+Version: 1.0-2
 Architecture: iphoneos-arm
 Maintainer: Fouad Raheb <support@fouadraheb.com>
 Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.5000), preferenceloader
 Conflicts: com.fouadraheb.appdata
-Filename: ./debs/kupord.appdata_1.0_iphoneos-arm.deb
-Size: 70432
-MD5sum: 0ecaec5e5c4f75b9805d6fa045327a27
-SHA1: dc325b681ed56378dc8c1a7bfbb32830e3698873
-SHA256: 7ffa904e22645cb43c398162c832c2a6be46d4be45e34e0c87029b751f9a2092
+Filename: ./debs/kupord.appdata_1.0-2_iphoneos-arm.deb
+Size: 84264
+MD5sum: ebcacbabee3d557995995baae290b018
+SHA1: b8d137516c1d53e278e9daf57d34a7eae172b564
+SHA256: 4aeb9083be3c3e11444bc897a4b3c338049cb969f835100a2a831188bca2098a
 Section: Tweaks
 Description: APP上划或按压。显示bunleid，清理缓存、角标。打开文档、文件目录。打开App Store。
 Author: Fouad Raheb <support@fouadraheb.com>
@@ -1082,16 +1082,16 @@ Depiction: https://kupord.github.io/web/description.html?id=DismissProgress
 Name: DismissProgress
 
 Package: kupord.dockx
-Version: 1.5.0
+Version: 1.5.2
 Architecture: iphoneos-arm
 Maintainer: udevs
 Depends: mobilesubstrate, com.rpetrich.rocketbootstrap (>= 1.0.2) | firmware (<< 7.0), firmware(>=12.0), ws.hbang.alderis
 Conflicts: com.cpdigitaldarkroom.barmoji, com.restiveconch.actionbar, com.udevs.dockx
-Filename: ./debs/kupord.dockx_1.5.0_iphoneos-arm.deb
-Size: 78664
-MD5sum: 91e62a9f1e335132eb36eea1440de179
-SHA1: e8f65adeed6a8b42f5d3ca9cf9aa41189c3bcaa1
-SHA256: 77114f730c9b4abae3e35f59e6bcc1c82b24a3fb8566e1b8b980e510bcf22ff3
+Filename: ./debs/kupord.dockx_1.5.2_iphoneos-arm.deb
+Size: 88904
+MD5sum: ea049116abca7a75d0a24a3f0b97b462
+SHA1: 5855770ee178aca430e7c9b040c6ef27767e229e
+SHA256: 5690d9cbec00e59aadcc1f6c6ea5a6034ea6722331fd17b59e45dec6423b35b5
 Section: Tweaks
 Description: 为键盘下方添加复制.粘贴.全选.撤回等图标。支持第三方输入法
 Author: udevs
@@ -1652,6 +1652,23 @@ Description: 下滑一键关闭,汉化版
 Author: cemck
 Depiction: https://kupord.github.io/web/description.html?id=killxpro
 Name: KillX Pro
+
+Package: kupord.kleidaria
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: gilshahar7
+Installed-Size: 104
+Depends: mobilesubstrate
+Filename: ./debs/kupord.kleidaria_1.0_iphoneos-arm.deb
+Size: 3212
+MD5sum: b0cb982878cb1546fd6072e1ca42f905
+SHA1: 238f390c2c5fafbc0078b600bb7002abe4811a0d
+SHA256: ada7e534f26e9bd67f02b3922d0223317eb65dd2714496b4f869c6664ab7ab1a
+Section: Tweaks
+Description: 手机屏幕朝下放置时，自动锁定设备，安装无设置，注销生效
+Author: gilshahar7
+Depiction: https://kupord.github.io/web/description.html?id=kleidaria
+Name: Kleidaria锁定设备
 
 Package: kupord.latchkey
 Version: 2.1.2
@@ -2825,16 +2842,16 @@ Name: Xen HTML
 Sponsor: kupord
 
 Package: kuprod.appstoreplusplus
-Version: 0.9.11
+Version: 0.9.12
 Architecture: iphoneos-arm
 Maintainer: CokePokes
 Depends: firmware (>= 11.0), mobilesubstrate
 Conflicts: com.unlimapps.uaupdatetools
-Filename: ./debs/kuprod.appstoreplusplus_0.9.11_iphoneos-arm.deb
-Size: 331076
-MD5sum: bcccd0945d6abc3947021f67a0eb5605
-SHA1: 927323de50601aff63daf1f5e2fdab9f8422928c
-SHA256: 0be347242bdbd86ea0f53d11efe8acad3d2666658ac7268d745aa2970afa2523
+Filename: ./debs/kuprod.appstoreplusplus_0.9.12_iphoneos-arm.deb
+Size: 332948
+MD5sum: 2992ac8cc35f627af8ab3859c6496c09
+SHA1: 0b77104b32eca9de1b0c3dd20ee401ac4adcb2e6
+SHA256: 43f59cde1bd5703fbf940162b3bfb1dc961f925238d1564ccd73d4185af616f4
 Section: Tweaks
 Priority: optional
 Description: app降级插件,更新支持13
