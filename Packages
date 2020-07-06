@@ -2618,15 +2618,15 @@ Depiction: https://kupord.github.io/web/description.html?id=systeminfo
 Name: System Info
 
 Package: kupord.themes.bai
-Version: 1.0.4
+Version: 1.0.5
 Architecture: iphoneos-arm
 Maintainer: kupord
 Depends: firmware (>=11.0)
-Filename: ./debs/kupord.themes.bai_1.0.4_iphoneos-arm.deb
-Size: 3196632
-MD5sum: 9e2745b8e438c37e50ad4af7368d3da6
-SHA1: a0a77e9db372b00ef87ffd6a18e8670824ff3a55
-SHA256: fe6342454fbe25a2eef084f010a5a23ddf90622820804539f042469b3627eb9f
+Filename: ./debs/kupord.themes.bai_1.0.5_iphoneos-arm.deb
+Size: 3311152
+MD5sum: 193e60ed84e1b2d9e4ea26ce1b699c82
+SHA1: 9be5412a0bd28381f2f00019a9d63f5753cb7c0f
+SHA256: c478556236c4797254bc2ee7b34106581911322e7c4502259c0d307dad7a5374
 Section: Themes
 Description: 纯白主题 kupord补全制作
 Author: kupord
