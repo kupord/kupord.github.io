@@ -151,15 +151,15 @@ Depiction: https://kupord.github.io/web/description.html?id=YouQuan
 Name: 淘宝优惠券
 
 Package: kupord.a-bypass
-Version: 1.0.7
+Version: 1.2
 Architecture: iphoneos-arm
 Maintainer: Baw Appie
-Depends: mobilesubstrate, applist
-Filename: ./debs/kupord.a-bypass_1.0.7_iphoneos-arm.deb
-Size: 31300
-MD5sum: 4cb90372d93d5d987b1e85da35ec3e4f
-SHA1: 22164d1bb5c7a21fd67fb62740affcca3712321b
-SHA256: c994beb33838d1d1ac57614b23fcc6ac230c13d2ba6a187257f860b4af867cc0
+Depends: mobilesubstrate, applist, com.rpetrich.rocketbootstrap
+Filename: ./debs/kupord.a-bypass_1.2_iphoneos-arm.deb
+Size: 19000
+MD5sum: c9641eb6b0d1561e3fbff10d25455112
+SHA1: 7b4deb31e52e3b163237fa58260a302bea001166
+SHA256: fe2da4689e7cbe250c8c0a167d4bd8d12e09ae911c70616cea235422d2a45451
 Section: Tweaks
 Description: 一款强力有效，简单设置的屏蔽越狱插件，推荐，能解决iOS13王者荣耀，使命召唤等一些游戏的闪退，和支付宝开启指纹面容
 Author: Baw Appie
@@ -833,18 +833,18 @@ Depiction: https://kupord.github.io/web/description.html?id=clearbadges3dtouch
 Name: 3DBadgeClear
 
 Package: kupord.cloaky2
-Version: 6.1.1
+Version: 7.0.2
 Architecture: iphoneos-arm
 Maintainer: r_plus
 Depends: mobilesubstrate (>= 0.9.5000), applist (>= 1.5.6), firmware (>= 11.0), preferenceloader (>= 2.2.2)
 Conflicts: jp.r-plus.cloaky, jp.r-plus.cloaky2
-Filename: ./debs/kupord.cloaky2_6.1.1_iphoneos-arm.deb
-Size: 108796
-MD5sum: f5e414472b31f3839aa4915a0ef29ee5
-SHA1: b1d150285f6d47ac4158593975f00c546f6bddd1
-SHA256: 922bd5fb4a3bd2973c8c34f1fbba689664c108585d1402f937c60c3d70ff77fc
+Filename: ./debs/kupord.cloaky2_7.0.2_iphoneos-arm.deb
+Size: 84028
+MD5sum: 355cd9dd5f6cc2edca0e96331c97114a
+SHA1: 21d42efdaef6ba17328fa7439e8335502293cdef
+SHA256: e9f40ecb2b580e91e6c998151329edd2640e8b0760cd63379809d7bb4d1545d1
 Section: Tweaks
-Description: 一款支持活动选项，菜单选项，设置选项，状态栏的多功能微调增强！已由站长完整汉化，如需补全邮箱联系即可！
+Description: 一款支持活动选项，菜单选项，设置选项，状态栏的多功能微调增强！
 Author: r_plus
 Depiction: https://kupord.github.io/web/description.html?id=cloaky2
 Name: Cloaky (iOS 11-12)
