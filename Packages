@@ -283,10 +283,10 @@ Maintainer: Fouad Raheb <support@fouadraheb.com>
 Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.5000), preferenceloader
 Conflicts: com.fouadraheb.appdata
 Filename: ./debs/kupord.appdata_1.0-2_iphoneos-arm.deb
-Size: 84264
-MD5sum: ebcacbabee3d557995995baae290b018
-SHA1: b8d137516c1d53e278e9daf57d34a7eae172b564
-SHA256: 4aeb9083be3c3e11444bc897a4b3c338049cb969f835100a2a831188bca2098a
+Size: 84112
+MD5sum: e30cda66d04ce545deae4f4f54771a8f
+SHA1: 0c1f7ef8c676a8e981efb2bd3e2c271badf14742
+SHA256: a41cd8cbd1ca2fff1c2599936d2797734ab37effbc2965de2d39b38e6e1ad9a4
 Section: Tweaks
 Description: APP上划或按压。显示bunleid，清理缓存、角标。打开文档、文件目录。打开App Store。
 Author: Fouad Raheb <support@fouadraheb.com>
@@ -1053,10 +1053,10 @@ Architecture: iphoneos-arm
 Maintainer: Creatix
 Depends: firmware (>= 9.0), mobilesubstrate, preferenceloader
 Filename: ./debs/kupord.deleteforever_0.2-1_iphoneos-arm.deb
-Size: 29256
-MD5sum: 206ff6c11d0ab953f93edfbc51a41c33
-SHA1: 5022d2fc0eaa71b8c3a97728f59df9c82820d7f3
-SHA256: aa48bfb6bddd4db7240dea1d9119835970fd43521fdc1483c2f10471e910f669
+Size: 28592
+MD5sum: e2c8907204d47dc391fe422aab3d696d
+SHA1: 5b7707aea8a06011de0bfb76c7d19cba7b5ca8df
+SHA256: 34361b6f9bb10d7ea03616c7fa47681d4bc242e8bbd1e0cbc6a25c91375b0b86
 Section: Tweaks
 Description: 删除照片时候添加彻底删除按钮，修改UI汉化等，更新支持A12
 Author: Creatix
@@ -1201,16 +1201,16 @@ Depiction: https://kupord.github.io/web/description.html?id=filza
 Name: Filza File Manager 3.7.4
 
 Package: kupord.filza
-Version: 3.7.7-4
+Version: 3.7.7-12
 Architecture: iphoneos-arm
 Maintainer: TIGI Software
 Depends: firmware (>= 9.0), zip, unzip, gzip, unrar, p7zip
 Conflicts: com.tigisoftware.filza64bit, com.tigisoftware.filza
-Filename: ./debs/kupord.filza_3.7.7-4_iphoneos-arm.deb
-Size: 10590604
-MD5sum: 3e3ffee2a7bd552ce25caea2a0da2a47
-SHA1: d498a61878d9393d9d6def721abb654c5dfce60d
-SHA256: a4be6d26ca13521aa2f291ca69e40388659ddba2b881b507db25d92a1f6327ba
+Filename: ./debs/kupord.filza_3.7.7-12_iphoneos-arm.deb
+Size: 7204736
+MD5sum: ec49218197b3219a3b1fb7b1822066a2
+SHA1: 327d8f389bfcbde64fb7d5c77184b128f9c37715
+SHA256: 05bea0ff22fb597cf87c383071eba233aa36235a783122fc935b29b7b23ff304
 Section: Tweaks
 Description: 越狱必备插件，文件管理器，破解版
 Author: TIGI Software
@@ -1415,23 +1415,6 @@ Description: GPS定位管家，可设置应用的虚拟定位，随时随地定�
 Author: chencong
 Depiction: https://kupord.github.io/web/description.html?id=gpsmanager
 Name: GPS Manager【破解版】
-
-Package: kupord.gridiculous
-Version: 0.2~beta1
-Architecture: iphoneos-arm
-Maintainer: no
-Depends: mobilesubstrate, com.chpwn.iconsupport
-Filename: ./debs/kupord.gridiculous_0.2~beta1_iphoneos-arm.deb
-Size: 10172
-MD5sum: aea92809ef89cc3216738a3d3f2bfdd3
-SHA1: 676c9e0f25f61374ae8bdacfb96995cab114dc77
-SHA256: 178cbc700fbf5804c7a4749f464cee45b1ec12947f5ca5ebfa0c4a1e9da1b244
-Section: Tweaks
-Description: 自定义桌面图标摆放
- 想放哪放哪
-Author: CP Digital Darkroom
-Depiction: https://kupord.github.io/web/description.html?id=gridiculous
-Name: Gridiculous
 
 Package: kupord.hideallbar
 Version: 2.0.1
@@ -2548,6 +2531,23 @@ Description: T9快捷拨号，接通震动等等
 Author: Mao
 Depiction: https://kupord.github.io/web/description.html?id=sudial
 Name: SuDial
+
+Package: kupord.sugarcane
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: iOS Creatix, Rafferty W
+Depends: firmware (>= 11.0),mobilesubstrate
+Conflicts: com.raff.sugarcane, com.ioscreatix.sugarcane, com.hk.sugarcane13, com.crak.sugarcane13
+Filename: ./debs/kupord.sugarcane_1.0.1_iphoneos-arm.deb
+Size: 25460
+MD5sum: b8cf639b1734542330722a631d8fbce1
+SHA1: a9e35e9b3c956e39a7adaecfdad54b185001bfd3
+SHA256: c9d97edcf297e0a1cb152722e1dcad95206d31b7f4bfebedd58eed2fffb1ed83
+Section: Tweaks
+Description: 音量、亮度添加百分比。可设置字体大小及后缀。
+Author: iOS Creatix, Rafferty W
+Depiction: https://kupord.github.io/web/description.html?id=sugarcane
+Name: SugarCane
 
 Package: kupord.swipeformore
 Version: 1.1.10
