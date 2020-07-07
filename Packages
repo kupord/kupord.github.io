@@ -1443,10 +1443,10 @@ Depends: mobilesubstrate, applist, preferenceloader, ws.hbang.common
 Conflicts: com.thuthuatjb.hidejb, com.thuthuatjb.hidejblite
 Replaces: com.thuthuatjb.hidejb
 Filename: ./debs/kupord.hidejblite_1.0_iphoneos-arm.deb
-Size: 139808
-MD5sum: 2bda60979bbad524c7bc59b5dde096e8
-SHA1: e9cddc197ac946c487475722f34409b9dd72352b
-SHA256: acd771b6d6eac8c44768c6244b02aa260f34ca52667a3c40480b92451d3999fb
+Size: 138596
+MD5sum: d2c661b325b1e5fa51bb23efb4c76544
+SHA1: 2be9325df16ed1c14b045e2cc2ebe2f321519c2d
+SHA256: e4e7e096d607542b56f7f2823ea9ead4bba7ed3a8efa7ddad5bad4a01c9b7c36
 Section: Tweaks
 Description: 屏蔽越狱检测app
 Author: TTJB Team <admin@thuthuatjb.com>
