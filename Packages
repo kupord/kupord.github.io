@@ -1503,10 +1503,10 @@ Architecture: iphoneos-arm
 Maintainer: kupord
 Depends: mobilesubstrate
 Filename: ./debs/kupord.iap26_0.0.2_iphoneos-arm.deb
-Size: 12992
-MD5sum: dc85f2a7626c8429c164e58c9977ea48
-SHA1: 091055f2bd407938f14f2a490bb082b964f51041
-SHA256: aa6cd92aee7d4cdef1808693ca7860845060f709497b26934364613f2f95b614
+Size: 15736
+MD5sum: 8391936b6a4873ff6b6797eb88fdb3bd
+SHA1: a0df4d5ff1fd0befa6dedeb25b0b2f02666ddbbe
+SHA256: 0c13b710a7ceb12167ba4b5f80129b98bb718f316ef61c334aa8077d8433bb90
 Section: Tweaks
 Description: iOS最强本地内购插件
 Author: JustinPet26
