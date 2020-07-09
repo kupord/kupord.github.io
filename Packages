@@ -1053,10 +1053,10 @@ Architecture: iphoneos-arm
 Maintainer: Creatix
 Depends: firmware (>= 9.0), mobilesubstrate, preferenceloader
 Filename: ./debs/kupord.deleteforever_0.2-1_iphoneos-arm.deb
-Size: 28592
-MD5sum: e2c8907204d47dc391fe422aab3d696d
-SHA1: 5b7707aea8a06011de0bfb76c7d19cba7b5ca8df
-SHA256: 34361b6f9bb10d7ea03616c7fa47681d4bc242e8bbd1e0cbc6a25c91375b0b86
+Size: 29456
+MD5sum: 1c7a31784a8ba5c6f0e1c8ccc30be021
+SHA1: e6b148d397ba76eb8c4363883e6ee811bc59cf05
+SHA256: c9fca8496f59084a89d4e3e049eaea5b95b3c47cb547aa6dd79bacf4acd6c627
 Section: Tweaks
 Description: 删除照片时候添加彻底删除按钮，修改UI汉化等，更新支持A12
 Author: Creatix
@@ -1443,10 +1443,10 @@ Depends: mobilesubstrate, applist, preferenceloader, ws.hbang.common
 Conflicts: com.thuthuatjb.hidejb, com.thuthuatjb.hidejblite
 Replaces: com.thuthuatjb.hidejb
 Filename: ./debs/kupord.hidejblite_1.0_iphoneos-arm.deb
-Size: 138596
-MD5sum: d2c661b325b1e5fa51bb23efb4c76544
-SHA1: 2be9325df16ed1c14b045e2cc2ebe2f321519c2d
-SHA256: e4e7e096d607542b56f7f2823ea9ead4bba7ed3a8efa7ddad5bad4a01c9b7c36
+Size: 136752
+MD5sum: 247713ef6b6eb8e8bbc99f7410e443fb
+SHA1: 00c49325ca672e31d84ccb864e53e074996967cc
+SHA256: 08bbe8dbd6c928f54db1b3a8390eb3dd94c0620aac7694ae4473987a7aa8b221
 Section: Tweaks
 Description: 屏蔽越狱检测app
 Author: TTJB Team <admin@thuthuatjb.com>
@@ -1498,15 +1498,15 @@ Name: HomeBarSizer
 Sponsor: thebigboss.org <http://thebigboss.org>
 
 Package: kupord.iap26
-Version: 0.0.1-5
+Version: 0.0.2
 Architecture: iphoneos-arm
 Maintainer: kupord
 Depends: mobilesubstrate
-Filename: ./debs/kupord.iap26_0.0.1-5_iphoneos-arm.deb
-Size: 14992
-MD5sum: 77777686c408647af1d88a74790353c4
-SHA1: 80f8d928dc0bdb259042a5355883f58e8b06b088
-SHA256: 73182d7c129058bb074d49fed05de34deed7cc6ff857d39f044439806fcb1cd4
+Filename: ./debs/kupord.iap26_0.0.2_iphoneos-arm.deb
+Size: 12992
+MD5sum: dc85f2a7626c8429c164e58c9977ea48
+SHA1: 091055f2bd407938f14f2a490bb082b964f51041
+SHA256: aa6cd92aee7d4cdef1808693ca7860845060f709497b26934364613f2f95b614
 Section: Tweaks
 Description: iOS最强本地内购插件
 Author: JustinPet26
@@ -2539,10 +2539,10 @@ Maintainer: iOS Creatix, Rafferty W
 Depends: firmware (>= 11.0),mobilesubstrate
 Conflicts: com.raff.sugarcane, com.ioscreatix.sugarcane, com.hk.sugarcane13, com.crak.sugarcane13
 Filename: ./debs/kupord.sugarcane_1.0.1_iphoneos-arm.deb
-Size: 25460
-MD5sum: b8cf639b1734542330722a631d8fbce1
-SHA1: a9e35e9b3c956e39a7adaecfdad54b185001bfd3
-SHA256: c9d97edcf297e0a1cb152722e1dcad95206d31b7f4bfebedd58eed2fffb1ed83
+Size: 27472
+MD5sum: 1ade99214d94f2b9f3fe0f510255919e
+SHA1: f26b513f53cf204c639dc08a249a92c024b7d323
+SHA256: 68472cf28552d428d4b91b0fe30f996d92fb42323d2e8b9591b1d7a392f8ad3d
 Section: Tweaks
 Description: 音量、亮度添加百分比。可设置字体大小及后缀。
 Author: iOS Creatix, Rafferty W
@@ -2718,6 +2718,23 @@ Description: 音量插件，支持OLED
 Author: Ayden Panhuyzen
 Depiction: https://kupord.github.io/web/description.html?id=ultrasound
 Name: Ultrasound
+
+Package: kupord.velvet
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: initWithFrame <initwithframe@protonmail.com>
+Depends: mobilesubstrate, firmware (>= 13.0), preferenceloader, net.limneos.libbulletin
+Conflicts: com.initwithframe.velvet
+Filename: ./debs/kupord.velvet_1.0.0_iphoneos-arm.deb
+Size: 141840
+MD5sum: 1eae62ee4a941fd94b39ad15bbcd5eed
+SHA1: 459d23d0b68d4073428bb115059753c65d82c6c4
+SHA256: 3d5c9535fd682f9e0902a03c043e2f34b1058c06d39850ee54a9c6662df58089
+Section: Tweaks
+Description: 一个全新的通知横幅效果。汉化版。
+Author: initWithFrame <initwithframe@protonmail.com>
+Depiction: https://kupord.github.io/web/description.html?id=velvet
+Name: Velvet
 
 Package: kupord.voicechangerx
 Version: 2.2-51
