@@ -33,17 +33,17 @@ Icon: null
 Name: 微信转账金额修改
 
 Package: kupord.Flex3beta
-Version: 1:3~Beta95
+Version: 1:3~Beta96
 Architecture: iphoneos-arm
 Maintainer: John Coates
 Depends: mobilesubstrate, firmware (>=12.2) | org.swift.libswift (>=5.0), firmware (>= 9.0)
 Conflicts: Flexpackage, Flexpackagebeta, com.fuyuchi.flex, Flex2packagebeta, Flex2package,  com.fuyuchi.flex2, Flex2Blackpackagebeta, com.johncoates.Flex3, Flex3FeatureCatalog, Flex3ToolsOnly
 Replaces: Flexpackage, Flexpackagebeta, com.fuyuchi.flex, Flex2packagebeta, Flex2package,  com.fuyuchi.flex2, Flex2Blackpackagebeta, com.johncoates.Flex3, Flex3FeatureCatalog, Flex3ToolsOnly
-Filename: ./debs/kupord.flex3beta_3~Beta95_iphoneos-arm.deb
-Size: 9920476
-MD5sum: 1fd5e172d70a12146675b8a6b2933a1f
-SHA1: 42afb09cab5003dc4b1c6cf05fb027756765355d
-SHA256: d7d9846c2f0099b1c6c5057bdf6f826627c4024b60572e30d6766ef6b3fd0fc6
+Filename: ./debs/kupord.flex3beta_3~Beta96_iphoneos-arm.deb
+Size: 9927120
+MD5sum: a330c740a3bd8be0cbff8cbd1563deb7
+SHA1: 31d1ab0585882741523ca2a97772bae68376701a
+SHA256: 775cc2d5a1823fa9556aa7179f73b4e3ac2ce91e02419fdaef1627b3c8c00c83
 Section: Tweaks
 Description: Flex强大的程序修改器
 Author: John Coates
@@ -277,16 +277,16 @@ Depiction: https://kupord.github.io/web/description.html?id=appaze2
 Name: Appaze 2
 
 Package: kupord.appdata
-Version: 1.0-2
+Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: Fouad Raheb <support@fouadraheb.com>
 Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.5000), preferenceloader
 Conflicts: com.fouadraheb.appdata
-Filename: ./debs/kupord.appdata_1.0-2_iphoneos-arm.deb
-Size: 84112
-MD5sum: e30cda66d04ce545deae4f4f54771a8f
-SHA1: 0c1f7ef8c676a8e981efb2bd3e2c271badf14742
-SHA256: a41cd8cbd1ca2fff1c2599936d2797734ab37effbc2965de2d39b38e6e1ad9a4
+Filename: ./debs/kupord.appdata_1.1_iphoneos-arm.deb
+Size: 110856
+MD5sum: e3522207abb3c8c9e670679d018e5271
+SHA1: e1602ed888ab4e057f7a85e074fea8708061aa50
+SHA256: ba6b0710cceb4ba90698fbbf032ab37c51fd1a8763ec1dd92ea76b4f999f7339
 Section: Tweaks
 Description: APP上划或按压。显示bunleid，清理缓存、角标。打开文档、文件目录。打开App Store。
 Author: Fouad Raheb <support@fouadraheb.com>
@@ -1081,16 +1081,16 @@ Depiction: https://kupord.github.io/web/description.html?id=DismissProgress
 Name: DismissProgress
 
 Package: kupord.dockx
-Version: 1.5.2
+Version: 1.6.2
 Architecture: iphoneos-arm
 Maintainer: udevs
 Depends: mobilesubstrate, com.rpetrich.rocketbootstrap (>= 1.0.2) | firmware (<< 7.0), firmware(>=12.0), ws.hbang.alderis
 Conflicts: com.cpdigitaldarkroom.barmoji, com.restiveconch.actionbar, com.udevs.dockx
-Filename: ./debs/kupord.dockx_1.5.2_iphoneos-arm.deb
-Size: 88904
-MD5sum: ea049116abca7a75d0a24a3f0b97b462
-SHA1: 5855770ee178aca430e7c9b040c6ef27767e229e
-SHA256: 5690d9cbec00e59aadcc1f6c6ea5a6034ea6722331fd17b59e45dec6423b35b5
+Filename: ./debs/kupord.dockx_1.6.2_iphoneos-arm.deb
+Size: 102756
+MD5sum: f58b5868a0443db384dea09692a0c070
+SHA1: 00f6ec88768cf8e631e1f3742ac18c2a0e216051
+SHA256: c62b6595f0440c8fb697c8deb4188f6ebb6466d4e04a54dd3e9a4f18ff450fdb
 Section: Tweaks
 Description: 为键盘下方添加复制.粘贴.全选.撤回等图标。支持第三方输入法
 Author: udevs
