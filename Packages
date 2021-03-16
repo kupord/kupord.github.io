@@ -156,10 +156,10 @@ Architecture: iphoneos-arm
 Maintainer: Baw Appie
 Depends: mobilesubstrate, applist, com.rpetrich.rocketbootstrap
 Filename: ./debs/kupord.a-bypass_1.2_iphoneos-arm.deb
-Size: 19000
-MD5sum: c9641eb6b0d1561e3fbff10d25455112
-SHA1: 7b4deb31e52e3b163237fa58260a302bea001166
-SHA256: fe2da4689e7cbe250c8c0a167d4bd8d12e09ae911c70616cea235422d2a45451
+Size: 18924
+MD5sum: b00c53a6277715508c208ba924c9e148
+SHA1: dbc7a77fa23b9cc0f0dd31bedff40d5eebd77d8a
+SHA256: 201f2b3412e435da0c011cbed8cf7b702ed70cd86b2f1f798cf3a20bb5421d48
 Section: Tweaks
 Description: 一款强力有效，简单设置的屏蔽越狱插件，推荐，能解决iOS13王者荣耀，使命召唤等一些游戏的闪退，和支付宝开启指纹面容
 Author: Baw Appie
@@ -277,16 +277,16 @@ Depiction: https://kupord.github.io/web/description.html?id=appaze2
 Name: Appaze 2
 
 Package: kupord.appdata
-Version: 1.1
+Version: 1.2.5
 Architecture: iphoneos-arm
 Maintainer: Fouad Raheb <support@fouadraheb.com>
 Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.5000), preferenceloader
 Conflicts: com.fouadraheb.appdata
-Filename: ./debs/kupord.appdata_1.1_iphoneos-arm.deb
-Size: 110856
-MD5sum: e3522207abb3c8c9e670679d018e5271
-SHA1: e1602ed888ab4e057f7a85e074fea8708061aa50
-SHA256: ba6b0710cceb4ba90698fbbf032ab37c51fd1a8763ec1dd92ea76b4f999f7339
+Filename: ./debs/kupord.appdata_1.2.5_iphoneos-arm.deb
+Size: 147908
+MD5sum: 343fb9fa4bbe52cce23881f53e5d805c
+SHA1: 483b5ead7baeef7c0a3aa7d35d2e5ccf60a3cb32
+SHA256: 4f84409a4b179a72045427a8b084a840d04fba58ef016bc906d0fe9aca5eac28
 Section: Tweaks
 Description: APP上划或按压。显示bunleid，清理缓存、角标。打开文档、文件目录。打开App Store。
 Author: Fouad Raheb <support@fouadraheb.com>
@@ -1015,15 +1015,15 @@ Depiction: https://kupord.github.io/web/description.html?id=cracktool4
 Name: CrackTool4
 
 Package: kupord.cydown
-Version: 7.1.0
+Version: 7.1.1
 Architecture: iphoneos-arm
 Maintainer: Julio
 Depends: coreutils-bin, coreutils, mobilesubstrate, preferenceloader
-Filename: ./debs/kupord.cydown_7.1.0_iphoneos-arm.deb
-Size: 2681808
-MD5sum: 2f8859f55a151df9100fc78066176d3c
-SHA1: 1b5288f0cd98835111fc1efe037570e920133456
-SHA256: 3e589f9d1909f80afd493048708a9b7b349e8700a5bdd205655c2f083297ef6f
+Filename: ./debs/kupord.cydown_7.1.1_iphoneos-arm.deb
+Size: 2054052
+MD5sum: ca6f265987fa394abc4d613a9b98df9d
+SHA1: 4ca861fea8a844cf2e2845bba0817b1194e750a0
+SHA256: 0cc3efea253e1f21671d5f448019cef65c2f6a4d1ddbc07fdf7f261f85b27b72
 Section: Tweaks
 Description: Cydia增强强大的管理器，备份插件等等
 Author: julioverne <julioverne@me.com>
@@ -1534,16 +1534,16 @@ Icon: file:///Applications/iCleaner.app/Icon.png
 Name: iCleaner Pro
 
 Package: kupord.icleanerpro
-Version: 7.8.3
+Version: 7.9.1
 Architecture: iphoneos-arm
 Maintainer: Ivano Bilenchi <support@ib-soft.net>
 Depends: firmware (>= 10.0), findutils, apt | apt7
 Conflicts: org.altervista.exilecom.icleaner, com.exile90.icleanerpro
-Filename: ./debs/kupord.icleanerpro_7.8.3_iphoneos-arm.deb
-Size: 4868288
-MD5sum: cba7f715a5c8ac2609d26b7890714b9c
-SHA1: bc641bbf1e5a6c39b9098ade7db927713e8a75c3
-SHA256: 25ebb1a1f62e817cad71adc33a5b2406bdc0fd1d8dfe88fca4fda57420883ce3
+Filename: ./debs/kupord.icleanerpro_7.9.1_iphoneos-arm.deb
+Size: 4767108
+MD5sum: b2044ee0bb705c6cfc02dcaab7429bb6
+SHA1: 5a53d373c67a5019c9a73caf792046534a8ff5fd
+SHA256: ce3883ac1e2e1a38b06645aa9e952962f7db5921b3f8448c2033a036dd48bde5
 Section: Tweaks
 Description: 老牌清理工具，越狱必备,破解版
 Author: Ivano Bilenchi <support@ib-soft.net>
