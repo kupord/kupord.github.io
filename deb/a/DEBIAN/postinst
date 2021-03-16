@@ -1,0 +1,44 @@
+#!/bin/bash
+echo "  "
+echo "  "
+echo "  "
+echo "  "
+echo "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+firmware=$(sw_vers -productVersion) 
+echo "💖系统版本:iOS $firmware"
+echo "  "
+echo "  "
+echo "1.准备替换kupord盲文字体"
+echo "  "
+#iOS11
+firmware=$(sw_vers -productVersion)
+if  [[ $firmware == 11.* ]]; then
+     echo "正在替换适用于iOS11的字体..."
+     mv /var/mobile/SFonts/iOS11-12/Core/* /System/Library/Fonts/Core/
+fi
+
+#iOS12
+firmware=$(sw_vers -productVersion)
+if  [[ $firmware == 12.* ]]; then
+     echo "正在替换适用于iOS12的字体..."
+     mv /var/mobile/SFonts/iOS11-12/Core/* /System/Library/Fonts/Core/
+fi
+
+#iOS13
+firmware=$(sw_vers -productVersion)
+if  [[ $firmware == 13.* ]]; then
+     echo "正在替换适用于iOS13的字体..."
+     mv /var/mobile/SFonts/iOS13/Core/* /System/Library/Fonts/Core/
+fi
+
+echo "  "
+echo "2.kupord盲文字体字体替换成功"
+echo "  "
+echo "  "
+echo "  "
+echo "  "
+echo "  "
+echo " 盲文字体by-kupord "
+echo "  "
+echo "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+
