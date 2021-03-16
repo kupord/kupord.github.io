@@ -779,10 +779,10 @@ Architecture: iphoneos-arm
 Maintainer: Julio
 Depends: coreutils-bin, coreutils, mobilesubstrate, preferenceloader
 Filename: ./debs/kupord.cydown_7.1.1_iphoneos-arm.deb
-Size: 2054052
-MD5sum: ca6f265987fa394abc4d613a9b98df9d
-SHA1: 4ca861fea8a844cf2e2845bba0817b1194e750a0
-SHA256: 0cc3efea253e1f21671d5f448019cef65c2f6a4d1ddbc07fdf7f261f85b27b72
+Size: 2604912
+MD5sum: 2c8897dc36852be343b0bbde69874058
+SHA1: bcd5b7cc35e7c8126cc89474fd3df4eac0ebe3b9
+SHA256: 6cee5361daf97e5c306ac50ad49ad51e07d3b8fede3abb913f485e22b9a8f1ca
 Section: Tweaks
 Description: Cydia增强强大的管理器，备份插件等等
 Author: julioverne <julioverne@me.com>
