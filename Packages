@@ -141,6 +141,23 @@ Dev: cannathea
 Name: Apple File Conduit "2" (iOS 11+, arm64)
 Sponsor: thebigboss.org <http://thebigboss.org>
 
+Package: kupord.alipayjailbreakedbypass
+Version: 1.1-3
+Architecture: iphoneos-arm
+Maintainer: Nets
+Installed-Size: 520
+Depends: firmware (>= 10.0), mobilesubstrate
+Filename: ./debs/kupord.alipayjailbreakedbypass_1.1-3_iphoneos-arm.deb
+Size: 111316
+MD5sum: 27f266cdb544af50e989fa8af1cbcb76
+SHA1: 07ac9318ec68e1b4419d9de5035a099d913a5b35
+SHA256: e36d40037a95d13dd133866a13c59d8af0dae1dc359bad34b7b07495a8e8fbfd
+Section: Netskao-Tweaks
+Description: 支付宝绕过越狱检测，不影响插件注入
+Author: Netskao
+Depiction: https://kupord.github.io/web/description.html?id=zfbjc
+Name: 支付宝 Jailbreaked Bypass
+
 Package: kupord.answeringmachinexs
 Version: 1.6-20
 Architecture: iphoneos-arm
@@ -496,6 +513,24 @@ Size: 239356
 MD5sum: f738eda6d59477424eb97140581df4a2
 SHA1: f63599b7916376c90c02b5e91cfe52014d2287a3
 SHA256: ce3056293628fcabb053c9f4c2fc1658e34ddbf811ed494594345628e2c7a493
+Section: Tweaks
+Description: 控制中心快捷按键,添加高清图标
+Author: kupord
+Depiction: https://kupord.github.io/web/description.html?id=ccplus
+Name: CCPlus+
+Sponsor: kupord
+
+Package: kupord.ccplus
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: kupord
+Depends: firmware (>= 13.0), mobilesubstrate, com.opa334.ccsupport
+Conflicts: kupord.flipconvert, kupord.flipconvert13, kupord.ccmodules, netskao.ccpower, netskao.alipayscan, netskao.wechatscan
+Filename: ./debs/kupord.ccplus_1.0.1_iphoneos-arm.deb
+Size: 246304
+MD5sum: 9fc5c2fc4debe5e802b5d86b5c344701
+SHA1: 0a679aa5f6889f21d250a0387f6328bfa608f1ea
+SHA256: 58fbf658cdae955c88a4741985a7f42dd178c2ab7881f12df7d19afe7f38b9e4
 Section: Tweaks
 Description: 控制中心快捷按键,添加高清图标
 Author: kupord
@@ -873,6 +908,24 @@ Description: 越狱必备插件，文件管理器，破解版
 Author: TIGI Software
 Depiction: https://kupord.github.io/web/description.html?id=filza
 Name: Filza File Manager 3.8.2
+
+Package: kupord.flexlist
+Version: 1.3-2
+Architecture: iphoneos-arm
+Maintainer: kupord
+Installed-Size: 5656
+Depends: firmware (>= 9.0), mobilesubstrate, preferenceloader
+Filename: ./debs/kupord.flexlist_1.3-2_iphoneos-arm.deb
+Size: 1400204
+MD5sum: fd6ebec75d934de306d0530d2205a076
+SHA1: dbb7e31b8a5bd635aa111a56ccab8242e89b16f7
+SHA256: c8d2a21a45f1e22bf109503a95a256c51025576299ba7ad80e4baa7a377b0f45
+Section: Tweaks
+Description: FlexList是一款通过设置选择应用，调用Flex视图工具进行应用界面分析的工具，当前版本调用Flex最新版4.1.1，支持Swift应用。
+Author: Netskao
+Depiction: https://kupord.github.io/web/description.html?id=flexlist
+Name: FlexList
+Sponsor: kupord
 
 Package: kupord.flipconvert
 Version: 1.3-3
