@@ -148,11 +148,11 @@ Maintainer: Nets
 Installed-Size: 520
 Depends: firmware (>= 10.0), mobilesubstrate
 Filename: ./debs/kupord.alipayjailbreakedbypass_1.1-3_iphoneos-arm.deb
-Size: 111316
-MD5sum: 27f266cdb544af50e989fa8af1cbcb76
-SHA1: 07ac9318ec68e1b4419d9de5035a099d913a5b35
-SHA256: e36d40037a95d13dd133866a13c59d8af0dae1dc359bad34b7b07495a8e8fbfd
-Section: Netskao-Tweaks
+Size: 110688
+MD5sum: 2c4ac5652d569df31d83da71c7b29c51
+SHA1: 83f8481991b9facad080ac7e2ddc9453a9719010
+SHA256: cebcd9b6a8995902caed456bd8bfa4fc150d993a97cfdeacfc882fc35aea13d8
+Section: Tweaks
 Description: 支付宝绕过越狱检测，不影响插件注入
 Author: Netskao
 Depiction: https://kupord.github.io/web/description.html?id=zfbjc
