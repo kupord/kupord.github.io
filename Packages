@@ -520,24 +520,6 @@ Depiction: https://kupord.github.io/web/description.html?id=ccplus
 Name: CCPlus+
 Sponsor: kupord
 
-Package: kupord.ccplus
-Version: 1.0.1
-Architecture: iphoneos-arm
-Maintainer: kupord
-Depends: firmware (>= 13.0), mobilesubstrate, com.opa334.ccsupport
-Conflicts: kupord.flipconvert, kupord.flipconvert13, kupord.ccmodules, netskao.ccpower, netskao.alipayscan, netskao.wechatscan
-Filename: ./debs/kupord.ccplus_1.0.1_iphoneos-arm.deb
-Size: 246304
-MD5sum: 9fc5c2fc4debe5e802b5d86b5c344701
-SHA1: 0a679aa5f6889f21d250a0387f6328bfa608f1ea
-SHA256: 58fbf658cdae955c88a4741985a7f42dd178c2ab7881f12df7d19afe7f38b9e4
-Section: Tweaks
-Description: 控制中心快捷按键,添加高清图标
-Author: kupord
-Depiction: https://kupord.github.io/web/description.html?id=ccplus
-Name: CCPlus+
-Sponsor: kupord
-
 Package: kupord.classickeyboardxs
 Version: 1.1-5
 Architecture: iphoneos-arm
