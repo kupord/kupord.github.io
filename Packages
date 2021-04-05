@@ -1770,23 +1770,21 @@ Depiction: https://kupord.github.io/web/description.html?id=saw
 Name: Saw
 
 Package: kupord.semirestore11
-Version: 1.1.2-1
+Version: 1.1.4
 Architecture: iphoneos-arm
-Maintainer: Pwn20wnd
-Installed-Size: 172
-Depends: cy+cpu.arm64, coreutils-bin, uikittools, firmware (>= 11.3)
-Conflicts: org.coolstar.semirestore11-lite
-Replaces: org.coolstar.semirestore11-lite
-Filename: ./debs/kupord.semirestore11_1.1.2-1_iphoneos-arm.deb
-Size: 50304
-MD5sum: 2b17c3aa463c3e4edc0d86c6ca226e70
-SHA1: 2a21810ece1cca6b87dc0d9bf480bb6839381879
-SHA256: 28dd9269114336d1fc9dd152e3e5990065ab5b6439d7689d50c1fa75ca3b3c16
+Maintainer: Önder Azazi <onderazazi@hotmail.com>
+Depends: mobilesubstrate, firmware(>=11.0)
+Conflicts: com.BIENVANNHAT.SemiRestore
+Filename: ./debs/kupord.semirestore11_1.1.4_iphoneos-arm.deb
+Size: 50340
+MD5sum: 2574cec6cf4e8756b51ee708aedf75b5
+SHA1: 525c6c7e3ac6cdb89a4851c9a92689009daeb239
+SHA256: a912b060f1b7d733e42227d7be1bf39ba22adb022300082ae41578845d295f32
 Section: Tweaks
 Description: 快照恢复工具，支持11.3以上版本
 Author: Pwn20wnd
 Depiction: https://kupord.github.io/web/description.html?id=SemiRestore11
-Name: SemiRestore11
+Name: SemiRestore 11-14
 
 Package: kupord.settingswidgets
 Version: 1.2
