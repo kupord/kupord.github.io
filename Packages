@@ -727,16 +727,16 @@ Name: FastUnlockX
 Sponsor: CP Digital Darkroom
 
 Package: kupord.filza
-Version: 3.8.2-4
+Version: 3.8.2-6
 Architecture: iphoneos-arm
 Maintainer: TIGI Software
 Depends: firmware (>= 9.0), zip, unzip, gzip, unrar, p7zip
 Conflicts: com.tigisoftware.filza64bit, com.tigisoftware.filza
-Filename: ./debs/kupord.filza_3.8.2-4_iphoneos-arm.deb
-Size: 10268044
-MD5sum: b94b45706e744e6ab32ebca3e98eac92
-SHA1: 51697bb2e386a49ac43c731fb6f8329b06213900
-SHA256: fba56ded9904e779b439d2c74db4be3da7f10062bbd16460dd92006be4c6c7ce
+Filename: ./debs/kupord.filza_3.8.2-6_iphoneos-arm.deb
+Size: 10272728
+MD5sum: 24f5f68f50cde899a1098e1f4fb624e2
+SHA1: 684239ab2e1ebac107b4226db6c227e6b3d290a9
+SHA256: 574868afcb1a7824123d3ca1ba1e448008354d4b09050ef6a7139ccca649c014
 Section: Tweaks
 Description: 越狱必备插件，文件管理器，破解版
 Author: TIGI Software
@@ -1708,16 +1708,16 @@ Name: SmartVPN
 Sponsor: yabeizhao
 
 Package: kupord.snapper2
-Version: 2.5.5
+Version: 2.5.8
 Architecture: iphoneos-arm
 Maintainer: Jonathan
 Depends: mobilesubstrate
 Conflicts: com.jontelang.snapper, com.jontelang.snapper2, com.jontelang.snapper2.packix
-Filename: ./debs/kupord.snapper2_2.5.5_iphoneos-arm.deb
-Size: 328024
-MD5sum: aecfe28933a8c2b87efaa701f7dae6b4
-SHA1: 2be06c68945cb193cddb1be04a91506313d9ce4d
-SHA256: 4832a549302c21fdd47b47fcbbbdd5a5161e313eeb5ae84b05b359ab70a02030
+Filename: ./debs/kupord.snapper2_2.5.8_iphoneos-arm.deb
+Size: 345732
+MD5sum: 94dbbeab8d538776a67c58cc09d8a33d
+SHA1: f0b9c3be1bfcbbac5a9c525d30013cafd6e39e4b
+SHA256: 4f5703e8ff324c4d0a5daf53501a75980ec57317d89e66454e272c3055b42a04
 Section: Tweaks
 Description: 智能截图，自定义截图区域，也可以使用Ac手势截图
 Author: Jonathan Winger-lang
