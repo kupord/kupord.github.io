@@ -23,10 +23,10 @@ Depends: mobilesubstrate, firmware (>=12.2) | org.swift.libswift (>=5.0), firmwa
 Conflicts: Flexpackage, Flexpackagebeta, com.fuyuchi.flex, Flex2packagebeta, Flex2package,  com.fuyuchi.flex2, Flex2Blackpackagebeta, com.johncoates.Flex3, Flex3FeatureCatalog, Flex3ToolsOnly
 Replaces: Flexpackage, Flexpackagebeta, com.fuyuchi.flex, Flex2packagebeta, Flex2package,  com.fuyuchi.flex2, Flex2Blackpackagebeta, com.johncoates.Flex3, Flex3FeatureCatalog, Flex3ToolsOnly
 Filename: ./debs/kupord.flex3beta_3~Beta98_iphoneos-arm.deb
-Size: 9917000
-MD5sum: 1a8ef8e6e20c7794c17c7ce882e281b5
-SHA1: e976dd0f4a00a1476440a892ebf8097107f47824
-SHA256: 0016dfe6f5efcb4c3d6f2fa5b52c94c767737fde90897135a16a797bb8c19217
+Size: 9917524
+MD5sum: 26fe55bfa5578546751d2a5496d3010e
+SHA1: 706bbe4b3d69d39c67b26eed8fbbf97004524ab9
+SHA256: b19a8832421add878b237f298bf536f82ba75821dff11396d4a64ae7ed8cb2bd
 Section: Tweaks
 Description: Flex强大的程序修改器
 Author: John Coates
