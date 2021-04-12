@@ -590,23 +590,6 @@ Author: r_plus
 Depiction: https://kupord.github.io/web/description.html?id=cloaky2
 Name: Cloaky (iOS 11-14)
 
-Package: kupord.cn.cydown
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: julioverne
-Depends: cydia, coreutils-bin, coreutils, apt7, firmware (<< 8.3) | ldid (>= 1:1.2.1), mobilesubstrate, preferenceloader
-Conflicts: com.julioverne.cydown, com.cydiabc.cydown
-Filename: ./debs/kupord.cn.cydown_1.0_iphoneos-arm.deb
-Size: 50768
-MD5sum: 26114bfeb63959632894de5dfb8fa449
-SHA1: ee1ab198d442fc61db34bfb1b18cb190f0932ae3
-SHA256: 3295a3246f2a19299f1a5d678beb58695adf407ff8d4c63537fac03bf163390e
-Section: Tweaks
-Description: Cydia和Zebra的包管理器的增强插件，汉化包，适用于7.0.4
-Author: julioverne
-Depiction: https://kupord.github.io/web/description.html?id=cydowncn
-Name: CyDown汉化包
-
 Package: kupord.colorbadges
 Version: 1.5.0
 Architecture: iphoneos-arm
@@ -761,10 +744,10 @@ Architecture: iphoneos-arm
 Maintainer: Julio
 Depends: coreutils-bin, coreutils, mobilesubstrate, preferenceloader
 Filename: ./debs/kupord.cydown_7.1.1_iphoneos-arm.deb
-Size: 2604912
-MD5sum: 2c8897dc36852be343b0bbde69874058
-SHA1: bcd5b7cc35e7c8126cc89474fd3df4eac0ebe3b9
-SHA256: 6cee5361daf97e5c306ac50ad49ad51e07d3b8fede3abb913f485e22b9a8f1ca
+Size: 2053564
+MD5sum: d90598e8cef676dfefcdb48f719e9dd2
+SHA1: 7555c361d5fced21867cf47a761e52353383be55
+SHA256: 284f01a8a313ca7a207247b3396ec9e84b31c279001d456b025d2ce75e450ecb
 Section: Tweaks
 Description: Cydia增强强大的管理器，备份插件等等
 Author: julioverne <julioverne@me.com>
