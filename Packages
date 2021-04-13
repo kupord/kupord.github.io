@@ -1,3 +1,20 @@
+Package: kupord.3dtools
+Version: 1.0.6
+Architecture: iphoneos-arm
+Maintainer: kupord
+Depends: mobilesubstrate, org.thebigboss.libcolorpicker
+Filename: ./debs/kupord.3dtools_1.0.6_iphoneos-arm.deb
+Size: 1146776
+MD5sum: 2bbdb32ec755afce73331fc0aaf434c3
+SHA1: df37d10f5e0c3df56e7ec8ae3036a4a7e65d019b
+SHA256: d34bfb593d6c5429f93ec189bdd7b37b0f22d8c30d175bd6f6506decdb4a0c55
+Section: Tweaks
+Description: 3D Touch功能增加其他功能，具体效果预览截图
+Author: smokin1337
+Depiction: https://kupord.github.io/web/description.html?id=3DTools
+Name: 3DTools
+Sponsor: kupord
+
 Package: kupord.FakeTransfer
 Version: 0.1-1
 Architecture: iphoneos-arm
@@ -236,18 +253,18 @@ Depiction: https://kupord.github.io/web/description.html?id=appstorenohistory
 Name: Appstore No History
 
 Package: kupord.appsyncunified
-Version: 90.0
+Version: 92.0
 Architecture: iphoneos-arm
 Maintainer: Karen/あけみ <karen@akemi.ai>
 Depends: firmware (>= 5.0), firmware (<= 13.3.1), firmware (<< 12.0) | mobilesubstrate (>= 0.9.5100) | mobilesubstrate (<= 0.9.6301) | mobilesubstrate (= 0.9.7020) | mobilesubstrate (= 0.9.7033) | mobilesubstrate (>= 0.9.7034) | com.ex.substitute (>= 0.1.0), firmware (<< 12.0) | mobilesubstrate (<< 99.0) | com.ex.libsubstitute (>= 0.1.1)
 Conflicts: us.hackulo.appsync50, us.hackulo.appsync50plus, com.hackyouriphone.appsync7, com.teiron.ppsync, appsync50plus2.25pp, com.linusyang.appsync, com.sull.appsyncunified, com.sull.appsyncunifiedbeta, com.xsellize.appsync50, com.xsellize.appsync50plus, appsync50plus.178, appsync50plus2.178, cydia.net.angelxwind.appsyncunified, science.xnu.substitute, net.angelxwind.appsyncunified, netskao.appsyncunified
 Replaces: us.hackulo.appsync50
 Provides: appsync
-Filename: ./debs/kupord.appsyncunified_90.0_iphoneos-arm.deb
-Size: 31324
-MD5sum: 29da17aed6ac4dbb52df0523febd1ed3
-SHA1: 6193bcb9120be95cdca2c9fd55b4a17b7cc3d14e
-SHA256: 5d6f1075932d038a3ef0e9091b2ef44fce807ece51ede5bc97454dcda78f5104
+Filename: ./debs/kupord.appsyncunified_92.0_iphoneos-arm.deb
+Size: 37664
+MD5sum: 48481383e290f85330dae916a5404053
+SHA1: 94de4b5fc215fb2f476e6ad8af5507319f0d7943
+SHA256: 01f4d1daaaf93f95f4c52d578520dec42cd8afb99e0e31518415a9224969b52f
 Section: Tweaks
 Description: 安装未签名应用
 Author: Linus Yang, Karen/あけみ <karen@akemi.ai>
@@ -692,16 +709,16 @@ Depiction: https://kupord.github.io/web/description.html?id=DismissProgress
 Name: DismissProgress
 
 Package: kupord.dockx
-Version: 2.3.0
+Version: 2.3.1
 Architecture: iphoneos-arm
 Maintainer: udevs
-Depends: mobilesubstrate, com.rpetrich.rocketbootstrap (>= 1.0.2) | firmware (<< 7.0), firmware(>=12.0), ws.hbang.alderis
-Conflicts: com.cpdigitaldarkroom.barmoji, com.restiveconch.actionbar, com.udevs.dockx
-Filename: ./debs/kupord.dockx_2.3.0_iphoneos-arm.deb
-Size: 285688
-MD5sum: 4f9cebaf381359dc22b7d1b8f1df921e
-SHA1: abb6d5419403b4755531752c5d87e12d9a53406d
-SHA256: 6617b7cad6c9d82fa158e3e1c36fa865a9512821376bf04f77c8fc09ff15d464
+Depends: mobilesubstrate, preferenceloader, com.rpetrich.rocketbootstrap (>= 1.0.2), firmware(>=12.0), com.spark.libsparkcolourpicker
+Conflicts: com.cpdigitaldarkroom.barmoji, com.restiveconch.actionbar
+Filename: ./debs/kupord.dockx_2.3.1_iphoneos-arm.deb
+Size: 286072
+MD5sum: 3d0e4e2eb89aa0802fd4c48ed2265709
+SHA1: fb556e682c8a939269e7425b0894dec2c18ca4f6
+SHA256: 677e4a507e61ced9887f84242ef126e4d0d49d98f7f3eee43ab44bf7662b4f3b
 Section: Tweaks
 Description: 为键盘下方添加复制.粘贴.全选.撤回等图标。支持第三方输入法
 Author: udevs
@@ -1451,33 +1468,18 @@ Author: shiftcmdk
 Depiction: https://kupord.github.io/web/description.html?id=PencilChargingIndicator
 Name: PencilChargingIndicator
 
-Package: kupord.powermenux
-Version: 1.5.1
-Architecture: iphoneos-arm
-Maintainer: Pulandres
-Depends: mobilesubstrate
-Filename: ./debs/kupord.powermenux_1.5.1_iphoneos-arm.deb
-Size: 146416
-MD5sum: 5dae8275a7f725bfef67f72830472aec
-SHA1: ffd8123a0751b5df6ad566d2d2259829c5d4410d
-SHA256: 19b5232032897e82fe5fd28a267d1e4e328d6b5e07670d6ae46ecad784bbc039
-Section: Tweaks
-Description: 关机增强 可在关机页面执行重启 注销等操作
-Author: MayBeMe <maybeme.tweak@gmail.com>
-Depiction: https://kupord.github.io/web/description.html?id=powermenux
-Name: PowerMenuX
-
 Package: kupord.powerselector11
-Version: 1.3
+Version: 1.3.3
 Architecture: iphoneos-arm
 Maintainer: Carby
 Installed-Size: 1712
 Depends: mobilesubstrate, preferenceloader, com.opa334.ccsupport
-Filename: ./debs/kupord.powerselector11_1.3_iphoneos-arm.deb
-Size: 206264
-MD5sum: 5c55febd1b7e36120407891fef363d72
-SHA1: 08f6b2e6b8db9b9ce0ebbd37b974e84e7f8ec45d
-SHA256: 8accec3c3e3683413165e9dfb8e3035bd422c25a18fcda41aeae537d8f9842c1
+Conflicts: com.ichitaso.powerselector, com.dpkgdan.powertap, com.weesstt.powerdownoptions, com.subdiox.powertap2, com.rustybalboa.powertapxi
+Filename: ./debs/kupord.powerselector11_1.3.3_iphoneos-arm.deb
+Size: 207540
+MD5sum: 0c5db7b3ffe7f2c7da1d3f1b3b631637
+SHA1: 12d8731bcf9095f55075810cfc3e2a954003d64d
+SHA256: 628b8df9c632501b978b6cc1e70f5cb6aaa1bb00f4111ddcd67bba0b8eeae759
 Section: Tweaks
 Description: 控制中心注销重启插件.苏兔汉化版
 Author: Carby
@@ -1689,18 +1691,17 @@ Depiction: https://kupord.github.io/web/description.html?id=showtouch
 Name: ShowTouch
 
 Package: kupord.shuffle
-Version: 1.3.1
+Version: 1.3.3
 Architecture: iphoneos-arm
 Maintainer: CreatureSurvive
-Pre-Depends: firmware (>= 8.0), com.ex.libsubstitute | mobilesubstrate
 Depends: com.creaturecoding.libcspreferences
 Conflicts: com.cpdigitaldarkroom.placeholder
 Replaces: com.cpdigitaldarkroom.placeholder
-Filename: ./debs/kupord.shuffle_1.3.1_iphoneos-arm.deb
-Size: 231364
-MD5sum: 183e09efc3ccc8b1482966a9518e39ad
-SHA1: 40b399a279fb401822dfd20cdbef0d0fbe2fe0e8
-SHA256: ddedc60a642bf8d82dec758bac19a4f59e2f3c5f6db8e7fbe880dfa203c376f0
+Filename: ./debs/kupord.shuffle_1.3.3_iphoneos-arm.deb
+Size: 294424
+MD5sum: ea2c8119e953b19692263ac831ce1eac
+SHA1: 4969bcac6b69ba2efdbe7835f577fb7b087dd419
+SHA256: bda587e043be3eae4ef09efe464e8af0e57a99f4b038acd83bd5b40afc23bae5
 Section: Tweaks
 Description: 更稳定的设置分类插件
 Author: CreatureSurvive
