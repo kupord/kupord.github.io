@@ -289,6 +289,24 @@ Author: iKilledAppl3 <ipodnewbee234@icloud.com>
 Depiction: https://kupord.github.io/web/description.html?id=autofolderclose
 Name: AutoFolderClose
 
+Package: kupord.autofolderclose
+Version: 1.1-2
+Architecture: iphoneos-arm
+Maintainer: iKilledAppl3 <ipodnewbee234@icloud.com>
+Installed-Size: 516
+Depends: mobilesubstrate, firmware (>= 11.0)
+Conflicts: com.ikilledappl3.autofolderclose
+Filename: ./debs/kupord.autofolderclose_1.1-2_iphoneos-arm.deb
+Size: 6560
+MD5sum: 32ce9ac4245e209fcef53e463670331b
+SHA1: 2209b9d1ec101fd3515d8e813d2b082905b7f3f9
+SHA256: 0ef7647488dc1105379d2641cf2f7911d3085d7000fabe55cbcaaf4c74864fc1
+Section: Tweaks
+Description: 点击文件夹内应用后自动关闭文件夹，不会出现应用动画从左边出现的问题
+Author: iKilledAppl3 <ipodnewbee234@icloud.com>
+Depiction: https://kupord.github.io/web/description.html?id=autofolderclose
+Name: AutoFolderClose
+
 Package: kupord.autounlockx
 Version: 1.0.16
 Architecture: iphoneos-arm
@@ -613,10 +631,10 @@ Architecture: iphoneos-arm
 Maintainer: Julio
 Depends: coreutils-bin, coreutils, mobilesubstrate, preferenceloader
 Filename: ./debs/kupord.cydown_7.1.1_iphoneos-arm.deb
-Size: 2053564
-MD5sum: d90598e8cef676dfefcdb48f719e9dd2
-SHA1: 7555c361d5fced21867cf47a761e52353383be55
-SHA256: 284f01a8a313ca7a207247b3396ec9e84b31c279001d456b025d2ce75e450ecb
+Size: 2672536
+MD5sum: 57370c15e494946ba1ac0a03ed799aab
+SHA1: 696e475da8389ce6928b0f8780066cb4b14151eb
+SHA256: efccbbf50765c8d827c1c9e0aa06746edb58aa04b40763c299430030633be634
 Section: Tweaks
 Description: Cydia增强强大的管理器，备份插件等等
 Author: julioverne <julioverne@me.com>
