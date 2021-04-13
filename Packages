@@ -1,20 +1,3 @@
-Package: kupord.3dtools
-Version: 1.0.6
-Architecture: iphoneos-arm
-Maintainer: kupord
-Depends: mobilesubstrate, org.thebigboss.libcolorpicker
-Filename: ./debs/kupord.3dtools_1.0.6_iphoneos-arm.deb
-Size: 1146776
-MD5sum: 2bbdb32ec755afce73331fc0aaf434c3
-SHA1: df37d10f5e0c3df56e7ec8ae3036a4a7e65d019b
-SHA256: d34bfb593d6c5429f93ec189bdd7b37b0f22d8c30d175bd6f6506decdb4a0c55
-Section: Tweaks
-Description: 3D Touch功能增加其他功能，具体效果预览截图
-Author: smokin1337
-Depiction: https://kupord.github.io/web/description.html?id=3DTools
-Name: 3DTools
-Sponsor: kupord
-
 Package: kupord.FakeTransfer
 Version: 0.1-1
 Architecture: iphoneos-arm
