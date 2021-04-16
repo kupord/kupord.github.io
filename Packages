@@ -1287,13 +1287,13 @@ Package: kupord.nfcwriterxs
 Version: 3.2-78+debug
 Architecture: iphoneos-arm
 Maintainer: Elias Limneos
-Depends: mobilesubstrate, net.limneos.libbulletin, firmware(>= 12.0), firmware(<< 13.0)
+Depends: mobilesubstrate, net.limneos.libbulletin, firmware(>= 12.0)
 Conflicts: net.limneos.nfcwriter, com.pulandres.audiorecorderxs, com.pulandres.callbarxs, com.repo.xarold.com.audiorecorderxs, com.pulandres.bioprotectxs, net.pulandres.nfcwriterx, com.repo.xarold.com.nfcwriterx, com.pulandres.limneosos, com.repo.xarold.com.limneosos, net.limneos.nfcwriterx
 Filename: ./debs/kupord.nfcwriterxs_3.2-78+debug_iphoneos-arm.deb
-Size: 779360
-MD5sum: 92dd730721f509f7eca3f6bc09f46f4c
-SHA1: b9ccf5ccc417976f2d7554565bf4d0c54d5729d9
-SHA256: 56ebc21fba3038e6b13a8a2c92fe3db6d9b47736e801dae45afd3dfd0b036df6
+Size: 779352
+MD5sum: 77fe366cdb1521eccc75a22d62108678
+SHA1: 679fd80b115974a67bd78151fa263fec3c5e936b
+SHA256: f05e220b749fbd91e05916e8aa4fa14e6a7a6c35477d9256ed50cc0e5289c1f7
 Section: Tweaks
 Description: 开启原生NFC高级权限，最新完美破解版
 Author: Elias Limneos
