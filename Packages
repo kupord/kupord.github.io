@@ -1,20 +1,3 @@
-Package: kupord.FakeTransfer
-Version: 0.1-1
-Architecture: iphoneos-arm
-Depends: firmware (>= 5.0), mobilesubstrate
-Filename: ./debs/kupord.faketransfer_0.1-1_iphoneos-arm.deb
-Size: 22028
-MD5sum: 75f021451628342476602c88ae904b02
-SHA1: 58e12ea6805b492014d8a0c762cf0775ac8d6c0d
-SHA256: 30796907a5c031471e380c0372b45845b85e54752f6787f54890afedc4d5bc6a
-Section: Tweaks
-Priority: optional
-Description: 微信转账金额修改
-Author: Mao
-Depiction: https://kupord.github.io/web/description.html?id=FakeTransfer
-Icon: null
-Name: 微信转账金额修改
-
 Package: kupord.Flex3beta
 Version: 1:3~Beta98
 Architecture: iphoneos-arm
@@ -65,22 +48,6 @@ Author: Jerry En
 Depiction: https://kupord.github.io/web/description.html?id=SwipeExpander
 Name: SwipeExpander
 
-Package: kupord.a-bypass
-Version: 1.5.3
-Architecture: iphoneos-arm
-Maintainer: Baw Appie
-Depends: mobilesubstrate, applist, com.rpetrich.rocketbootstrap
-Filename: ./debs/kupord.a-bypass_1.5.3_iphoneos-arm.deb
-Size: 98768
-MD5sum: 55589a9460e5c1f5b5d3baf9b7664cb6
-SHA1: a7ebbd9997ca329eaed450a14a6465f8f8b1033f
-SHA256: 85aedfe0bc9ef133f108667b92ec3f2348695d34b68878dfc787ea1506d58554
-Section: Tweaks
-Description: 一款强力有效，简单设置的屏蔽越狱插件，推荐，能解决iOS13王者荣耀，使命召唤等一些游戏的闪退，和支付宝开启指纹面容
-Author: Baw Appie
-Depiction: https://kupord.github.io/web/description.html?id=a-bypass
-Name: A-Bypass
-
 Package: kupord.actionbar
 Version: 1.3.7
 Architecture: iphoneos-arm
@@ -97,25 +64,6 @@ Description: 在iphone的键盘上增加,快速粘贴,复制,全线按钮,汉化
 Author: RestiveConch
 Depiction: https://kupord.github.io/web/description.html?id=actionbar
 Name: ActionBar
-
-Package: kupord.adaptivedarkmode
-Version: 1.0.1
-Architecture: iphoneos-arm
-Maintainer: smokin1337
-Installed-Size: 1620
-Pre-Depends: com.spark.libsparkapplist
-Depends: mobilesubstrate
-Filename: ./debs/kupord.adaptivedarkmode_1.0.1_iphoneos-arm.deb
-Size: 971236
-MD5sum: 7b3be924c92e5c8195fca8ae63527d21
-SHA1: d034206386fe2f953294cb1e292e33f0168c7841
-SHA256: f28e150e605011af246dbf9809ca1e7fed17e2e184c66f855dc56f8ec5ef0e53
-Section: Tweaks
-Description: AdaptiveDarkMode 包含多种自动切换深色/浅色模式的方式，<br>可以根据亮度，支持自定义亮度阈值。<br>低电量模式开启深色。,勿扰模式开启深色。<br>选择开启浅色和深色模式的应用。
-Author: smokin1337
-Depiction: https://kupord.github.io/web/description.html?id=AdaptiveDarkMode
-Name: AdaptiveDarkMode
-Sponsor: smokin1337
 
 Package: kupord.alipayjailbreakedbypass
 Version: 1.1-3
@@ -168,56 +116,21 @@ Depiction: https://kupord.github.io/web/description.html?id=appaze2
 Name: Appaze 2
 
 Package: kupord.appdata
-Version: 1.2.5
+Version: 1.3.6
 Architecture: iphoneos-arm
 Maintainer: Fouad Raheb <support@fouadraheb.com>
 Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.5000), preferenceloader
 Conflicts: com.fouadraheb.appdata
-Filename: ./debs/kupord.appdata_1.2.5_iphoneos-arm.deb
-Size: 147908
-MD5sum: 343fb9fa4bbe52cce23881f53e5d805c
-SHA1: 483b5ead7baeef7c0a3aa7d35d2e5ccf60a3cb32
-SHA256: 4f84409a4b179a72045427a8b084a840d04fba58ef016bc906d0fe9aca5eac28
+Filename: ./debs/kupord.appdata_1.3.6_iphoneos-arm.deb
+Size: 193036
+MD5sum: 38fde943d97f37f35506da1d4cf85cfa
+SHA1: 61b3e18e7dcbda50daf90422f48b19d06541c1b1
+SHA256: acf05e38c52bc24664554f0caa53987b0558324a5bd5523e2b61a2c14deb1793
 Section: Tweaks
 Description: APP上划或按压。显示bunleid，清理缓存、角标。打开文档、文件目录。打开App Store。
 Author: Fouad Raheb <support@fouadraheb.com>
 Depiction: https://kupord.github.io/web/description.html?id=AppData
 Name: AppData
-
-Package: kupord.appleturboboost
-Version: 0.7.0
-Architecture: iphoneos-arm
-Maintainer: kupord <kupord@163.com>
-Depends: firmware (>= 12.0), darwintools, com.bingner.plutil (>= 0.1.0), sed, system-cmds
-Conflicts: com.michael.appleilluminator, netskao.appleilluminator, netskao.appleturboboost, com.cydiabc.appleturboboost
-Filename: ./debs/kupord.appleturboboost_0.7.0_iphoneos-arm.deb
-Size: 10064
-MD5sum: fb65a283094aed7b07f5857d2108a48d
-SHA1: 81fee5c697d546569fd04d9e1f66ac9eb01fc041
-SHA256: 05e8c84c2f1b04d8e38b4c7770387e95fa08d9de4e4e7d4e393c13d1ed6f15a5
-Section: Tweaks
-Description: 关闭系统过热降频和自动降低亮度，安装/卸载后需要软启或者重启设备
-Author: Halo_Michael
-Depiction: https://kupord.github.io/web/description.html?id=appleturboboost
-Name: Apple Turbo Boost
-Sponsor: kupord <kupord@163.com>
-
-Package: kupord.appstorebundleid
-Version: 1.0.3
-Architecture: iphoneos-arm
-Maintainer: h4ckua11
-Installed-Size: 152
-Depends: mobilesubstrate
-Filename: ./debs/kupord.appstorebundleid_1.0.3_iphoneos-arm.deb
-Size: 8260
-MD5sum: 1e3179b901d085d3877f425ba3f317cd
-SHA1: 267b7fad17b088524651809ea132698b6f26c7c7
-SHA256: e37e233727eccc9be134a5c84ecb80a41763d48ceb3f0293d2d35d0bc6110447
-Section: Tweaks
-Description: SAppStore BundleID 长按App Store内图标查看并复制bundleid
-Author: h4ckua11
-Depiction: https://kupord.github.io/web/description.html?id=appstorebundleid
-Name: AppStore BundleID
 
 Package: kupord.appstorenohistory
 Version: 0.0~beta8
@@ -236,40 +149,23 @@ Depiction: https://kupord.github.io/web/description.html?id=appstorenohistory
 Name: Appstore No History
 
 Package: kupord.appsyncunified
-Version: 92.0
+Version: 94.0
 Architecture: iphoneos-arm
 Maintainer: Karen/あけみ <karen@akemi.ai>
 Depends: firmware (>= 5.0), firmware (<= 13.3.1), firmware (<< 12.0) | mobilesubstrate (>= 0.9.5100) | mobilesubstrate (<= 0.9.6301) | mobilesubstrate (= 0.9.7020) | mobilesubstrate (= 0.9.7033) | mobilesubstrate (>= 0.9.7034) | com.ex.substitute (>= 0.1.0), firmware (<< 12.0) | mobilesubstrate (<< 99.0) | com.ex.libsubstitute (>= 0.1.1)
 Conflicts: us.hackulo.appsync50, us.hackulo.appsync50plus, com.hackyouriphone.appsync7, com.teiron.ppsync, appsync50plus2.25pp, com.linusyang.appsync, com.sull.appsyncunified, com.sull.appsyncunifiedbeta, com.xsellize.appsync50, com.xsellize.appsync50plus, appsync50plus.178, appsync50plus2.178, cydia.net.angelxwind.appsyncunified, science.xnu.substitute, net.angelxwind.appsyncunified, netskao.appsyncunified
 Replaces: us.hackulo.appsync50
 Provides: appsync
-Filename: ./debs/kupord.appsyncunified_92.0_iphoneos-arm.deb
-Size: 37664
-MD5sum: 48481383e290f85330dae916a5404053
-SHA1: 94de4b5fc215fb2f476e6ad8af5507319f0d7943
-SHA256: 01f4d1daaaf93f95f4c52d578520dec42cd8afb99e0e31518415a9224969b52f
+Filename: ./debs/kupord.appsyncunified_94.0_iphoneos-arm.deb
+Size: 31312
+MD5sum: 624b125b2bff2dcce54ca5c3b1bcb610
+SHA1: 16e20ec81fcae32f9b235b343edbff65868ee242
+SHA256: 0cc916a006618dd97d0d7cffe839c652e4a52bb858448e83edffb8e60b0e53d2
 Section: Tweaks
 Description: 安装未签名应用
 Author: Linus Yang, Karen/あけみ <karen@akemi.ai>
 Depiction: https://kupord.github.io/web/description.html?id=appsyncunified
 Name: AppSync Unified
-
-Package: kupord.ares
-Version: 1.0.1
-Architecture: iphoneos-arm
-Maintainer: Phoenix Dev
-Depends: mobilesubstrate, firmware (>= 13.0)
-Filename: ./debs/kupord.ares_1.0.1_iphoneos-arm.deb
-Size: 626656
-MD5sum: c87fa608b2c3e6f50e95d8f7ac1a300a
-SHA1: 840024569d267bdaf63e79fd9ea94d5130a8fe74
-SHA256: 351bc5f1e33f6ab7d10e8e61c07c6ce987da232dcfdf7c1670f63bb4c045e00f
-Section: Tweaks
-Description: Ares完全改变了您的Siri体验，这是一个高度可定制的调整，使您可以轻松地使用Siri
-Author: Phoenix Dev
-Depiction: https://kupord.github.io/web/description.html?id=Ares
-Name: Ares
-Sponsor: kupord
 
 Package: kupord.autofolderclose
 Version: 1.0-1
@@ -307,91 +203,6 @@ Author: iKilledAppl3 <ipodnewbee234@icloud.com>
 Depiction: https://kupord.github.io/web/description.html?id=autofolderclose
 Name: AutoFolderClose
 
-Package: kupord.autounlockx
-Version: 1.0.16
-Architecture: iphoneos-arm
-Maintainer: No
-Depends: mobilesubstrate
-Filename: ./debs/kupord.autounlockx_1.0.16_iphoneos-arm.deb
-Size: 65304
-MD5sum: 380ea32c269fb31ce0bfaa8a98ecf45d
-SHA1: 9c6cbce7c269dc1f570a4359354a769685e3b4e2
-SHA256: 691b964385619422f03e42e4261953eb6dc36cca5fa5c81090641b9723553cf6
-Section: Tweaks
-Description: 自动面部识别解锁进入桌面，自动重试
-Author: Spark
-Depiction: https://kupord.github.io/web/description.html?id=autounlockx
-Name: AutoUnlockX
-
-Package: kupord.bazzi2
-Version: 2.0.8
-Architecture: iphoneos-arm
-Maintainer: Blake Boxberger
-Installed-Size: 408
-Depends: mobilesubstrate, preferenceloader, ws.hbang.common, com.rpetrich.rocketbootstrap
-Conflicts: com.neinzedd9.bazzi, com.neinzedd9.percentagebatteryx, com.neinzedd9.percentagecirclex
-Replaces: com.neinzedd9.percentagebatteryx, com.neinzedd9.percentagecirclex
-Filename: ./debs/kupord.bazzi2_2.0.8_iphoneos-arm.deb
-Size: 64896
-MD5sum: f202e21ba051268513f5b8d20080fba2
-SHA1: 13c19e4aea127ca201ac244ffe21337d5d1a097c
-SHA256: fc557d63bcc85436eabbcc08d5f60fa3dfd7444b8cdf3eccbd4dad0e778b55a9
-Section: Tweaks
-Description: 一款适用于iPhone X及以上刘海设备的电池定制插件，特别注意：可能和别的插件电池类功能的冲突，比如电话助手的原生电池数字(需关闭再装Bazzi2)
-Author: Blake Boxberger
-Depiction: https://kupord.github.io/web/description.html?id=bazzi2
-Name: Bazzi 2
-Sponsor: kupord
-
-Package: kupord.betterccxi
-Version: 1.6.0
-Architecture: iphoneos-arm
-Maintainer: ATWiiks
-Depends: firmware(>=11.0), mobilesubstrate, com.opa334.ccsupport, preferenceloader
-Conflicts: com.atwiiks.betterccxiweather, com.atwiiks.betterccxi
-Filename: ./debs/kupord.betterccxi_1.6.0_iphoneos-arm.deb
-Size: 80792
-MD5sum: d3ec8aee2fba2594da9d7b2d45c680f1
-SHA1: 81ea28205aea71bffe5f41046003711be7382ca5
-SHA256: d404ad02563fb01cd6e9b507ac30fd494344b2daba1279dab05fe24f10037910
-Section: Tweaks
-Description: 控制中心飞行模式，蜂窝，wifi，蓝牙切换成横状模块化！已整合天气
-Author: ATWiiks
-Depiction: https://kupord.github.io/web/description.html?id=betterccxi
-Name: BetterCCXI
-
-Package: kupord.bolders
-Version: 1.2.2-2
-Architecture: iphoneos-arm
-Maintainer: candoizo
-Depends: mobilesubstrate, firmware (>= 9.0), com.chpwn.iconsupport
-Filename: ./debs/kupord.bolders_1.2.2-2_iphoneos-arm.deb
-Size: 67124
-MD5sum: fd34025fa800630d44100f8092864b73
-SHA1: afedd2cae09d5786f11ca231bfcf7d2033f4c7bd
-SHA256: 44a1cdec109d6e937a70e16117516d3ef54b1718bc142b0d485949f355de4864
-Section: Tweaks
-Description: 全屏桌面文件夹,全屏毛玻璃特效
-Author: candoizo
-Depiction: https://kupord.github.io/web/description.html?id=bolders
-Name: Bolders
-
-Package: kupord.bundleidsxi
-Version: 1.4.3
-Architecture: iphoneos-arm
-Maintainer: Nets
-Depends: applist
-Filename: ./debs/kupord.bundleidsxi_1.4.3_iphoneos-arm.deb
-Size: 122344
-MD5sum: 7c914af6a9c89cce97fc140395025286
-SHA1: a85a157b175f10141ec72527c6a79c1fd47befa9
-SHA256: 1b6b8ba80b3ac1f1dd32d0295a96af9301b66588afadc2bd3cc0ccfb9fe5ce74
-Section: Tweaks
-Description: 快捷查询应用的bundleID，对爱做主题图标的同学很有用 bundle IDs.
-Author: TD
-Depiction: https://kupord.github.io/web/description.html?id=bundleidsxi
-Name: BundleIDsXI13
-
 Package: kupord.callassist-icon
 Version: 1.0.2
 Architecture: iphoneos-arm
@@ -424,22 +235,22 @@ Author: tateu (Josh Harris)
 Depiction: https://kupord.github.io/web/description.html?id=calldismiss
 Name: CallDismiss
 
-Package: kupord.ccplus
-Version: 1.0.0
+Package: kupord.ccmax
+Version: 1.0.1
 Architecture: iphoneos-arm
 Maintainer: kupord
 Depends: firmware (>= 13.0), mobilesubstrate, com.opa334.ccsupport
-Conflicts: kupord.flipconvert, kupord.flipconvert13, kupord.ccmodules, netskao.ccpower, netskao.alipayscan, netskao.wechatscan
-Filename: ./debs/kupord.ccplus_1.0.0_iphoneos-arm.deb
-Size: 239356
-MD5sum: f738eda6d59477424eb97140581df4a2
-SHA1: f63599b7916376c90c02b5e91cfe52014d2287a3
-SHA256: ce3056293628fcabb053c9f4c2fc1658e34ddbf811ed494594345628e2c7a493
+Conflicts: kupord.flipconvert, kupord.flipconvert13, kupord.ccmodules, netskao.ccpower, netskao.alipayscan, netskao.wechatscan, kupord.ccplus
+Filename: ./debs/kupord.ccmax_1.0.1_iphoneos-arm.deb
+Size: 325356
+MD5sum: 82af08860fecc1f4b6329b4adedb63dd
+SHA1: f1dde0ffff3cd6a303282c863b99572dca5ad8ce
+SHA256: 5b7d0c17c4f1966a07fb8fae4b7e539c4ce06bb256773c80dfba402e38ddd7e6
 Section: Tweaks
 Description: 控制中心快捷按键,添加高清图标
 Author: kupord
-Depiction: https://kupord.github.io/web/description.html?id=ccplus
-Name: CCPlus+
+Depiction: https://kupord.github.io/web/description.html?id=ccmax
+Name: CCMax
 Sponsor: kupord
 
 Package: kupord.classickeyboardxs
@@ -459,23 +270,6 @@ Author: Netskao
 Depiction: https://kupord.github.io/web/description.html?id=ClassicKeyboardXS
 Name: ClassicKeyboardXS
 Sponsor: Netskao
-
-Package: kupord.cloaky2
-Version: 8.0
-Architecture: iphoneos-arm
-Maintainer: r_plus
-Depends: mobilesubstrate (>= 0.9.5000), applist (>= 1.5.6), firmware (>= 11.0), preferenceloader (>= 2.2.2)
-Conflicts: jp.r-plus.cloaky, jp.r-plus.cloaky2
-Filename: ./debs/kupord.cloaky2_8.0_iphoneos-arm.deb
-Size: 91780
-MD5sum: a387fa9f0dd3f60b940db7f239023dd3
-SHA1: aa3f70ed1e5453f7cca75281e8a14493869e9921
-SHA256: d1043ba4656355a3bfd0b8f4768115c726c535e9ff50aa6e410326532da2cb84
-Section: Tweaks
-Description: 一款支持活动选项，菜单选项，设置选项，状态栏的多功能微调增强！
-Author: r_plus
-Depiction: https://kupord.github.io/web/description.html?id=cloaky2
-Name: Cloaky (iOS 11-14)
 
 Package: kupord.colorbadges
 Version: 1.5.0
@@ -506,26 +300,6 @@ Description: ColorBanners已被完全重写以支持iOS 13+，包括全暗模式
 Author: David Goldman
 Depiction: https://kupord.github.io/web/description.html?id=colorbanners3
 Name: ColorBanners 3
-
-Package: kupord.colorflow5
-Version: 1.0.7
-Architecture: iphoneos-arm
-Maintainer: David Goldman
-Installed-Size: 1424
-Depends: firmware (>= 13.0), mobilesubstrate (>= 0.9.5.000), preferenceloader
-Conflicts: org.thebigboss.colorflow, com.golddavid.colorflow2, com.golddavid.colorflow3, com.golddavid.colorflow4
-Replaces: org.thebigboss.colorflow, com.golddavid.colorflow2, com.golddavid.colorflow3, com.golddavid.colorflow4
-Filename: ./debs/kupord.colorflow5_1.0.7_iphoneos-arm.deb
-Size: 545820
-MD5sum: 0c54ed8229f53c01e51b7add9c89d08a
-SHA1: ab2361d9a3d9a62f25a61fc1a1651325841379f1
-SHA256: b766b5ae6360676687580b3a46acbd1b2f664e38f00f5a358b3fc6e04eb645b9
-Section: Tweaks
-Description: 音乐播发器可以随意着色，调整增强功能。
-Author: David Goldman
-Depiction: https://kupord.github.io/web/description.html?id=colorflow5
-Name: ColorFlow 5
-Sponsor: kupord
 
 Package: kupord.commcenterpatch
 Version: 3.1
@@ -578,36 +352,20 @@ Depiction: https://kupord.github.io/web/description.html?id=controlcenterpercent
 Name: ControlCenter Percentage
 
 Package: kupord.copypasta
-Version: 0.1.4
+Version: 1.3.4
 Architecture: iphoneos-arm
 Maintainer: Nepeta
-Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 11.0), firmware(<< 13.0), applist
-Filename: ./debs/kupord.copypasta_0.1.4_iphoneos-arm.deb
-Size: 50972
-MD5sum: 44a820239bdecf6e072b6ee90bf6e649
-SHA1: 3f6526742029889e96efa5b35ca67fab59b4b408
-SHA256: d92d412eef63985cd9595e8ab1b2fee869688f4e72f67596a1c1642fa7097239
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 13.0), applist, com.mrgcgamer.libgcuniversal, com.spark.libsparkapplist
+Filename: ./debs/kupord.copypasta_1.3.4_iphoneos-arm.deb
+Size: 213696
+MD5sum: eee30973dff5f07c3169dbf8c75620f2
+SHA1: 24c5a761ae201504149c02b7ce63414e1329d648
+SHA256: 70fc50d3a263c928b0b362d0b01573279fb0596c05c4a63986bf8792f2fd9b37
 Section: Tweaks
 Description: 剪贴板历史记录增强,快捷粘贴复制历史
 Author: Nepeta
 Depiction: https://kupord.github.io/web/description.html?id=copypasta
 Name: Copypasta
-
-Package: kupord.crackerxi
-Version: 1.1.16
-Architecture: iphoneos-arm
-Maintainer: c0pyn1nja
-Depends: firmware (>= 11.0), ldid (>=2.0)
-Filename: ./debs/kupord.crackerxi_1.1.16_iphoneos-arm.deb
-Size: 6187492
-MD5sum: 79d76e249c6b47f551b9cc710ad0170b
-SHA1: 012de2df930b5246f7ddcccfb039c7b60d96af25
-SHA256: b87c33cdfdd4e983c26558c437689664d0693a4243c3778caf3ea81b544dc27e
-Section: Tweaks
-Description: 解密iOSApp,普通用户可用于导出App⚠️如出现打开“CrackerXI+”闪退,即表明此应用未正确联网,可能是你国行机器的原因,至于国行如何联网 请移步百度！
-Author: c0pyn1nja
-Depiction: https://kupord.github.io/web/description.html?id=crackerxi
-Name: CrackerXI+
 
 Package: kupord.cracktool4
 Version: 4.0~beta9e
@@ -624,6 +382,22 @@ Description: 插件破解注册机！Filza和iCleanerPro等插件的破解，⚠
 Author: julioverne
 Depiction: https://kupord.github.io/web/description.html?id=cracktool4
 Name: CrackTool4
+
+Package: kupord.crashreporter
+Version: 1.1.6.0-1
+Architecture: iphoneos-arm
+Pre-Depends: firmware (>= 4.0)
+Depends: coreutils, dpkg, grep, jp.ashikase.libcrashreport (>= 1.1.0), jp.ashikase.libpackageinfo (>= 1.1.0), jp.ashikase.techsupport (>= 1.5.0), mobilesubstrate, preferenceloader
+Filename: ./debs/kupord.crashreporter_1.1.6.0-1_iphoneos-arm.deb
+Size: 238796
+MD5sum: a744e4a5b064de2edcbe0632db2112e7
+SHA1: 4c5025eee911f713b45a773fba2619da4737eff2
+SHA256: 043ca587546315d40bd1eec2301a1f3f9a1ad9ed91c8062e8c33e995dfa3d4a8
+Section: Tweaks
+Description: 崩溃日记记录，用于检测插件问题
+Author: Lacnce Fetters
+Depiction: https://kupord.github.io/web/description.html?id=crashreporter
+Name: CrashReporter
 
 Package: kupord.cydown
 Version: 7.1.1
@@ -692,57 +466,21 @@ Depiction: https://kupord.github.io/web/description.html?id=DismissProgress
 Name: DismissProgress
 
 Package: kupord.dockx
-Version: 2.3.1
+Version: 2.3.2
 Architecture: iphoneos-arm
 Maintainer: udevs
 Depends: mobilesubstrate, preferenceloader, com.rpetrich.rocketbootstrap (>= 1.0.2), firmware(>=12.0), com.spark.libsparkcolourpicker
 Conflicts: com.cpdigitaldarkroom.barmoji, com.restiveconch.actionbar
-Filename: ./debs/kupord.dockx_2.3.1_iphoneos-arm.deb
-Size: 286072
-MD5sum: 3d0e4e2eb89aa0802fd4c48ed2265709
-SHA1: fb556e682c8a939269e7425b0894dec2c18ca4f6
-SHA256: 677e4a507e61ced9887f84242ef126e4d0d49d98f7f3eee43ab44bf7662b4f3b
+Filename: ./debs/kupord.dockx_2.3.2_iphoneos-arm.deb
+Size: 293652
+MD5sum: e3c6f7928f9a8ec581be5892bd585852
+SHA1: 07a3f6dde649cd16ec4b0ad7b58be3ceae2fa693
+SHA256: dfddf83f8c9dca8105cdafc5f0bf2b688903ef0835e99ad97a8facd9f846cfed
 Section: Tweaks
 Description: 为键盘下方添加复制.粘贴.全选.撤回等图标。支持第三方输入法
 Author: udevs
 Depiction: https://kupord.github.io/web/description.html?id=dockx
 Name: DockX
-
-Package: kupord.dragspring
-Version: 2.1
-Architecture: iphoneos-arm
-Maintainer: ConorTheDev
-Depends: mobilesubstrate, ws.hbang.common (>= 1.11), me.nepeta.libcolorpicker
-Conflicts: com.sassoty.pulltorespring
-Filename: ./debs/kupord.dragspring_2.1_iphoneos-arm.deb
-Size: 56240
-MD5sum: 433cee61674ed26516ed216281d049eb
-SHA1: 7acc15d19354e6edf6e7c9e30ef8479bb2e4ad51
-SHA256: 006ec63a052f38c30eafd25741fdd220dd600ba13f5c57ada84ad874ad7058de
-Section: Tweaks
-Description: 设置顶部向下拖动注销设备
-Author: ConorTheDev
-Depiction: https://kupord.github.io/web/description.html?id=dragspring
-Name: Dragspring
-Sponsor: ConorTheDev
-
-Package: kupord.fastunlockx
-Version: 1.5
-Architecture: iphoneos-arm
-Maintainer: CP Digital Darkroom
-Installed-Size: 292
-Depends: mobilesubstrate
-Filename: ./debs/kupord.fastunlockx_1.5_iphoneos-arm.deb
-Size: 18352
-MD5sum: 458ea2e0ff248366fcb8cf67b8134624
-SHA1: cbae80dd2a891f7eb4315690c9f665cc5954e0c7
-SHA256: 67bd1b3c6fa06673ea040bba49df0f55cb47db92c434af1b94f8ba53adad16e4
-Section: Tweaks
-Description: 面容设备自动解锁进桌面，功能和AutoUnlockX一样，采用最新源码编译、汉化。支持iOS11~12，支持A12设备。
-Author: CP Digital Darkroom
-Depiction: https://kupord.github.io/web/description.html?id=FastUnlockX
-Name: FastUnlockX
-Sponsor: CP Digital Darkroom
 
 Package: kupord.filza
 Version: 3.8.2-6
@@ -794,24 +532,6 @@ Description: 控制中心增强插件,修改版
 Author: kupord
 Depiction: https://kupord.github.io/web/description.html?id=flipconvert
 Name: FlipConvert++
-
-Package: kupord.flyjb
-Version: 0.2.5.6
-Architecture: iphoneos-arm
-Maintainer: XsF1re
-Installed-Size: 836
-Depends: mobilesubstrate, applist, preferenceloader, com.rpetrich.rocketbootstrap
-Filename: ./debs/kupord.flyjb_0.2.5.6_iphoneos-arm.deb
-Size: 497184
-MD5sum: aff28af631534963024f918a45b45ec0
-SHA1: 451c5e65818452b6c3435479e797b76c7f942d81
-SHA256: e3a963d7f38258ef489511c78a0cc6d6a9225cf2ae8461d215378a860c434181
-Section: Tweaks
-Description: 屏蔽越狱检测 激活指纹 面容支付，插件为韩语插件，已经汉化
-Author: XsF1re
-Depiction: https://kupord.github.io/web/description.html?id=flyjb
-Name: FlyJB
-Sponsor: XsF1re
 
 Package: kupord.fonts.mwzt2
 Version: 1.1
@@ -877,39 +597,6 @@ Author: kupord
 Depiction: https://kupord.github.io/web/description.html?id=mwzt2
 Name: kupord盲文字体(iOS11-14)
 
-Package: kupord.generatorautosetter
-Version: 0.1.1
-Architecture: iphoneos-arm
-Maintainer: halo_michael <yc992147156@me.com>
-Depends: firmware (>= 12.3)
-Filename: ./debs/kupord.generatorautosetter_0.1.1_iphoneos-arm.deb
-Size: 10640
-MD5sum: 6f981200b568fc7b04a4896728a23a75
-SHA1: 8d475a67e9e433856575b36fd6396e0951614bb6
-SHA256: f7a4b074f1518feccfabdac5199017e32d29cbf292bed432c0f23b5e6967b429
-Section: Tweaks
-Description: 安装插件自动设定G值！0x1111111111111，只支持Checkra1n（因为他没有去固定）
-Author: halo_michael <yc992147156@me.com>
-Depiction: https://kupord.github.io/web/description.html?id=generatorautosetter
-Name: Generator Auto Setter
-Sponsor: halo_michael <yc992147156@me.com>
-
-Package: kupord.goodwifi
-Version: 0.0~beta6
-Architecture: iphoneos-arm
-Maintainer: julioverne
-Depends: mobilesubstrate, preferenceloader
-Filename: ./debs/kupord.goodwifi_0.0~beta6_iphoneos-arm.deb
-Size: 81940
-MD5sum: 29b8ccd62b2689bd4343781703f23107
-SHA1: d1ead1bc062bc60dc3a4e843b1c2f6015c23a2bd
-SHA256: f377a10c97929d34aededee37abe2a0b653d8785c5c6a8a05cbcc906b956128f
-Section: Tweaks
-Description: 在WI-FI界面开启显示已保存的wifi密码,支持A12
-Author: julioverne
-Depiction: https://kupord.github.io/web/description.html?id=goodwifi
-Name: GoodWiFi
-
 Package: kupord.hideallbar
 Version: 2.1.1
 Architecture: iphoneos-arm
@@ -946,28 +633,6 @@ Description: 屏蔽越狱检测app
 Author: TTJB Team <admin@thuthuatjb.com>
 Depiction: https://kupord.github.io/web/description.html?id=hidejblite
 Name: HideJB Lite
-
-Package: kupord.homebarsizer
-Version: 1.0-5-1
-Architecture: iphoneos-arm
-Maintainer: BigBoss <bigboss@thebigboss.org>
-Installed-Size: 194
-Depends: mobilesubstrate, firmware (>= 11.0)
-Conflicts: com.imkpatil.homebarsizer
-Filename: ./debs/kupord.homebarsizer_1.0-5-1_iphoneos-arm.deb
-Size: 32564
-MD5sum: 87b5fce2cf00b8d2f7f42dc69ed86f66
-SHA1: 71b162acee13f674824d6ba18ee6be052dca02e6
-SHA256: 37cbc60e765d1b44b2e1dfc2275050904deeca5a345e4a310aff67a713028365
-Section: Tweaks
-Priority: optional
-Description: 修改HomeBar大小! 个人调整限制为可隐藏HomeBar!
-Author: Kiran Patil <patilkiran08@gmail.com>
-Depiction: https://kupord.github.io/web/description.html?id=homebarsizer
-Dev: imkpatil
-Icon: file:///Library/PreferenceBundles/HomeBarSizer.bundle/icon@2x.png
-Name: HomeBarSizer
-Sponsor: thebigboss.org <http://thebigboss.org>
 
 Package: kupord.homebarsizer
 Version: 1.1
@@ -1024,23 +689,6 @@ Author: Ivano Bilenchi <support@ib-soft.net>
 Depiction: https://kupord.github.io/web/description.html?id=icleanerpro
 Name: iCleaner Pro
 
-Package: kupord.instalauncher2
-Version: 1.7.1
-Architecture: iphoneos-arm
-Maintainer: Jonathan Winger Lang
-Depends: mobilesubstrate, preferenceloader, applist(>=1.5.15), firmware(>=12.1)
-Conflicts: com.jontelang.instalauncher2.beta
-Filename: ./debs/kupord.instalauncher2_1.7.1_iphoneos-arm.deb
-Size: 200968
-MD5sum: 2fec6e24f14803e1c2778514d91f4312
-SHA1: 34aa900d4db09c50dc43702e6916ca2b59026cce
-SHA256: c4ccbf08b960aa315de6f6df6298bffa8ddea46619e75cd7c80f078d3c9401de
-Section: Tweaks
-Description: InstaLauncher允许您快捷访问任何应用程序
-Author: Jonathan Winger Lang
-Depiction: https://kupord.github.io/web/description.html?id=instalauncher2
-Name: InstaLauncher 2
-
 Package: kupord.ithemer
 Version: 2.0.0-3
 Architecture: iphoneos-arm
@@ -1076,23 +724,6 @@ Depiction: https://kupord.github.io/web/description.html?id=kb2change
 Name: KB2Change
 Sponsor: kupord
 
-Package: kupord.killapps
-Version: 1.1-2
-Architecture: iphoneos-arm
-Maintainer: Nets
-Installed-Size: 528
-Depends: mobilesubstrate, firmware (>= 13.0)
-Filename: ./debs/kupord.killapps_1.1-2_iphoneos-arm.deb
-Size: 109460
-MD5sum: 755b78e8d7d114b498623a3f73ad033f
-SHA1: f5aed3e7e46802fb14a9f80dcde107b8e0cf50a9
-SHA256: 088f811dbb309a12bd394f29bfcfc012e1de5db28db50743cf2ff4a0a380e6e8
-Section: Tweaks
-Description: 给后台切换器添加一键清除所有后台按钮或下滑清除所有后台，支持不清理正在播放，支持清理后返回主页，支持选择一键清除白名单，支持选择禁止上滑应用等，不支持iPad后台
-Author: Netskao
-Depiction: https://kupord.github.io/web/description.html?id=kill
-Name: KillApps
-
 Package: kupord.killx
 Version: 1.2
 Architecture: iphoneos-arm
@@ -1110,38 +741,21 @@ Depiction: https://kupord.github.io/web/description.html?id=killx
 Name: KillX
 
 Package: kupord.killxpro
-Version: 2.1.2
+Version: 3.0.2
 Architecture: iphoneos-arm
 Maintainer: cemck
 Depends: mobilesubstrate, applist, ws.hbang.common (>= 1.13), firmware (>= 11.0)
 Conflicts: com.cemck.killx, com.crak.killx, com.hk.killx
-Filename: ./debs/kupord.killxpro_2.1.2_iphoneos-arm.deb
-Size: 170288
-MD5sum: 76f1a0e0db2db30a0bb38c1191e5f85b
-SHA1: 08eee4a1d6210318d6bfd40a945caac179fc85b8
-SHA256: a252e872cffea266decc281de272abc743cc57f0c5dc900895529e1b9a8a4706
+Filename: ./debs/kupord.killxpro_3.0.2_iphoneos-arm.deb
+Size: 195656
+MD5sum: edcc041931ddc674a8b73a3c5eda71f4
+SHA1: f2d0720735a9b780e7a9cb2c55a35380b2402aa8
+SHA256: 214be43580c5e5b45f49d38942845f56034ec1f620eabd4aa04eca17d53eeabb
 Section: Tweaks
 Description: 下滑一键关闭,汉化版
 Author: cemck
 Depiction: https://kupord.github.io/web/description.html?id=killxpro
 Name: KillX Pro
-
-Package: kupord.kleidaria
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: gilshahar7
-Installed-Size: 104
-Depends: mobilesubstrate
-Filename: ./debs/kupord.kleidaria_1.0_iphoneos-arm.deb
-Size: 3212
-MD5sum: b0cb982878cb1546fd6072e1ca42f905
-SHA1: 238f390c2c5fafbc0078b600bb7002abe4811a0d
-SHA256: ada7e534f26e9bd67f02b3922d0223317eb65dd2714496b4f869c6664ab7ab1a
-Section: Tweaks
-Description: 手机屏幕朝下放置时，自动锁定设备，安装无设置，注销生效
-Author: gilshahar7
-Depiction: https://kupord.github.io/web/description.html?id=kleidaria
-Name: Kleidaria锁定设备
 
 Package: kupord.libertylite
 Version: 0.2.12
@@ -1162,39 +776,6 @@ Author: Ryley Angus
 Depiction: https://kupord.github.io/web/description.html?id=libertylite
 Name: Liberty Lite
 
-Package: kupord.lspulltodismiss
-Version: 0.0.2
-Architecture: iphoneos-arm
-Maintainer: Spark
-Installed-Size: 72
-Depends: mobilesubstrate
-Filename: ./debs/kupord.lspulltodismiss_0.0.2_iphoneos-arm.deb
-Size: 5340
-MD5sum: 9d1419120b56d0c057b9488d61a1efbe
-SHA1: 84fab1744bcd4d71ee0b0d7cf2656b645a46e074
-SHA256: 7d78e739c113b398bf5b1a3af55132c618ec51b321d0c7d79f89617a6d0af994
-Section: Tweaks
-Description: 锁屏下拉清空通知
-Author: Spark
-Depiction: https://kupord.github.io/web/description.html?id=lspulltodismiss
-Name: LSPullToDismiss
-
-Package: kupord.magma
-Version: 1.0.8
-Architecture: iphoneos-arm
-Maintainer: NoisyFlake
-Depends: mobilesubstrate, firmware (>= 11.0), org.thebigboss.libcolorpicker
-Filename: ./debs/kupord.magma_1.0.8_iphoneos-arm.deb
-Size: 1469072
-MD5sum: abcfb4ecb1410769a54d635f607f5581
-SHA1: 489fbbda1759d0bd6c4ee48f724a93664b81b61e
-SHA256: d89c63715409cc445626057dc185d0b07b17ed70067200180e3351e9096c69af
-Section: Tweaks
-Description: 自定义控制中心模块颜色,连接模块/其他模块
-Author: NoisyFlake
-Depiction: https://kupord.github.io/web/description.html?id=magma
-Name: Magma
-
 Package: kupord.mcpatch
 Version: 0.0.1-2
 Architecture: iphoneos-arm
@@ -1212,24 +793,6 @@ Description: 允许iOS设备安装不可安装的描述文件，比如13设备�
 Author: XsF1re
 Depiction: https://kupord.github.io/web/description.html?id=MCPatch
 Name: MCPatch
-
-Package: kupord.midevicenew
-Version: 2.0.0-3
-Architecture: iphoneos-arm
-Maintainer: kupord
-Installed-Size: 740
-Depends: mobilesubstrate, firmware (>= 11.0), preferenceloader, org.thebigboss.libcolorpicker, applist
-Filename: ./debs/kupord.midevicenew_2.0.0-3_iphoneos-arm.deb
-Size: 193412
-MD5sum: dad97af312363c7f72e58a607247995f
-SHA1: 3f5fe30d22eacd5dea3b0b0ab4827e8c401ad677
-SHA256: e0bd5253ab6827b15924aed1760df254015575a2f26f94a662c9f9d0cc5022ef
-Section: Tweaks
-Description: MiDevice是SpringBoard的自定义调整项，可让您随意设置设备
-Author: DODGraphics
-Depiction: https://kupord.github.io/web/description.html?id=midevicenew
-Name: MiDevice
-Sponsor: kupord
 
 Package: kupord.milkyway1
 Version: 0.1.4beta
@@ -1283,23 +846,6 @@ Depiction: https://kupord.github.io/web/description.html?id=netcontrol
 Dev: abcydia
 Name: NetControl
 
-Package: kupord.nfcwriterxs
-Version: 3.2-78+debug
-Architecture: iphoneos-arm
-Maintainer: Elias Limneos
-Depends: mobilesubstrate, net.limneos.libbulletin, firmware(>= 12.0)
-Conflicts: net.limneos.nfcwriter, com.pulandres.audiorecorderxs, com.pulandres.callbarxs, com.repo.xarold.com.audiorecorderxs, com.pulandres.bioprotectxs, net.pulandres.nfcwriterx, com.repo.xarold.com.nfcwriterx, com.pulandres.limneosos, com.repo.xarold.com.limneosos, net.limneos.nfcwriterx
-Filename: ./debs/kupord.nfcwriterxs_3.2-78+debug_iphoneos-arm.deb
-Size: 779352
-MD5sum: 77fe366cdb1521eccc75a22d62108678
-SHA1: 679fd80b115974a67bd78151fa263fec3c5e936b
-SHA256: f05e220b749fbd91e05916e8aa4fa14e6a7a6c35477d9256ed50cc0e5289c1f7
-Section: Tweaks
-Description: 开启原生NFC高级权限，最新完美破解版
-Author: Elias Limneos
-Depiction: https://kupord.github.io/web/description.html?id=nfcwriterxs
-Name: NFCWriter XS (iOS 11-12)
-
 Package: kupord.nicebaricon
 Version: 1.1.2
 Architecture: iphoneos-arm
@@ -1332,56 +878,6 @@ Description: NiceBarX自己制作的信号图标
 Author: kupord
 Depiction: https://kupord.github.io/web/description.html?id=nicebarx-icon
 Name: NiceBarX图标(iOS12)
-
-Package: kupord.no3dtouchwidgets
-Version: 0.0.2
-Architecture: iphoneos-arm
-Maintainer: DGh0st
-Depends: mobilesubstrate
-Filename: ./debs/kupord.no3dtouchwidgets_0.0.2_iphoneos-arm.deb
-Size: 4652
-MD5sum: bceaa4c7e42f21c462fa9989522c6783
-SHA1: 7ea3ed6db03fe4e3fae21579d35554dedefb964c
-SHA256: 31f0cdcdfe7cb7232390cbbbb641de4faecb01f8e06629e92ce354150bc153a1
-Section: Tweaks
-Description: 3DTouch中去除小组件快捷方式
-Author: DGh0st
-Depiction: https://kupord.github.io/web/description.html?id=
-Name: No3DTouchWidgets
-Sponsor: kupord
-
-Package: kupord.nodropsheet
-Version: 0.0.3
-Architecture: iphoneos-arm
-Maintainer: CreatureSurvive
-Depends: mobilesubstrate
-Filename: ./debs/kupord.nodropsheet_0.0.3_iphoneos-arm.deb
-Size: 5232
-MD5sum: eb90f464be315fae702162ff1bfdda9f
-SHA1: 27165248b4e865cbb8596dbf1585c49e0d41eb71
-SHA256: 300aa6f89c0ba6ad2a5c13840c06b176570af184b2bb2adc2976b045464aa1ea
-Section: Tweaks
-Description: 删除共享页面的隔空投送
-Author: CreatureSurvive
-Depiction: https://kupord.github.io/web/description.html?id=nodropsheet
-Name: NoDropSheet
-
-Package: kupord.noshareplz
-Version: 1.1
-Architecture: iphoneos-arm
-Maintainer: Nets
-Installed-Size: 152
-Depends: mobilesubstrate, firmware (<= 12.4.4)
-Filename: ./debs/kupord.noshareplz_1.1_iphoneos-arm.deb
-Size: 4992
-MD5sum: 23056a482e975472fcda0af1466d098f
-SHA1: 31a0f733f5308fbdc27c586eca6c482a34d32f49
-SHA256: 9483dfd00d8733086bcf8da17370ad813d8a530952ba20636fc5474db5540a3a
-Section: Tweaks
-Description: 去除桌面3D长按应用时的分享选项，更新支持A12
-Author: Olxios
-Depiction: https://kupord.github.io/web/description.html?id=NoSharePlz
-Name: NoSharePlz
 
 Package: kupord.nougat
 Version: 1.3.1
@@ -1416,91 +912,6 @@ Description: 厌倦了苹果撤销应用程序？安装这个插件，现在您�
 Author: kupord
 Depiction: https://kupord.github.io/web/description.html?id=nozhengshu
 Name: 去除企业软件证书
-
-Package: kupord.npurge
-Version: 1.0.5
-Architecture: iphoneos-arm
-Maintainer: Nets
-Installed-Size: 980
-Depends: mobilesubstrate, preferenceloader, org.thebigboss.libcolorpicker
-Filename: ./debs/kupord.npurge_1.0.5_iphoneos-arm.deb
-Size: 419896
-MD5sum: 2fa1a435398637c36214d4b70192a82f
-SHA1: fe4fedd8f7c386c355a1195f7d26a5e466ca9cc6
-SHA256: c20b2845003f68e899db23ae480c5b41257e9ef86bbfa71af6e3069b520a3422
-Section: Tweaks
-Description: 下拉通知中心即可清除所有通知
-Author: smokin1337
-Depiction: https://kupord.github.io/web/description.html?id=NPurge
-Name: NPurge
-
-Package: kupord.pencilchargingindicator
-Version: 1.2~b7
-Architecture: iphoneos-arm
-Maintainer: Nets
-Installed-Size: 3592
-Depends: mobilesubstrate
-Filename: ./debs/kupord.pencilchargingindicator_1.2~b7_iphoneos-arm.deb
-Size: 377896
-MD5sum: c9d15dc6c41740c2deb2f2ea5eddb4b0
-SHA1: 80abea2b1a39517621760a05d4444a6925838806
-SHA256: be3e26c9498a20cb9d96ab3ba786303a33c916ad243cba7a3851c60bb10ab9a1
-Section: Tweaks
-Description: 移植iPadPro的ApplePencil充电动画到iPhone上，更美观
-Author: shiftcmdk
-Depiction: https://kupord.github.io/web/description.html?id=PencilChargingIndicator
-Name: PencilChargingIndicator
-
-Package: kupord.powerselector11
-Version: 1.3.3
-Architecture: iphoneos-arm
-Maintainer: Carby
-Installed-Size: 1712
-Depends: mobilesubstrate, preferenceloader, com.opa334.ccsupport
-Conflicts: com.ichitaso.powerselector, com.dpkgdan.powertap, com.weesstt.powerdownoptions, com.subdiox.powertap2, com.rustybalboa.powertapxi
-Filename: ./debs/kupord.powerselector11_1.3.3_iphoneos-arm.deb
-Size: 207540
-MD5sum: 0c5db7b3ffe7f2c7da1d3f1b3b631637
-SHA1: 12d8731bcf9095f55075810cfc3e2a954003d64d
-SHA256: 628b8df9c632501b978b6cc1e70f5cb6aaa1bb00f4111ddcd67bba0b8eeae759
-Section: Tweaks
-Description: 控制中心注销重启插件.苏兔汉化版
-Author: Carby
-Depiction: https://kupord.github.io/web/description.html?id=powerselector11
-Name: PowerSelector
-
-Package: kupord.pulloverpro
-Version: 2.1.1
-Architecture: iphoneos-arm
-Maintainer: c1d3r
-Depends: mobilesubstrate, com.rpetrich.rocketbootstrap, applist
-Filename: ./debs/kupord.pulloverpro_2.1.1_iphoneos-arm.deb
-Size: 741900
-MD5sum: 43f8fb10b5b8a71a99d4828531f20ccd
-SHA1: 3f1becb30af3181a5c0dc38a459cc74cd0e533c8
-SHA256: 86c56e021a0ddaa0ffe6aec558268c52762822b8ae54855ec879f597ed24722b
-Section: Tweaks
-Description: 侧边快捷唤出应用程序，侧边快捷唤出应用程序，此版本为可破解版本，使用CrackTool4破解即可
-Author: c1d3r
-Depiction: https://kupord.github.io/web/description.html?id=pulloverpro
-Name: PullOver Pro
-
-Package: kupord.quart
-Version: 1.4.6.1
-Architecture: iphoneos-arm
-Maintainer: LaughingQuoll
-Installed-Size: 1772
-Depends: mobilesubstrate, com.laughingquoll.prefixui
-Filename: ./debs/kupord.quart_1.4.6.1_iphoneos-arm.deb
-Size: 1073108
-MD5sum: 382c7d49f37a51d8c71d3bcd06b24d29
-SHA1: 751920ecf643621943db544c8c20120587f5b19d
-SHA256: c6bc08350b48b395c9ad3f1eb9e7f676c553b39595b0f1771c840fa7cf3f1dfd
-Section: Tweaks
-Description: 重新设计通知和音乐播放器
-Author: LaughingQuoll
-Depiction: https://kupord.github.io/web/description.html?id=quart
-Name: Quart
 
 Package: kupord.realcc
 Version: 1.0.2
@@ -1539,39 +950,6 @@ Author: Matt Clarke
 Depiction: https://kupord.github.io/web/description.html?id=reprovision
 Name: ReProvision
 
-Package: kupord.reprovision
-Version: 0.5~release
-Architecture: iphoneos-arm
-Maintainer: Matt Clarke
-Depends: firmware (>= 9.0)
-Replaces: com.matchstic.Extender-Installer
-Provides: com.matchstic.Extender-Installer
-Filename: ./debs/kupord.reprovision_0.5~release_iphoneos-arm.deb
-Size: 13693888
-MD5sum: a586d04dc082063c0ba9b53e9e659bb9
-SHA1: b5af14ba635ff3a8332f488f6a2eb1525ef0764f
-SHA256: 572a39bccd38a349d8a33a5493162e4df1a059606a872cf498aa1e928f716141
-Section: Tweaks
-Description: 新版手机端签名IPA工具，更干净的界面
-Author: Matt Clarke
-Depiction: https://kupord.github.io/web/description.html?id=reprovision
-Name: ReProvision
-
-Package: kupord.rofi
-Version: 1.2.1
-Architecture: iphoneos-arm
-Depends: mobilesubstrate, ws.hbang.alderis, ws.hbang.common (>= 1.11), applist
-Filename: ./debs/kupord.rofi_1.2.1_iphoneos-arm.deb
-Size: 55852
-MD5sum: dc3049f8cd6ed96de84720a90835c417
-SHA1: b2a0687146a5d15ecc9e2382c9a2c4a3de93c340
-SHA256: cd920d4f7e9bb515842fb612d6b1bbedb17efdc75f9fbdad1d25663e677c33cb
-Section: Tweaks
-Description: 桌面创建一个侧边快捷，可以添加app快捷切换
-Author: Kef
-Depiction: https://kupord.github.io/web/description.html?id=rofi
-Name: Rofi
-
 Package: kupord.rooster
 Version: 1.0.0
 Architecture: iphoneos-arm
@@ -1588,23 +966,6 @@ Description: 3D Touch开关通知权限通知
 Author: iOS Creatix
 Depiction: https://kupord.github.io/web/description.html?id=rooster
 Name: Rooster
-
-Package: kupord.saw
-Version: 1.4.0
-Architecture: iphoneos-arm
-Maintainer: Frozen Penguin
-Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0), preferenceloader, applist, com.rpetrich.rocketbootstrap
-Filename: ./debs/kupord.saw_1.4.0_iphoneos-arm.deb
-Size: 737756
-MD5sum: 57800a330fd55394a3330f28a2acb692
-SHA1: 8a936c08b765a9e03df928dfbe231e158cb31659
-SHA256: fa348ca2bed65d7263d8cc55c8aa32e70e5a5d096aa76582a1ab274d8a3e47a7
-Section: Tweaks
-Description: 移除应用中黑/白条下方空余的位置
- 仅支持iPhoneX及以上机型
-Author: Frozen Penguin
-Depiction: https://kupord.github.io/web/description.html?id=saw
-Name: Saw
 
 Package: kupord.semirestore
 Version: 1.1.4
@@ -1674,52 +1035,34 @@ Depiction: https://kupord.github.io/web/description.html?id=showtouch
 Name: ShowTouch
 
 Package: kupord.shuffle
-Version: 1.3.3
+Version: 1.3.4
 Architecture: iphoneos-arm
 Maintainer: CreatureSurvive
 Depends: com.creaturecoding.libcspreferences
 Conflicts: com.cpdigitaldarkroom.placeholder
 Replaces: com.cpdigitaldarkroom.placeholder
-Filename: ./debs/kupord.shuffle_1.3.3_iphoneos-arm.deb
-Size: 294424
-MD5sum: ea2c8119e953b19692263ac831ce1eac
-SHA1: 4969bcac6b69ba2efdbe7835f577fb7b087dd419
-SHA256: bda587e043be3eae4ef09efe464e8af0e57a99f4b038acd83bd5b40afc23bae5
+Filename: ./debs/kupord.shuffle_1.3.4_iphoneos-arm.deb
+Size: 299612
+MD5sum: 8024bc248034fbe540e02db444c26c8b
+SHA1: 89cfd39fa3d5cc67949a4e6fb29ab79226beb7a8
+SHA256: 99cb4735964ee10d3143a1e70cc89807604eecfc9aa5694175db84de77136b7b
 Section: Tweaks
 Description: 更稳定的设置分类插件
 Author: CreatureSurvive
 Depiction: https://kupord.github.io/web/description.html?id=shuffle
 Name: Shuffle
 
-Package: kupord.smartvpn
-Version: 1.2.8
-Architecture: iphoneos-arm
-Maintainer: yabeizhao
-Depends: mobilesubstrate, firmware (>= 8.0), preferenceloader, applist, ws.hbang.common (>= 1.11)
-Filename: ./debs/kupord.smartvpn_1.2.8_iphoneos-arm.deb
-Size: 26484
-MD5sum: 7d566516d129dfdf44c91fc0928d8e50
-SHA1: be9e5cc8a8145d1f42e5b4bb037830097aebb996
-SHA256: d0a2467743650b623a6620f2e5d3ca5770cd3be7a37b347d66cd73399100c91a
-Section: Tweaks
-Priority: optional
-Description: 特定应用自动启动/关闭VPN功能，注意：这只是手机功能增强并不是梯子，梯子需自备
-Author: yabeizhao
-Depiction: https://kupord.github.io/web/description.html?id=smartvpn
-Name: SmartVPN
-Sponsor: yabeizhao
-
 Package: kupord.snapper2
-Version: 2.5.8
+Version: 2.5.10
 Architecture: iphoneos-arm
 Maintainer: Jonathan
 Depends: mobilesubstrate
 Conflicts: com.jontelang.snapper, com.jontelang.snapper2, com.jontelang.snapper2.packix
-Filename: ./debs/kupord.snapper2_2.5.8_iphoneos-arm.deb
-Size: 345732
-MD5sum: 94dbbeab8d538776a67c58cc09d8a33d
-SHA1: f0b9c3be1bfcbbac5a9c525d30013cafd6e39e4b
-SHA256: 4f5703e8ff324c4d0a5daf53501a75980ec57317d89e66454e272c3055b42a04
+Filename: ./debs/kupord.snapper2_2.5.10_iphoneos-arm.deb
+Size: 381908
+MD5sum: 07d6f6cceedcc33e76b98a44b1ed28a9
+SHA1: 9c709bcb09781cdc78caa7b06984154bb44a16a8
+SHA256: 4c33484a7b84dcfb8cd423db63e8ebf3e7dfb07dd2b266726a214687bffab3e6
 Section: Tweaks
 Description: 智能截图，自定义截图区域，也可以使用Ac手势截图
 Author: Jonathan Winger-lang
@@ -1727,49 +1070,17 @@ Depiction: https://kupord.github.io/web/description.html?id=snapper2
 Name: Snapper 2
 Sileodepiction: https://kupord.github.io/repo/js/sileo/wu.json
 
-Package: kupord.storeswitcher2
-Version: 1.0.3
-Architecture: iphoneos-arm
-Maintainer: subdiox
-Depends: firmware (>= 11.0), mobilesubstrate, firmware (<= 13.0)
-Filename: ./debs/kupord.storeswitcher2_1.0.3_iphoneos-arm.deb
-Size: 21468
-MD5sum: cd92c6fc5b1dcf01e73fc131d6a60e99
-SHA1: 22489b90fb57e4708cd9ef8f3fbea824f2704ba7
-SHA256: 922df22b0df6de307cedba8f911b912efad5c0a96a1bdfb5940a87b2568840be
-Section: Tweaks
-Description: 为App Store添加快捷切换账号功能（已经登陆过的账号）App Store头像设置里切换
-Author: subdiox
-Depiction: https://kupord.github.io/web/description.html?id=storeswitcher2
-Name: StoreSwitcher 2
-
-Package: kupord.sudial
-Version: 0.1-4
-Architecture: iphoneos-arm
-Maintainer: kupord
-Depends: firmware (>= 9.0), mobilesubstrate, preferenceloader
-Filename: ./debs/kupord.sudial_0.1-4_iphoneos-arm.deb
-Size: 281800
-MD5sum: b5052a2bb27bcbf360fddc32cfbc3c99
-SHA1: 9027ce28a82875ca24b545315e98e5dd2352f169
-SHA256: 413f6874d6ed22fa1ccc9491ac1cdfaf2782d787c33420ce94f9a56eee5215e6
-Section: Tweaks
-Description: T9快捷拨号，接通震动等等
-Author: Mao
-Depiction: https://kupord.github.io/web/description.html?id=sudial
-Name: SuDial
-
 Package: kupord.sugarcane
-Version: 1.0.2-1
+Version: 1.2-3
 Architecture: iphoneos-arm
 Maintainer: iOS Creatix, Rafferty W
 Depends: firmware (>= 11.0),mobilesubstrate
 Conflicts: com.raff.sugarcane, com.ioscreatix.sugarcane, com.hk.sugarcane13, com.crak.sugarcane13
-Filename: ./debs/kupord.sugarcane_1.0.2-1_iphoneos-arm.deb
-Size: 27464
-MD5sum: 5a3e1a19070867835a8db4eb60618af4
-SHA1: 5a26345c57bfea94e5b40fda1196c8f4aeb2b294
-SHA256: f2501a71de0f6110533e1599fa6473c20b8f45f4544655230b69bd13375f4870
+Filename: ./debs/kupord.sugarcane_1.2-3_iphoneos-arm.deb
+Size: 5672
+MD5sum: 9481bc809753c15743de680436b793e0
+SHA1: 1fea7a94155db3257402b67ae6f7b4d93eda88ac
+SHA256: 52467db3dedc88b6a62526eae78cf04e46f0d61cd1c0be7b9b4ba2c54392e637
 Section: Tweaks
 Description: 音量、亮度添加百分比。可设置字体大小及后缀。
 Author: iOS Creatix, Rafferty W
@@ -1859,140 +1170,6 @@ Depiction: https://kupord.github.io/web/description.html?id=tmxf
 Name: Cydia启动透明修复
 Sponsor: 威风基友mlpzaq9999
 
-Package: kupord.tsssaver
-Version: 1.2.0
-Architecture: iphoneos-arm
-Maintainer: WZteam
-Depends: com.modmyi.libswift4 (>= 4.0.3), firmware (>= 8.0)
-Filename: ./debs/kupord.tsssaver_1.2.0_iphoneos-arm.deb
-Size: 152128
-MD5sum: ec34960e5d86d472fb50b99299d94a35
-SHA1: 7d0349e52b56f9c7ffb769f827d09bcf2d745c4e
-SHA256: 6fe54f97f592e7438e461dbed01815e5a883ec5a15742e06d3dccb70f742a4e1
-Section: Tweaks
-Description: 手机端一键备份 SHSH2 降级证书
-Author: Jamie Bishop <jamie@dynastic.co>
-Depiction: https://kupord.github.io/web/description.html?id=tsssaver
-Name: TSS Saver
-Sponsor: kupord
-
-Package: kupord.velvet
-Version: 1.3
-Architecture: iphoneos-arm
-Maintainer: initWithFrame <initwithframe@protonmail.com>
-Depends: mobilesubstrate, firmware (>= 13.0), preferenceloader, net.limneos.libbulletin
-Conflicts: com.initwithframe.velvet
-Filename: ./debs/kupord.velvet_1.3_iphoneos-arm.deb
-Size: 172184
-MD5sum: 485f4bd2091411ce75f9850d52c5743c
-SHA1: 7358def6e35ca7ca8f8c78e7e4da38835444a316
-SHA256: e449a609227c2e8c0036e275b40b742d2857272c35747983ddaf1eb571efb6e5
-Section: Tweaks
-Description: 一个全新的通知横幅效果。汉化版。
-Author: initWithFrame <initwithframe@protonmail.com>
-Depiction: https://kupord.github.io/web/description.html?id=velvet
-Name: Velvet
-
-Package: kupord.wallpaperloader
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: Skitty
-Depends: mobilesubstrate, firmware (>= 13.0)
-Filename: ./debs/kupord.wallpaperloader_1.0_iphoneos-arm.deb
-Size: 11504
-MD5sum: 6bdc1993cda13d5e364f06ed6bd4122f
-SHA1: 69ad0fd3bb32e8ce29aaea14f3c27c2f50b8f954
-SHA256: 91bafa71104fba012abe07e94defdde38f8ca3a1be83214afc947463c8d4c695
-Section: Tweaks
-Description: 可以添加智能深色壁纸
-Author: Skitty
-Depiction: https://kupord.github.io/web/description.html?id=WallpaperLoader
-Name: WallpaperLoader
-
-Package: kupord.wechatcallkit
-Version: 1.1
-Architecture: iphoneos-arm
-Maintainer: Jianan Tian
-Installed-Size: 120
-Depends: mobilesubstrate
-Filename: ./debs/kupord.wechatcallkit_1.1_iphoneos-arm.deb
-Size: 12584
-MD5sum: c7dc632da95266fd245ab24cf3496b5e
-SHA1: 3b9e316795b23ae4d5cb238ffe33038d6c5140ad
-SHA256: d9efb5645fa4253ac824d4c6ef3b2067d691c0f957f07e4062604b9f416e1255
-Section: Tweaks
-Description: 开启微信callkit，支持最新版微信
-Author: Jianan Tian
-Depiction: https://kupord.github.io/web/description.html?id=wechatcallkit
-Name: WeChatCallKit
-
-Package: kupord.wechathookpro
-Version: 0.3-5
-Architecture: iphoneos-arm
-Maintainer: Nets
-Depends: firmware (>= 9.0), mobilesubstrate
-Filename: ./debs/kupord.wechathookpro_0.3-5_iphoneos-arm.deb
-Size: 1374040
-MD5sum: 35c1264e36dc0d84b67d287fc1135dd1
-SHA1: 4dd51d77c63b1c7fc5b1be022e52fbe2ff146879
-SHA256: 47e5b8607eb9fd3cf91ea9f5a57cc64cc45269b07d822e884a8e2e111329003e
-Section: Tweaks
-Description: 微信全能辅助,抢红包/斗图/蜜友/防撤回/自带防越狱检测
-Author: Mao
-Depiction: https://kupord.github.io/web/description.html?id=wechathookpro
-Name: WeChatHookPro
-
-Package: kuprod.appstoreplusplus
-Version: 0.9.14-2
-Architecture: iphoneos-arm
-Maintainer: CokePokes
-Depends: firmware (>= 11.0), mobilesubstrate
-Conflicts: com.unlimapps.uaupdatetools
-Filename: ./debs/kuprod.appstoreplusplus_0.9.14-2_iphoneos-arm.deb
-Size: 560472
-MD5sum: 26cfe3beb77d6c224353554f7a8e6256
-SHA1: 92307e10c935eccb818b015e3a57498d28dc5c4c
-SHA256: 2efc7ec114d4680e1458fb15aafc0ffe1bdb51f9b18ec3abdd4442fd7a2e7ad6
-Section: Tweaks
-Priority: optional
-Description: app降级插件,更新支持13
-Author: CokePokes
-Depiction: https://kupord.github.io/web/description.html?id=appstoreplusplus
-Name: AppStore++
-
-Package: kuprod.crashreporter
-Version: 1.1.6.0-1
-Architecture: iphoneos-arm
-Pre-Depends: firmware (>= 4.0)
-Depends: coreutils, dpkg, grep, jp.ashikase.libcrashreport (>= 1.1.0), jp.ashikase.libpackageinfo (>= 1.1.0), jp.ashikase.techsupport (>= 1.5.0), mobilesubstrate, preferenceloader
-Filename: ./debs/kuprod.crashreporter_1.1.6.0-1_iphoneos-arm.deb
-Size: 239184
-MD5sum: d95265e6e5475c60af09a85c52628b2e
-SHA1: 544129a33a9db12727ba6fd656b0b8806c53d8d9
-SHA256: 8a3cc32c06aecdc057b02d4734795d6418f4452a110f4cb84883fbf5be1fe4c9
-Section: Tweaks
-Description: 崩溃日记记录，用于检测插件问题
-Author: Lacnce Fetters
-Depiction: https://kupord.github.io/web/description.html?id=crashreporter
-Name: CrashReporter
-
-Package: kuprod.st5
-Version: 5.1.9
-Architecture: iphoneos-arm
-Maintainer: sharedRoutine
-Depends: mobilesubstrate, preferenceloader, applist, com.rpetrich.rocketbootstrap
-Filename: ./debs/kuprod.st5_5.1.9_iphoneos-arm.deb
-Size: 428280
-MD5sum: 66fb8364d3752f9cb022bfd4d419e785
-SHA1: 63b68b94986a3fa84d46bc9549465f5835739e39
-SHA256: f629c64231ae2ed042c4cc95f33c20eac8ac58913306b0807dacd5acc880b32b
-Section: Tweaks
-Description: 最强大的桌面自定义软件，具体效果预览截图
-Author: sharedRoutine
-Depiction: https://kupord.github.io/web/description.html?id=st5
-Name: Springtomize 5
-Sponsor: kupord
-
 Package: kuprod.swipeselection-pro
 Version: 1.0.3-2
 Architecture: iphoneos-arm
@@ -2009,20 +1186,4 @@ Description: 自带键盘快捷移动光标
 Author: iKy1e
 Depiction: https://kupord.github.io/web/description.html?id=swipeselection-pro
 Name: SwipeSelection Pro
-
-Package: kuprod.togglow
-Version: 1.0.8
-Architecture: iphoneos-arm
-Maintainer: smokin1337
-Depends: mobilesubstrate, org.thebigboss.libcolorpicker
-Filename: ./debs/kuprod.togglow_1.0.8_iphoneos-arm.deb
-Size: 341812
-MD5sum: 17f4bcf0b171c3c23d7881e50e288ba4
-SHA1: 8bc34c4e23c2b7dc1729bb72dfd0f9533044a382
-SHA256: 51318b80b85d8b26b6b2c1de70881680a2234070e1648ce41bb5c9953f051c4f
-Section: Tweaks
-Description: 个性化控制中心,让控制中心外圈发光
-Author: smokin1337
-Depiction: https://kupord.github.io/web/description.html?id=togglow
-Name: Togglow
 

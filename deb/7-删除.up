@@ -1,0 +1,5 @@
+bash -c 
+cd /Users/me/repo/deb;
+rm -r -f /Users/me/repo/deb/*.deb
+rm -r -f /Users/me/repo/deb/a
+exit
