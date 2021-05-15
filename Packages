@@ -253,6 +253,24 @@ Depiction: https://kupord.github.io/web/description.html?id=ccmax
 Name: CCMax
 Sponsor: kupord
 
+Package: kupord.ccmax
+Version: 1.0.2
+Architecture: iphoneos-arm
+Maintainer: kupord
+Depends: firmware (>= 13.0), mobilesubstrate, com.opa334.ccsupport
+Conflicts: kupord.flipconvert, kupord.flipconvert13, kupord.ccmodules, netskao.ccpower, netskao.alipayscan, netskao.wechatscan, kupord.ccplus
+Filename: ./debs/kupord.ccmax_1.0.2_iphoneos-arm.deb
+Size: 335072
+MD5sum: e9f30d516a55dd6f2b9e933eff5b4813
+SHA1: 839c4532fe8836bf9bdea755a369c8a5f2a0834b
+SHA256: 600044f847b61082111e6887350f887d60bbe9d2e93170084f0f8c0b5bdf2d2a
+Section: Tweaks
+Description: 控制中心快捷按键,添加高清图标
+Author: kupord
+Depiction: https://kupord.github.io/web/description.html?id=ccmax
+Name: CCMax
+Sponsor: kupord
+
 Package: kupord.classickeyboardxs
 Version: 1.1-5
 Architecture: iphoneos-arm
