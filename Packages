@@ -501,21 +501,21 @@ Depiction: https://kupord.github.io/web/description.html?id=dockx
 Name: DockX
 
 Package: kupord.filza
-Version: 3.8.2-6
+Version: 3.9.0-2
 Architecture: iphoneos-arm
 Maintainer: TIGI Software
 Depends: firmware (>= 9.0), zip, unzip, gzip, unrar, p7zip
 Conflicts: com.tigisoftware.filza64bit, com.tigisoftware.filza
-Filename: ./debs/kupord.filza_3.8.2-6_iphoneos-arm.deb
-Size: 10272728
-MD5sum: 24f5f68f50cde899a1098e1f4fb624e2
-SHA1: 684239ab2e1ebac107b4226db6c227e6b3d290a9
-SHA256: 574868afcb1a7824123d3ca1ba1e448008354d4b09050ef6a7139ccca649c014
+Filename: ./debs/kupord.filza_3.9.0-2_iphoneos-arm.deb
+Size: 10442600
+MD5sum: 717003bf21061e1849bf98bd4438d155
+SHA1: ce805a62c5c302e1700b0c1befc90a731d3aae58
+SHA256: aef187cd57a7a6ea62c382314295f11419d96398a156ae7493a66c28773b8b0f
 Section: Tweaks
 Description: 越狱必备插件，文件管理器，破解版
 Author: TIGI Software
 Depiction: https://kupord.github.io/web/description.html?id=filza
-Name: Filza File Manager 3.8.2
+Name: Filza File Manager 3.9.0
 
 Package: kupord.flexlist
 Version: 1.3-2
