@@ -1,7 +1,7 @@
 bash -c 
-cd /Users/me/repo/deb;
+cd /Users/kupord/repo/deb;
 find . -name '*.DS_Store' -type f -delete
-dpkg-deb -b a/ /Users/me/repo/debs/
-rm -r -f /Users/me/repo/deb/*.deb
-rm -r -f /Users/me/repo/deb/a
+dpkg-deb -b a/ /Users/kupord/repo/debs/
+rm -r -f /Users/kupord/repo/deb/*.deb
+rm -r -f /Users/kupord/repo/deb/a
 exit

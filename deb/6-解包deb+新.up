@@ -1,22 +1,22 @@
 bash -c
-cd /Users/me/repo/deb
+cd /Users/kupord/repo/deb
 dpkg-deb -x ./*.deb ./a
 dpkg-deb -e ./*.deb ./a/DEBIAN
 
-cd /Users/me/repo/web/msxq
+cd /Users/kupord/repo/web/msxq
 cp yuan 样本
 
 
 
-cd /Users/me/repo/deb/
+cd /Users/kupord/repo/deb/
 sudo chmod -R 755 a
-pbcopy < /Users/me/repo/deb/网页.txt
-pbpaste >>/Users/me/repo/deb/a/DEBIAN/control
+pbcopy < /Users/kupord/repo/deb/网页.txt
+pbpaste >>/Users/kupord/repo/deb/a/DEBIAN/control
 pbcopy < /dev/null
-open -a TextEdit /Users/me/repo/web/msxq/样本
+open -a TextEdit /Users/kupord/repo/web/msxq/样本
 
 
 
-open -a TextEdit /Users/me/repo/deb/a/DEBIAN/control
+open -a TextEdit /Users/kupord/repo/deb/a/DEBIAN/control
 
 exit

@@ -55,10 +55,10 @@ Maintainer: kupord
 Installed-Size: 416
 Depends: mobilesubstrate, org.thebigboss.libcolorpicker
 Filename: ./debs/kupord.actionbar_1.3.7_iphoneos-arm.deb
-Size: 47544
-MD5sum: 16c40c18e20f053c1fe1026ec7384273
-SHA1: 6e0a7ea3837e8f4de06b4675a3bdfb1234007a86
-SHA256: 447b0f451eb5062a9c06776d7b837c686db08d4bf7f7537f45204068cbfcff60
+Size: 47536
+MD5sum: 2a023fa5565983dbea4e6617e83d4f06
+SHA1: 0681a72f31a0e9c0171c94ee2a79768e1973e16b
+SHA256: b0ffefadf2a959f0ed6cb3da39bc975463849f98b53588eb90f015bfe3af8b5c
 Section: Tweaks
 Description: 在iphone的键盘上增加,快速粘贴,复制,全线按钮,汉化破解版
 Author: RestiveConch

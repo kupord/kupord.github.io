@@ -1,7 +1,7 @@
 bash -c 
-cd /Users/me/repo;
+cd /Users/kupord/repo;
 dpkg-scanpackages -m ./debs > Packages
-rm -r -f /Users/me/repo/Packages.bz2
+rm -r -f /Users/kupord/repo/Packages.bz2
 bzip2 Packages
 dpkg-scanpackages -m ./debs > Packages
 exit

@@ -1,6 +1,6 @@
 bash -c 
-cd /Users/me/repo/deb/
+cd /Users/kupord/repo/deb/
 sudo chmod -R 755 a
-open -a TextEdit /Users/me/repo/deb/a/DEBIAN/control
+open -a TextEdit /Users/kupord/repo/deb/a/DEBIAN/control
 exit
 
